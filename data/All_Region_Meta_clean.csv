@@ -1,0 +1,1611 @@
+SurveyNum,Date,Date2,Study_period,Observer,Site_ID,Proportion_surveyed,Region,Sub_region,Location,Type,Depth_ft,trans_area,Site_area_m2
+2894,10/30/2015,Fall 2015,18,Ed and Olivia,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,12,76.5,189
+27,2/3/2013,Winter 2013,1,Jen Savaro,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,16,85.5,171
+28,2/3/2013,Winter 2013,1,Kayelyn,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,16,85.5,171
+112,3/19/2013,Spring 2013,2,Roger Grimes,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,15,85.5,171
+113,3/19/2013,Spring 2013,2,Ben Barker,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,18,85.5,171
+179,6/12/2013,Summer 2013,3,Catie/Lindsay,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,12,85.5,171
+180,6/12/2013,Summer 2013,3,Alexis/Alex,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,17,85.5,171
+181,7/22/2013,Summer 2013,4,Alex/Catie,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,14,85.5,171
+182,7/22/2013,Summer 2013,4,Alex/Catie,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,14,85.5,171
+281,10/7/2013,Fall 2013,5,Colin and Catie,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,17,85.5,171
+282,10/7/2013,Fall 2013,5,Colin and Catie,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,17,85.5,171
+319,11/22/2013,Fall 2013,6,Steve Schalk (Pennekamp),KL-P2,1,Florida,FKNMS,Key Largo,patch,16,85.5,171
+376,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,18,85.5,171
+377,2/10/2014,Winter 2014,7,Liz and Jess,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,17,85.5,171
+476,3/31/2014,Spring 2014,8,Jess and Taylor,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,12,85.5,171
+477,3/31/2014,Spring 2014,8,Jess and Taylor,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,12,85.5,171
+478,3/31/2014,Spring 2014,8,Jess and Taylor,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,12,85.5,171
+1447,5/28/2014,Spring 2014,9,Becky and Charilie,KL-P2,1,Florida,FKNMS,Key Largo,patch,18,85.5,171
+2210,8/6/2014,Summer 2014,10,Jes and Jessie,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,18,85.5,171
+2211,8/6/2014,Summer 2014,10,Liz and Emily,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,18,85.5,171
+2258,9/4/2014,Fall 2014,11,Lad and Amy,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,17,85.5,171
+2259,9/4/2014,Fall 2014,11,Liz and Alyssa,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,14,85.5,171
+2366,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,15,85.5,171
+2367,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,15,85.5,171
+2368,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,15,85.5,171
+2442,12/11/2014,Winter 2015,13,Alyssa and Anna,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,17,85.5,171
+2443,12/11/2014,Winter 2015,13,Liz and Gracie,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,16,85.5,171
+2529,1/27/2015,Winter 2015,14,Amy and Jack,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,21,85.5,171
+2530,1/27/2015,Winter 2015,14,Liz and Kristen,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,16,85.5,171
+2630,3/23/2015,Spring 2015,15,Anna and BZ,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,16,85.5,171
+2631,3/23/2015,Spring 2015,15,Anna and BZ,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,16,85.5,171
+2632,3/23/2015,Spring 2015,15,Anna and BZ,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,15,85.5,171
+2749,6/4/2015,Summer 2015,16,Lad and Steve Schalk,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,15,85.5,171
+2750,6/4/2015,Summer 2015,16,Ed and Carlos,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,12,85.5,171
+2895,10/30/2015,Fall 2015,18,Ed and Olivia,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,12,90,189
+50,2/5/2013,Winter 2013,1,Alex Kattan,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,9,94.5,189
+52,2/5/2013,Winter 2013,1,Anne Benolkin,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,9,94.5,189
+120,3/20/2013,Spring 2013,2,Lad,DANGER 88,1,Florida,FKNMS,Key Largo,patch,10,94.5,189
+167,6/11/2013,Summer 2013,3,Ellie/Alex,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+168,6/11/2013,Summer 2013,3,Catie/Lindsay,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+211,8/6/2013,Summer 2013,4,Lindsay/Liz B,DANGER 88,1,Florida,FKNMS,Key Largo,patch,5,94.5,189
+289,10/8/2013,Fall 2013,5,Allison,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,11,94.5,189
+290,10/8/2013,Fall 2013,5,Allison,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,11,94.5,189
+309,11/19/2013,Fall 2013,6,Catie and Lad,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,5,94.5,189
+310,11/19/2013,Fall 2013,6,Catie and Lad,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,5,94.5,189
+341,1/26/2014,Winter 2014,7,Elissa and Taylor,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,10,94.5,189
+342,1/26/2014,Winter 2014,7,Jess and Lad,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+388,3/12/2014,Spring 2014,8,Liz and Taylor,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,9,94.5,189
+389,3/12/2014,Spring 2014,8,Liz and Taylor,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,9,94.5,189
+390,3/12/2014,Spring 2014,8,Liz and Taylor,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,9,94.5,189
+1438,6/15/2014,Summer 2014,9,"Lad, Keri, Jes, Jessie",DANGER 88,1,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2194,8/4/2014,Summer 2014,10,Emily and Jessie,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2195,8/4/2014,Summer 2014,10,Liz and Jeremy,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2256,9/4/2014,Fall 2014,11,Lad and Amy,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2257,9/4/2014,Fall 2014,11,Liz and Alyssa,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,9,94.5,189
+2325,9/24/2014,Fall 2014,12,Alyssa and Anna,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2326,9/24/2014,Fall 2014,12,Alyssa and Anna,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2327,9/24/2014,Fall 2014,12,Alyssa and Anna,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2414,12/9/2014,Winter 2015,13,Liz and Alyssa,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2415,12/9/2014,Winter 2015,13,Anna and Ashtyn,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2501,1/21/2015,Winter 2015,14,Liz and BZ,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2502,1/21/2015,Winter 2015,14,Anna and Jack,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2646,3/24/2015,Spring 2015,15,Jack and Allison,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2647,3/24/2015,Spring 2015,15,Jack and Allison,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2648,3/24/2015,Spring 2015,15,Jack and Allison,DANGER 88,0.33,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2697,5/20/2015,Spring 2015,16,Lizard and BZ,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,10,94.5,189
+2698,5/20/2015,Spring 2015,16,Anna and Ashtyn,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2772,7/20/2015,Summer 2015,17,Emily and Lad,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+2773,7/20/2015,Summer 2015,17,Miranda and Kara,DANGER 88,0.5,Florida,FKNMS,Key Largo,patch,8,94.5,189
+5100,8/29/2016,Summer 2016,20,Michelle Johnston,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,63,100,7850
+5101,8/29/2016,Summer 2016,20,Kevin Buch,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,73,100,7850
+5102,8/29/2016,Summer 2016,20,Stephanie Green,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5103,8/29/2016,Summer 2016,20,Raven Walker,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,65,100,7850
+5104,8/29/2016,Summer 2016,20,Michelle Johnston,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,63,100,7850
+5105,8/29/2016,Summer 2016,20,Kevin Buch,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,73,100,7850
+5106,8/29/2016,Summer 2016,20,Stephanie Green,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5107,8/29/2016,Summer 2016,20,Raven Walker,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,70,100,7850
+5108,8/29/2016,Summer 2016,20,Stephanie Green,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5109,8/29/2016,Summer 2016,20,Stephanie Green,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,85,100,7850
+5110,8/29/2016,Summer 2016,20,Kevin Buch,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5111,8/29/2016,Summer 2016,20,Michelle Johnston,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,70,100,7850
+5112,8/29/2016,Summer 2016,20,Steve Gitings,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,81,100,7850
+5113,8/29/2016,Summer 2016,20,Stephanie Green,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,79,100,7850
+5114,8/29/2016,Summer 2016,20,Kevin Buch,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5115,8/29/2016,Summer 2016,20,Michelle Johnston,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,76,100,7850
+5116,8/30/2016,Summer 2016,20,Kevin Buch,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5117,8/30/2016,Summer 2016,20,Stephanie Green,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,73,100,7850
+5118,8/30/2016,Summer 2016,20,Michelle Johnston,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5119,8/30/2016,Summer 2016,20,Raven Walker,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,78,100,7850
+5120,8/30/2016,Summer 2016,20,Kevin Buch,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5121,8/30/2016,Summer 2016,20,Stephanie Green,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,73,100,7850
+5122,8/30/2016,Summer 2016,20,Michelle Johnston,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5123,8/30/2016,Summer 2016,20,Raven Walker,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,78,100,7850
+5300,6/26/2018,Summer 2018,23,Andrea Stromeyer,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,70,100,7850
+5301,6/26/2018,Summer 2018,23,Derek Hogan,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5302,6/26/2018,Summer 2018,23,Bill Hall,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5303,6/26/2018,Summer 2018,23,Steve Gittings,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5304,6/26/2018,Summer 2018,23,Andrea Stromeyer,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,70,100,7850
+5305,6/26/2018,Summer 2018,23,Derek Hogan,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5306,6/26/2018,Summer 2018,23,Kris Leefers,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,74,100,7850
+5307,6/26/2018,Summer 2018,23,Steve Gittings,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5308,6/26/2018,Summer 2018,23,Steve Gittings,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,90,100,7850
+5309,6/26/2018,Summer 2018,23,,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5310,6/26/2018,Summer 2018,23,Derek Hogan,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5311,6/26/2018,Summer 2018,23,Bill Hall,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5312,6/26/2018,Summer 2018,23,Steve Gittings,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5313,6/26/2018,Summer 2018,23,Andrea Stromeyer,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,80,100,7850
+5314,6/26/2018,Summer 2018,23,Derek Hogan,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5315,6/26/2018,Summer 2018,23,Kris Leefers,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+5401,8/26/2019,Summer 2019,26,Kelly Drinnen,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,79,100,7850
+5402,8/26/2019,Summer 2019,26,Darcy Lutes,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,100,100,7850
+5403,8/26/2019,Summer 2019,26,Leah Neal,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,71,100,7850
+5404,8/26/2019,Summer 2019,26,Kevin Buch,WFGB#2,0.25,FGBNMS,FGBNMS,West Bank,continuous,76,100,7850
+5429,8/28/2019,Summer 2019,26,Leah Neal,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,60,100,7850
+5430,8/28/2019,Summer 2019,26,Kevin Buch,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,70,100,7850
+5431,8/28/2019,Summer 2019,26,Kelly Drinnen,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5432,8/28/2019,Summer 2019,26,Darcy Lutes,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,65,100,7850
+5433,8/28/2019,Summer 2019,26,Leah Neal,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,60,100,7850
+5434,8/28/2019,Summer 2019,26,Kevin Buch,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,70,100,7850
+5435,8/28/2019,Summer 2019,26,Kelly Drinnen,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5436,8/28/2019,Summer 2019,26,Darcy Lutes,WFGB#3,0.25,FGBNMS,FGBNMS,West Bank,continuous,65,100,7850
+5437,8/28/2019,Summer 2019,26,Leah Neal,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,100,100,7850
+5438,8/28/2019,Summer 2019,26,Kelly Drinnen,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5439,8/28/2019,Summer 2019,26,Darcy Lutes,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5440,8/28/2019,Summer 2019,26,Kevin Buch,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,77,100,7850
+5441,8/28/2019,Summer 2019,26,Leah Neal,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,73,100,7850
+5442,8/28/2019,Summer 2019,26,Kelly Drinnen,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,69,100,7850
+5443,8/28/2019,Summer 2019,26,Darcy Lutes,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,72,100,7850
+5444,8/28/2019,Summer 2019,26,Kevin Buch,WFGB#1,0.25,FGBNMS,FGBNMS,West Bank,continuous,75,100,7850
+2882,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,19,108,171
+2883,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,19,108,171
+2884,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P2,0.33,Florida,FKNMS,Key Largo,patch,19,108,171
+2798,7/23/2015,Summer 2015,17,Emily and Lad,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,15,117,171
+2799,7/23/2015,Summer 2015,17,Carlos and Allison Estape,KL-P2,0.5,Florida,FKNMS,Key Largo,patch,17,117,171
+39,2/4/2013,Winter 2013,1,Alex Kattan,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,21,133,266
+40,2/4/2013,Winter 2013,1,Mackenzie Brooke,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,21,133,266
+131,4/21/2013,Spring 2013,2,Ben Barker,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,25,133,266
+132,4/21/2013,Spring 2013,2,Anne/Lad,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,23,133,266
+177,6/12/2013,Summer 2013,3,Catie/Lindsay,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,15,133,266
+178,6/12/2013,Summer 2013,3,Alexis/Alex,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,22,133,266
+187,7/22/2013,Summer 2013,4,Alex/Catie,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,19,133,266
+188,7/22/2013,Summer 2013,4,Alex/Catie,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,24,133,266
+265,10/5/2013,Fall 2013,5,Austen,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,19,133,266
+266,10/5/2013,Fall 2013,5,Austen,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,20,133,266
+323,11/22/2013,Fall 2013,6,Steve Schalk (Pennekamp),KL-P6,1,Florida,FKNMS,Key Largo,patch,21,133,266
+370,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,24,133,266
+371,2/10/2014,Winter 2014,7,Liz and Jess,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,24,133,266
+415,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,23,133,266
+416,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,23,133,266
+417,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,23,133,266
+1451,5/28/2014,Spring 2014,9,Trudy and Ernie,KL-P6,1,Florida,FKNMS,Key Largo,patch,23,133,266
+2216,8/12/2014,Summer 2014,10,Liz and Emily,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,26,133,266
+2217,8/12/2014,Summer 2014,10,Jes and Jessie,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,17,133,266
+2240,9/2/2014,Fall 2014,11,Lad and Gracie,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,21,133,266
+2241,9/2/2014,Fall 2014,11,Liz and Anna,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,21,133,266
+2318,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,20,133,266
+2319,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,20,133,266
+2320,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,20,133,266
+2422,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,17,133,266
+2423,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,20,133,266
+2517,1/22/2015,Winter 2015,14,Liz and BZ,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,22,133,266
+2518,1/22/2015,Winter 2015,14,Amy and Kristen,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,8,133,266
+2656,3/25/2015,Spring 2015,15,Amy and Anna,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,20,133,266
+2657,3/25/2015,Spring 2015,15,Amy and Anna,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,20,133,266
+2658,3/25/2015,Spring 2015,15,Amy and Anna,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,20,133,266
+2705,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,21,133,266
+2706,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,22,133,266
+2891,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,26,154,266
+2892,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,26,154,266
+2893,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P6,0.33,Florida,FKNMS,Key Largo,patch,26,154,266
+2806,7/24/2015,Summer 2015,17,Emily and Lad,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,12,180,432
+2807,7/24/2015,Summer 2015,17,Carlos and Allison Estape,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,15,180,432
+2780,7/21/2015,Summer 2015,17,Emily and Lad,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,21,182,266
+2781,7/21/2015,Summer 2015,17,Ellie and Amy,KL-P6,0.5,Florida,FKNMS,Key Largo,patch,21,182,266
+24,2/3/2013,Winter 2013,1,Jen Savaro,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+26,2/3/2013,Winter 2013,1,Kayelyn S,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+110,3/19/2013,Spring 2013,2,Lad,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,12,192,384
+111,3/19/2013,Spring 2013,2,Lindsay Sweet,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+149,6/3/2013,Summer 2013,3,Catie/Alex,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,11,192,384
+150,6/3/2013,Summer 2013,3,Steve,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,11,192,384
+183,7/22/2013,Summer 2013,4,Alex/Catie/Trudy,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,18,192,384
+184,7/22/2013,Summer 2013,4,Alex/Catie/Trudy,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,18,192,384
+283,10/7/2013,Fall 2013,5,Colin and Catie,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,13,192,384
+284,10/7/2013,Fall 2013,5,Colin and Catie,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,13,192,384
+320,11/22/2013,Fall 2013,6,Steve Schalk (Pennekamp),KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+321,11/22/2013,Fall 2013,6,Steve Schalk (Pennekamp),KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+374,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+375,2/10/2014,Winter 2014,7,Liz and Jess,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,16,192,384
+421,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,14,192,384
+422,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,14,192,384
+423,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,14,192,384
+1448,5/28/2014,Spring 2014,9,Becky and Charilie,KL-P4,1,Florida,FKNMS,Key Largo,patch,17,192,384
+2212,8/12/2014,Summer 2014,10,Liz and Emily,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,19,192,384
+2213,8/12/2014,Summer 2014,10,Jes and Jessie,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,17,192,384
+2266,9/5/2014,Fall 2014,11,Lad and Alyssa,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+2267,9/5/2014,Fall 2014,11,Liz and Ashtyn,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+2331,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,15,192,384
+2332,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,15,192,384
+2333,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,15,192,384
+2426,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+2427,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,14,192,384
+2521,1/22/2015,Winter 2015,14,Liz and BZ,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,192,384
+2522,1/22/2015,Winter 2015,14,Amy and Kristen,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,17,192,384
+2672,3/26/2015,Spring 2015,15,Jack and BZ,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,17,192,384
+2673,3/26/2015,Spring 2015,15,Jack and BZ,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,17,192,384
+2674,3/26/2015,Spring 2015,15,Jack and BZ,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,17,192,384
+2709,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,13,192,384
+2710,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,11,192,384
+2885,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,16,192,384
+2886,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,18,192,384
+2887,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P4,0.33,Florida,FKNMS,Key Largo,patch,20,192,384
+1,1/26/2013,Winter 2013,1,Allison,FKSP1,1,Florida,FKNMS,Matecumbe Key,patch,13,216,432
+124,4/3/2013,Spring 2013,2,Danielle,FKSP1,1,Florida,FKNMS,Matecumbe Key,patch,12,216,432
+216,9/4/2013,Fall 2013,5,Allison/Lindsay/Carlos/Steph/Catie,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,9,216,432
+217,9/4/2013,Fall 2013,5,Allison/Lindsay/Carlos/Steph/Catie,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,9,216,432
+349,2/8/2014,Winter 2014,7,Lad and Allison,FKSP1,1,Florida,FKNMS,Matecumbe Key,patch,15,216,432
+479,4/5/2014,Spring 2014,8,Lad,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,14,216,432
+480,4/5/2014,Spring 2014,8,Liz,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,12,216,432
+481,4/5/2014,Spring 2014,8,Lad and Liz,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,13,216,432
+1002,2/16/2013,Winter 2013,1,Chris Brizzslara,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,47,216,234
+1006,2/16/2013,Winter 2013,1,Robert Georgepole,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,47,216,234
+1107,5/11/2013,Spring 2013,2,Tony,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,47,216,234
+1108,5/11/2013,Spring 2013,2,Anna,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,47,216,234
+1203,6/22/2013,Summer 2013,3,Nadija,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,44,216,234
+1204,6/22/2013,Summer 2013,3,Stopher,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,49,216,234
+1305,10/26/2013,Fall 2013,4,Dan,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,50,216,234
+1306,10/26/2013,Fall 2013,4,Colin,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,44,216,234
+1405,2/1/2014,Winter 2014,6,Tracy,Buck-P1,0.5,USVI,BIRNM,Buck Island,patch,50,216,234
+1445,6/23/2014,Summer 2014,9,Allison Estape,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,16,216,432
+1446,6/23/2014,Summer 2014,9,Carlos Estape,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,12,216,432
+2184,7/29/2014,Summer 2014,10,Jessie,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,12,216,432
+2185,7/29/2014,Summer 2014,10,Allison,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,11,216,432
+2268,9/10/2014,Fall 2014,11,Amy and Carlos,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,12,216,432
+2269,9/10/2014,Fall 2014,11,Amy and Carlos,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,12,216,432
+2357,9/28/2014,Fall 2014,12,Amy and Anna,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,15,216,432
+2358,9/28/2014,Fall 2014,12,Amy and Anna,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,15,216,432
+2359,9/28/2014,Fall 2014,12,Amy and Anna,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,15,216,432
+2485,12/31/2014,Winter 2015,13,Allison and Carlos,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,16,216,432
+2486,12/31/2014,Winter 2015,13,Lad and Liz,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,13,216,432
+2537,1/30/2015,Winter 2015,14,Amy and Anna,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,14,216,432
+2538,1/30/2015,Winter 2015,14,Allison and BZ,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,16,216,432
+2621,3/22/2015,Spring 2015,15,Allison and Carlos,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,14,216,432
+2622,3/22/2015,Spring 2015,15,Allison and Carlos,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,14,216,432
+2623,3/22/2015,Spring 2015,15,Allison and Carlos,FKSP1,0.33,Florida,FKNMS,Matecumbe Key,patch,14,216,432
+2757,6/10/2015,Summer 2015,16,Lad and Abbey,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,15,216,432
+2758,6/10/2015,Summer 2015,16,Carlos and Miranda,FKSP1,0.5,Florida,FKNMS,Matecumbe Key,patch,14,216,432
+1003,2/16/2013,Winter 2013,1,Stopher Slade,Buck-I1,0.33,USVI,BIRNM,Buck Island,continuous,37,250,2000
+1005,2/16/2013,Winter 2013,1,Wes,Buck-I1,0.33,USVI,BIRNM,Buck Island,continuous,25,250,2000
+63,2/6/2013,Winter 2013,1,Ben Barker,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+65,2/6/2013,Winter 2013,1,Lindsay Sweet,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+114,3/20/2013,Spring 2013,2,Roger/Patricia Grimes,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+169,6/11/2013,Summer 2013,3,Ellie/Alex,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,12,272,544
+170,6/11/2013,Summer 2013,3,Catie/Steve,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,10,272,544
+201,8/5/2013,Summer 2013,4,Alex/Catie,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,10.5,272,544
+202,8/5/2013,Summer 2013,4,Alex/Catie,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,10.5,272,544
+271,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+272,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+358,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+359,2/10/2014,Winter 2014,7,Liz and Jess,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+385,3/12/2014,Spring 2014,8,Liz and Taylor,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+386,3/12/2014,Spring 2014,8,Liz and Taylor,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+387,3/12/2014,Spring 2014,8,Liz and Taylor,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+2224,8/13/2014,Summer 2014,10,Liz and Emily,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,16,272,544
+2225,8/13/2014,Summer 2014,10,Jes and Jessie,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+2246,9/3/2014,Fall 2014,11,Lad and Ashtyn,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+2247,9/3/2014,Fall 2014,11,Liz and Gracie,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+2338,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P14,0.33,Florida,FKNMS,Key Largo,patch,10,272,544
+2339,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P14,0.33,Florida,FKNMS,Key Largo,patch,10,272,544
+2340,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P14,0.33,Florida,FKNMS,Key Largo,patch,10,272,544
+2408,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+2409,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+2505,1/21/2015,Winter 2015,14,Liz and BZ,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+2506,1/21/2015,Winter 2015,14,Anna and Jack,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,13,272,544
+2637,3/24/2015,Spring 2015,15,Jack and Carlos,KL-P14,0.33,Florida,FKNMS,Key Largo,patch,17,272,544
+2638,3/24/2015,Spring 2015,15,Jack and Carlos,KL-P14,0.33,Florida,FKNMS,Key Largo,patch,17,272,544
+2639,3/24/2015,Spring 2015,15,Jack and Carlos,KL-P14,0.33,Florida,FKNMS,Key Largo,patch,17,272,544
+2691,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,272,544
+2692,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,14,272,544
+115,3/20/2013,Spring 2013,2,Danielle,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,280,544
+1013,2/17/2013,Winter 2013,1,Norm,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,53,285,368
+1105,5/11/2013,Spring 2013,2,Dan,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,54,285,368
+1216,6/23/2013,Summer 2013,3,Dale,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,48,285,368
+1303,10/26/2013,Fall 2013,4,Tracy,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,50,285,368
+1403,2/1/2014,Winter 2014,6,Tracy,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,50,285,368
+2766,7/20/2015,Summer 2015,17,Emily and Lad,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,15,296,544
+2767,7/20/2015,Summer 2015,17,Miranda and Kara,KL-P14,0.5,Florida,FKNMS,Key Largo,patch,17,296,544
+2796,7/23/2015,Summer 2015,17,Emily and Lad,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,15,304,384
+2797,7/23/2015,Summer 2015,17,Carlos and Allison Estape,KL-P4,0.5,Florida,FKNMS,Key Largo,patch,16,304,384
+1011,2/17/2013,Winter 2013,1,Robert Georgepole,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,57,308,368
+1106,5/11/2013,Spring 2013,2,John,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,53,308,368
+1215,6/23/2013,Summer 2013,3,Tony,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,49,308,368
+1304,10/26/2013,Fall 2013,4,Anka,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,56,308,368
+1404,2/1/2014,Winter 2014,6,Nadija,Buck-P3,0.5,USVI,BIRNM,Buck Island,patch,54,308,368
+14,1/31/2013,Winter 2013,1,Cate,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,17,377,754
+16,1/31/2013,Winter 2013,1,Nick Casper,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,17,377,754
+237,9/25/2013,Fall 2013,5,Colin,BISC-P12a,1,Florida,BNP,Biscayne,patch,15,377,754
+454,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,10,377,754
+455,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,10,377,754
+456,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,10,377,754
+2277,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-P12a,0.33,Florida,BNP,Biscayne,patch,20,377,754
+2278,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-P12a,0.33,Florida,BNP,Biscayne,patch,20,377,754
+2279,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-P12a,0.33,Florida,BNP,Biscayne,patch,20,377,754
+2386,5/22/2014,Spring 2014,9,Ana and Kristian,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,18,377,754
+2473,12/19/2014,Winter 2015,13,Liz and Alyssa,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,10,377,754
+2474,12/19/2014,Winter 2015,13,Amy and Ashtyn,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,15,377,754
+2555,2/11/2015,Winter 2015,14,Liz and Anna,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,15,377,754
+2556,2/11/2015,Winter 2015,14,Amy and Ashtyn,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,15,377,754
+2578,3/16/2015,Spring 2015,15,Allison and Carlos,BISC-P12a,0.33,Florida,BNP,Biscayne,patch,19,377,754
+2579,3/16/2015,Spring 2015,15,Allison and Carlos,BISC-P12a,0.33,Florida,BNP,Biscayne,patch,19,377,754
+2580,3/16/2015,Spring 2015,15,Allison and Carlos,BISC-P12a,0.33,Florida,BNP,Biscayne,patch,19,377,754
+2727,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,17,377,754
+2728,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P12a,0.5,Florida,BNP,Biscayne,patch,16,377,754
+2003,3/25/2013,Spring 2013,2,Shelby/Vanessa,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,17,390,754
+2004,3/25/2013,Spring 2013,2,Ryan/Christina,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,17,390,754
+49,2/5/2013,Winter 2013,1,Alex Kattan,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,399,798
+51,2/5/2013,Winter 2013,1,Anne Benolkin,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,399,798
+119,3/20/2013,Spring 2013,2,Roger/Patricia Grimes,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,399,798
+173,6/12/2013,Summer 2013,3,Lindsay/Catie,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,10,399,798
+174,6/12/2013,Summer 2013,3,Alexis/Alex,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,14,399,798
+205,8/5/2013,Summer 2013,4,Steve/Alex/Catie,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,8,399,798
+206,8/5/2013,Summer 2013,4,Steve/Alex/Catie,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,14,399,798
+275,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,11,399,798
+276,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,11,399,798
+362,2/10/2014,Winter 2014,7,Liz and Jess,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,10,399,798
+363,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,13,399,798
+398,3/13/2014,Spring 2014,8,Liz and Jess,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,399,798
+399,3/13/2014,Spring 2014,8,Liz and Jess,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,399,798
+400,3/13/2014,Spring 2014,8,Liz and Jess,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,399,798
+1454,5/30/2014,Spring 2014,9,Steve and Trudy,KL-P11,1,Florida,FKNMS,Key Largo,patch,13,399,798
+2228,8/13/2014,Summer 2014,10,Jes and Jessie,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,15,399,798
+2229,8/13/2014,Summer 2014,10,Liz and Emily,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,15,399,798
+2250,9/3/2014,Fall 2014,11,Lad and Ashtyn,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,15,399,798
+2251,9/3/2014,Fall 2014,11,Liz and Gracie,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,13,399,798
+2344,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P11,0.33,Florida,FKNMS,Key Largo,patch,10,399,798
+2345,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P11,0.33,Florida,FKNMS,Key Largo,patch,10,399,798
+2346,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P11,0.33,Florida,FKNMS,Key Largo,patch,10,399,798
+2412,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,13,399,798
+2413,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,15,399,798
+2509,1/21/2015,Winter 2015,14,Liz and BZ,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,399,798
+2510,1/21/2015,Winter 2015,14,Anna and Jack,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,11,399,798
+2643,3/24/2015,Spring 2015,15,Jack and Carlos,KL-P11,0.33,Florida,FKNMS,Key Largo,patch,10,399,798
+2644,3/24/2015,Spring 2015,15,Jack and Carlos,KL-P11,0.33,Florida,FKNMS,Key Largo,patch,10,399,798
+2645,3/24/2015,Spring 2015,15,Jack and Carlos,KL-P11,0.33,Florida,FKNMS,Key Largo,patch,10,399,798
+2695,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,15,399,798
+2696,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,14,399,798
+2770,7/20/2015,Summer 2015,17,Emily and Lad,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,11,418,798
+2771,7/20/2015,Summer 2015,17,Miranda and Kara,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,11,418,798
+2158,2/24/2014,Winter 2014,8,Ana/Kristian,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,20,429,754
+2031,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,19,442,754
+2032,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,19,442,754
+118,3/20/2013,Spring 2013,2,Danielle,KL-P11,0.5,Florida,FKNMS,Key Largo,patch,12,446.5,798
+2836,7/30/2015,Summer 2015,17,Emily and Lad,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,14,455,754
+2837,7/30/2015,Summer 2015,17,Colin and Kara,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,14,455,754
+2778,7/21/2015,Summer 2015,17,Emily and Lad,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,22,472.5,1071
+2779,7/21/2015,Summer 2015,17,Ellie and Amy,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,22,472.5,1071
+2896,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,18,472.5,1071
+2897,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,18,472.5,1071
+2898,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,18,472.5,1071
+2007,3/25/2013,Spring 2013,2,Shelby/Vanessa,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,27,476,1632
+2008,3/25/2013,Spring 2013,2,Ryan/Christina,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,27,476,1632
+2039,7/9/2013,Summer 2013,4,Kristian/Catie,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,27,493,1632
+2040,7/9/2013,Summer 2013,4,Ana/Ben,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,493,1632
+1001,2/16/2013,Winter 2013,1,Dan Scott,Buck-I3,0.5,USVI,BIRNM,Buck Island,continuous,29,500,2000
+1004,2/16/2013,Winter 2013,1,Wes,Buck-I1,0.33,USVI,BIRNM,Buck Island,continuous,22.5,500,2000
+1007,2/16/2013,Winter 2013,1,John Greer,Buck-I3,0.5,USVI,BIRNM,Buck Island,continuous,35,500,2000
+1009,2/17/2013,Winter 2013,1,John Greer,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,47,500,2000
+1010,2/17/2013,Winter 2013,1,Dan Scott,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,38,500,2000
+1012,2/17/2013,Winter 2013,1,Colin,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,50,500,2000
+1015,2/17/2013,Winter 2013,1,JB,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,32,500,2000
+1109,5/11/2013,Spring 2013,2,Dan,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,35,500,2000
+1110,5/11/2013,Spring 2013,2,Robert,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,32,500,2000
+1111,5/12/2013,Spring 2013,2,Stopher,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,53,500,2000
+1112,5/12/2013,Spring 2013,2,John,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,57,500,2000
+1113,5/12/2013,Spring 2013,2,Nadija,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1114,5/12/2013,Spring 2013,2,Dale,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,32,500,2000
+1115,5/12/2013,Spring 2013,2,Tracy,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,20,500,2000
+1116,5/12/2013,Spring 2013,2,Stopher,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1205,6/22/2013,Summer 2013,3,Robert,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,40,500,2000
+1206,6/22/2013,Summer 2013,3,Anna,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,30,500,2000
+1207,6/22/2013,Summer 2013,3,Nadija,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,33,500,2000
+1208,6/22/2013,Summer 2013,3,Stopher,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,30,500,2000
+1209,6/22/2013,Summer 2013,3,Anna,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,34,500,2000
+1210,6/22/2013,Summer 2013,3,Tracy,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,39,500,2000
+1211,6/22/2013,Summer 2013,3,Stopher,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,58,500,2000
+1212,6/22/2013,Summer 2013,3,John,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,51,500,2000
+1307,10/26/2013,Fall 2013,4,Tracy,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1308,10/26/2013,Fall 2013,4,Anka,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,35,500,2000
+1309,10/26/2013,Fall 2013,4,Colin,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,35,500,2000
+1310,10/26/2013,Fall 2013,4,Bernard,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,22,500,2000
+1311,10/26/2013,Fall 2013,4,Tracy,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1312,10/26/2013,Fall 2013,4,Anka,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1315,10/27/2013,Fall 2013,4,Stopher,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,65,500,2000
+1316,10/27/2013,Fall 2013,4,Nadija,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,61,500,2000
+1406,2/1/2014,Winter 2014,6,Colin,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1407,2/1/2014,Winter 2014,6,Nadija,Buck-LF4,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1408,2/1/2014,Winter 2014,6,Tracy,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,52,500,2000
+1409,2/1/2014,Winter 2014,6,Bernard,Buck-LF5,0.5,USVI,BIRNM,Buck Island,continuous,58,500,2000
+1410,2/2/2014,Winter 2014,6,Nadija,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,24,500,2000
+1411,2/2/2014,Winter 2014,6,Dale,Buck-I1,0.5,USVI,BIRNM,Buck Island,continuous,37,500,2000
+1412,2/2/2014,Winter 2014,6,Nadija,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,32,500,2000
+1413,2/2/2014,Winter 2014,6,Dale,Buck-I2,0.5,USVI,BIRNM,Buck Island,continuous,35,500,2000
+5124,8/31/2016,Summer 2016,20,Michelle Johnston,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,70,500,7850
+5125,8/31/2016,Summer 2016,20,Steve Gitings,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,73,500,7850
+5126,8/31/2016,Summer 2016,20,Stephanie Green,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,80,500,7850
+5127,8/31/2016,Summer 2016,20,Kevin Buch,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,67,500,7850
+5128,8/31/2016,Summer 2016,20,Michelle Johnston,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5129,8/31/2016,Summer 2016,20,Steve Gitings,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,70,500,7850
+5130,8/31/2016,Summer 2016,20,Stephanie Green,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,61,500,7850
+5131,8/31/2016,Summer 2016,20,Kevin Buch,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,70,500,7850
+5132,8/31/2016,Summer 2016,20,Kevin Buch,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,68,500,7850
+5133,8/31/2016,Summer 2016,20,Michelle Johnston,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,60,500,7850
+5134,8/31/2016,Summer 2016,20,Raven Walker,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5135,8/31/2016,Summer 2016,20,Stephanie Green,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,67,500,7850
+5136,8/31/2016,Summer 2016,20,Kevin Buch,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,68,500,7850
+5137,8/31/2016,Summer 2016,20,Michelle Johnston,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,62,500,7850
+5138,8/31/2016,Summer 2016,20,Raven Walker,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5139,8/31/2016,Summer 2016,20,Stephanie Green,EFGB#6,0.25,FGBNMS,FGBNMS,East Bank,continuous,63,500,7850
+5316,6/27/2018,Summer 2018,23,Derek Hogan,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5317,6/27/2018,Summer 2018,23,Steve Gittings,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,80,500,7850
+5318,6/27/2018,Summer 2018,23,Andrea Stromeyer,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5319,6/27/2018,Summer 2018,23,Bill Hall,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,80,500,7850
+5320,6/27/2018,Summer 2018,23,Derek Hogan,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5321,6/27/2018,Summer 2018,23,Steve Gittings,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,70,500,7850
+5322,6/27/2018,Summer 2018,23,Andrea Stromeyer,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5323,6/27/2018,Summer 2018,23,Kris Leefers,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5324,6/27/2018,Summer 2018,23,Derek Hogan,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,74,500,7850
+5325,6/27/2018,Summer 2018,23,,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,69,500,7850
+5326,6/27/2018,Summer 2018,23,Steve Gittings,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,68,500,7850
+5327,6/27/2018,Summer 2018,23,Bill Hall,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,73,500,7850
+5328,6/27/2018,Summer 2018,23,Derek Hogan,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5329,6/27/2018,Summer 2018,23,Andrea Stromeyer,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,69,500,7850
+5330,6/27/2018,Summer 2018,23,Steve Gittings,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5331,6/27/2018,Summer 2018,23,Kris Leefers,EFGB#4,0.25,FGBNMS,FGBNMS,East Bank,continuous,62,500,7850
+5405,8/26/2019,Summer 2019,26,Kelly Drinnen,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,61,500,7850
+5406,8/26/2019,Summer 2019,26,Leah Neal,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,57,500,7850
+5407,8/26/2019,Summer 2019,26,Darcy Lutes,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,72,500,7850
+5408,8/26/2019,Summer 2019,26,Kevin Buch,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,64,500,7850
+5409,8/26/2019,Summer 2019,26,Kelly Drinnen,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,58,500,7850
+5410,8/26/2019,Summer 2019,26,Leah Neal,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,59,500,7850
+5411,8/26/2019,Summer 2019,26,Darcy Lutes,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,75,500,7850
+5412,8/26/2019,Summer 2019,26,Kevin Buch,EFGB#3,0.25,FGBNMS,FGBNMS,East Bank,continuous,64,500,7850
+5413,8/27/2019,Summer 2019,26,Leah Neal,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,57,500,7850
+5414,8/27/2019,Summer 2019,26,Kelly Drinnen,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,91,500,7850
+5415,8/27/2019,Summer 2019,26,Darcy Lutes,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,75,500,7850
+5416,8/27/2019,Summer 2019,26,Kevin Buch,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,66,500,7850
+5417,8/27/2019,Summer 2019,26,Leah Neal,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,60,500,7850
+5418,8/27/2019,Summer 2019,26,Kelly Drinnen,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,64,500,7850
+5419,8/27/2019,Summer 2019,26,Darcy Lutes,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,75,500,7850
+5420,8/27/2019,Summer 2019,26,Kevin Buch,EFGB#1,0.25,FGBNMS,FGBNMS,East Bank,continuous,64,500,7850
+5421,8/27/2019,Summer 2019,26,Kevin Buch,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5422,8/27/2019,Summer 2019,26,Leah Neal,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,59,500,7850
+5423,8/27/2019,Summer 2019,26,Kelly Drinnen,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5424,8/27/2019,Summer 2019,26,Darcy Lutes,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5425,8/27/2019,Summer 2019,26,Kevin Buch,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+5426,8/27/2019,Summer 2019,26,Leah Neal,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,60,500,7850
+5427,8/27/2019,Summer 2019,26,Kelly Drinnen,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,57,500,7850
+5428,8/27/2019,Summer 2019,26,Darcy Lutes,EFGB#7,0.25,FGBNMS,FGBNMS,East Bank,continuous,65,500,7850
+2153,1/14/2014,Winter 2014,7,Katie/Ana/Kristian,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,16,507,754
+2049,7/10/2013,Summer 2013,4,Ryan/Kristian,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,18,520,754
+2050,7/10/2013,Summer 2013,4,Terry/Ana,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,17,520,754
+35,2/4/2013,Winter 2013,1,Alex Kattan,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+37,2/4/2013,Winter 2013,1,Mackenzie Brooke,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+127,4/21/2013,Spring 2013,2,Anne/Lad,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,24,535.5,1071
+128,4/21/2013,Spring 2013,2,Ben Barker,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,24,535.5,1071
+153,6/3/2013,Summer 2013,3,Catie/Lad,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,16,535.5,1071
+154,6/3/2013,Summer 2013,3,Alex/Steve,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+189,7/22/2013,Summer 2013,4,Catie/Steve/Trudy,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+190,7/22/2013,Summer 2013,4,Catie/Steve/Trudy,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,12,535.5,1071
+263,10/5/2013,Fall 2013,5,Austen/Elissa,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,18,535.5,1071
+264,10/5/2013,Fall 2013,5,Austen/Elissa,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,17,535.5,1071
+299,11/12/2013,Fall 2013,6,Zoe,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,18,535.5,1071
+300,11/12/2013,Fall 2013,6,Catie and Lad,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,20,535.5,1071
+368,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,20,535.5,1071
+369,2/10/2014,Winter 2014,7,Liz and Jess,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,23,535.5,1071
+408,3/14/2014,Spring 2014,8,Ellie and Ed,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+409,3/14/2014,Spring 2014,8,Ellie and Ed,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+410,3/14/2014,Spring 2014,8,Ellie and Ed,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+1449,5/28/2014,Spring 2014,9,Becky and Charilie,KL-P7,1,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+2218,8/12/2014,Summer 2014,10,Liz and Emily,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,25,535.5,1071
+2219,8/12/2014,Summer 2014,10,Jes and Jessie,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,20,535.5,1071
+2238,9/2/2014,Fall 2014,11,Lad and Gracie,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,22,535.5,1071
+2239,9/2/2014,Fall 2014,11,Liz and Anna,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,22,535.5,1071
+2315,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+2316,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+2317,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+2420,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+2421,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,20,535.5,1071
+2515,1/22/2015,Winter 2015,14,Liz and BZ,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,22,535.5,1071
+2516,1/22/2015,Winter 2015,14,Amy and Kristen,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,23,535.5,1071
+2659,3/25/2015,Spring 2015,15,Amy and Anna,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,18,535.5,1071
+2660,3/25/2015,Spring 2015,15,Steph and Anna,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+2661,3/25/2015,Spring 2015,15,Steph and Anna,KL-P7,0.33,Florida,FKNMS,Key Largo,patch,15,535.5,1071
+2703,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+2704,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P7,0.5,Florida,FKNMS,Key Largo,patch,19,535.5,1071
+2085,9/24/2013,Fall 2013,5,Shelby/Ryan,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,23,546,754
+2086,9/24/2013,Fall 2013,5,Ana/Katie,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,23,546,754
+1008,2/16/2013,Winter 2013,1,Chris Brizzslara,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,56,560,228
+1101,5/11/2013,Spring 2013,2,Andrew,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,55,560,228
+1102,5/11/2013,Spring 2013,2,Robert,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,54,560,228
+1214,6/23/2013,Summer 2013,3,Nadija,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,56,560,228
+1313,10/27/2013,Fall 2013,4,Stopher,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,57,560,228
+1414,3/22/2014,Spring 2014,6,Ky,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,57,560,228
+2125,11/7/2013,Fall 2013,6,Shelby/Kristian,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,19,585,754
+2126,11/7/2013,Fall 2013,6,Katie/Ana,BISC-P12a,0.5,Florida,BNP,Biscayne,patch,20,585,754
+64,2/6/2013,Winter 2013,1,Ben Barker,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,627,1254
+66,2/6/2013,Winter 2013,1,Jessica Levy,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,627,1254
+171,6/11/2013,Summer 2013,3,Ellie/Alex,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,10,627,1254
+172,6/11/2013,Summer 2013,3,Steve/Catie/Lindsay,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,10,627,1254
+203,8/5/2013,Summer 2013,4,Trudy/Catie,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,7,627,1254
+204,8/5/2013,Summer 2013,4,Trudy/Catie,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,10,627,1254
+273,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,14,627,1254
+274,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,14,627,1254
+360,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,627,1254
+361,2/10/2014,Winter 2014,7,Liz and Jess,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,12,627,1254
+382,3/12/2014,Spring 2014,8,Liz and Taylor,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,13,627,1254
+383,3/12/2014,Spring 2014,8,Liz and Taylor,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,13,627,1254
+384,3/12/2014,Spring 2014,8,Liz and Taylor,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,13,627,1254
+1455,5/30/2014,Spring 2014,9,Steve and Trudy,KL-P13,1,Florida,FKNMS,Key Largo,patch,13,627,1254
+2226,8/13/2014,Summer 2014,10,Liz and Emily,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,16,627,1254
+2227,8/13/2014,Summer 2014,10,Jes and Jessie,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,15,627,1254
+2248,9/3/2014,Fall 2014,11,Lad and Ashtyn,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,627,1254
+2249,9/3/2014,Fall 2014,11,Liz and Gracie,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,12,627,1254
+2341,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,10,627,1254
+2342,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,10,627,1254
+2343,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,10,627,1254
+2410,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,627,1254
+2411,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,627,1254
+2507,1/21/2015,Winter 2015,14,Liz and BZ,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,15,627,1254
+2508,1/21/2015,Winter 2015,14,Anna and Jack,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,15,627,1254
+2640,3/24/2015,Spring 2015,15,Jack and Allison,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,14,627,1254
+2641,3/24/2015,Spring 2015,15,Jack and Allison,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,14,627,1254
+2642,3/24/2015,Spring 2015,15,Jack and Allison,KL-P13,0.33,Florida,FKNMS,Key Largo,patch,14,627,1254
+2693,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,14,627,1254
+2694,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,12,627,1254
+116,3/20/2013,Spring 2013,2,Roger,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,660,1254
+117,3/20/2013,Spring 2013,2,Lad,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,660,1254
+2768,7/20/2015,Summer 2015,17,Emily and Lad,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,10,671,1254
+2769,7/20/2015,Summer 2015,17,Miranda and Kara,KL-P13,0.5,Florida,FKNMS,Key Largo,patch,13,671,1254
+1014,2/17/2013,Winter 2013,1,JB,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,53,690,228
+1213,6/23/2013,Summer 2013,3,Dale,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,53,690,228
+1314,10/27/2013,Fall 2013,4,Nadija,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,50,690,228
+1415,3/22/2014,Spring 2014,6,Ky,Buck-P5,0.5,USVI,BIRNM,Buck Island,patch,55,690,228
+2015,4/23/2013,Spring 2013,3,Shelby/Greg,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,700,1960
+2016,4/23/2013,Spring 2013,3,Ryan/Vanessa,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,700,1960
+2057,7/22/2013,Summer 2013,4,Shelby/Kristian,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,700,1960
+2058,7/22/2013,Summer 2013,4,Shelby/Kristian,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,700,1960
+17,1/31/2013,Winter 2013,1,Cate,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,19,714,1428
+18,1/31/2013,Winter 2013,1,Nick Casper,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,19,714,1428
+236,9/25/2013,Fall 2013,5,Colin,BISC-P11a,1,Florida,BNP,Biscayne,patch,16,714,1428
+451,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,21,714,1428
+452,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,21,714,1428
+453,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,21,714,1428
+2143,1/6/2014,Winter 2014,7,Shelby/Ana,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,28,714,1632
+2144,1/6/2014,Winter 2014,7,Shelby/Ana,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,28,714,1632
+2164,2/25/2014,Winter 2014,8,Ana/Kristian,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,19,714,1428
+2287,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,17,714,1428
+2288,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,17,714,1428
+2289,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,17,714,1428
+2387,5/22/2014,Spring 2014,9,Ana and Kristian,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,19,714,1428
+2467,12/18/2014,Winter 2015,13,Liz and Tyler E.,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,15,714,1428
+2468,12/18/2014,Winter 2015,13,Alyssa and Ashtyn,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,12,714,1428
+2551,2/11/2015,Winter 2015,14,Liz and Anna,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,20,714,1428
+2552,2/11/2015,Winter 2015,14,Amy and Ashtyn,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,20,714,1428
+2599,3/19/2015,Spring 2015,15,Jack and Allison,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,17,714,1428
+2600,3/19/2015,Spring 2015,15,Jack and Allison,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,17,714,1428
+2601,3/19/2015,Spring 2015,15,Jack and Allison,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,17,714,1428
+2723,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,17,714,1428
+2724,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P11a,0.5,Florida,BNP,Biscayne,patch,17,714,1428
+2163,2/25/2014,Winter 2014,8,Ana/Kristian,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,731,1632
+2081,9/24/2013,Fall 2013,5,Shelby/Ryan,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,13,752.5,1960
+2082,9/24/2013,Fall 2013,5,Katie/Kristian,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,13,752.5,1960
+2154,2/18/2014,Winter 2014,8,Katie/Ana,BISC-P7a,1,Florida,BNP,Biscayne,patch,16,752.5,1680
+2005,3/25/2013,Spring 2013,2,Shelby/Vanessa,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,19,765,1428
+2006,3/25/2013,Spring 2013,2,Ryan/Christina,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,22,765,1428
+2071,9/23/2013,Fall 2013,5,Shelby/Katie,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,28,782,1428
+2072,9/23/2013,Fall 2013,5,Ryan/Kristian,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,29,782,1428
+2041,7/9/2013,Summer 2013,4,Kristian/Catie,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,18,799,1428
+2042,7/9/2013,Summer 2013,4,Ana/Alex,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,15,799,1428
+93,2/12/2013,Winter 2013,1,Lindsay Sweet,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,27,816,1632
+96,2/12/2013,Winter 2013,1,Alex Kattan,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,27,816,1632
+230,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,25,816,1632
+231,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,25,816,1632
+448,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,816,1632
+449,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,816,1632
+450,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,816,1632
+2305,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,26,816,1632
+2306,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,26,816,1632
+2307,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,26,816,1632
+2380,5/7/2014,Spring 2014,9,Shelby and Terry,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,816,1632
+2381,5/7/2014,Spring 2014,9,Katie and Megan,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,31,816,1632
+2469,12/18/2014,Winter 2015,13,Liz and Tyler E.,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,29,816,1632
+2470,12/18/2014,Winter 2015,13,Alyssa and Ashtyn,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,24,816,1632
+2553,2/11/2015,Winter 2015,14,Liz and Anna,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,22,816,1632
+2554,2/11/2015,Winter 2015,14,Amy and Ashtyn,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,25,816,1632
+2602,3/19/2015,Spring 2015,15,Jack and Carlos,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,22,816,1632
+2603,3/19/2015,Spring 2015,15,Jack and Carlos,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,22,816,1632
+2604,3/19/2015,Spring 2015,15,Jack and Carlos,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,22,816,1632
+2725,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,28,816,1632
+2726,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P10a,0.5,Florida,BNP,Biscayne,patch,28,816,1632
+2138,12/17/2013,Winter 2014,7,Ana/Kristian,BISC-P14a,1,Florida,BNP,Biscayne,patch,12,822.5,1960
+2025,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,21,833,1428
+2026,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,21,833,1428
+2,1/29/2013,Winter 2013,1,Anne Benolkin,BISC-P7a,1,Florida,BNP,Biscayne,patch,12,840,1680
+223,9/23/2013,Fall 2013,5,Liz/Ryan,BISC-P7a,1,Florida,BNP,Biscayne,patch,10,840,1680
+428,3/19/2014,Spring 2014,8,Jess and Ellie,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,840,1680
+429,3/19/2014,Spring 2014,8,Jess and Ellie,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,840,1680
+430,3/19/2014,Spring 2014,8,Jess and Ellie,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,840,1680
+2294,9/18/2014,Fall 2014,12,"Liz, Ashtyn, and Alex",BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,840,1680
+2295,9/18/2014,Fall 2014,12,"Liz, Ashtyn, and Alex",BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,840,1680
+2296,9/18/2014,Fall 2014,12,"Liz, Ashtyn, and Alex",BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,840,1680
+2378,5/5/2014,Spring 2014,9,Katie and Kristian,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,14,840,1680
+2379,5/5/2014,Spring 2014,9,Shelby and Matt,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,14,840,1680
+2463,12/18/2014,Winter 2015,13,Liz and Tyler E.,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,13,840,1680
+2464,12/18/2014,Winter 2015,13,Alyssa and Ashtyn,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,10,840,1680
+2541,2/3/2015,Winter 2015,14,Liz and BZ,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,11,840,1680
+2542,2/3/2015,Winter 2015,14,Amy and Anna,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,12,840,1680
+2609,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,8,840,1680
+2610,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,8,840,1680
+2611,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,8,840,1680
+2719,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,12,840,1680
+2720,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P7a,0.5,Florida,BNP,Biscayne,patch,7,840,1680
+2103,10/21/2013,Fall 2013,6,Shelby/Kristian,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,850,1632
+2104,10/21/2013,Fall 2013,6,Katie/Ana,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,30,850,1632
+2105,10/21/2013,Fall 2013,6,Shelby/Kristian,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,20,850,1428
+2106,10/21/2013,Fall 2013,6,Katie/Ana,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,18,850,1428
+2832,7/30/2015,Summer 2015,17,Emily and Lad,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,15,850,1428
+2833,7/30/2015,Summer 2015,17,Colin and Kara,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,22,850,1428
+2834,7/30/2015,Summer 2015,17,Emily and Lad,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,20,850,1632
+2835,7/30/2015,Summer 2015,17,Colin and Kara,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,27,850,1632
+2888,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,30,850,1870
+2889,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,30,850,1870
+2890,10/30/2015,Fall 2015,18,Ed and Olivia,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,30,850,1870
+2115,10/22/2013,Fall 2013,6,Shelby/Kristian,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,12,857.5,1960
+2116,10/22/2013,Fall 2013,6,Katie/Ana,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,12,857.5,1960
+2913,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,19,867,1428
+2914,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,19,867,1428
+2915,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P11a,0.33,Florida,BNP,Biscayne,patch,19,867,1428
+2099,10/21/2013,Fall 2013,6,Shelby/Kristian,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,11,875,1680
+2100,10/21/2013,Fall 2013,6,Katie/Ana,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,15,875,1680
+2073,9/23/2013,Fall 2013,5,Shelby/Ana,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,22,884,1632
+2074,9/23/2013,Fall 2013,5,Ryan/Kristian,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,22,884,1632
+2916,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,26,901,1632
+2917,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,26,901,1632
+2918,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P10a,0.33,Florida,BNP,Biscayne,patch,26,901,1632
+3,1/29/2013,Winter 2013,1,Anne Benolkin,BISC-P9a,1,Florida,BNP,Biscayne,patch,24,903,1806
+222,9/23/2013,Fall 2013,5,Liz/Ryan,BISC-P9a,1,Florida,BNP,Biscayne,patch,24,903,1806
+431,3/19/2014,Spring 2014,8,Jess and Ellie,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,24,903,1806
+432,3/19/2014,Spring 2014,8,Jess and Ellie,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,24,903,1806
+433,3/19/2014,Spring 2014,8,Jess and Ellie,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,24,903,1806
+2155,2/18/2014,Winter 2014,8,Katie/Ana,BISC-P9a,1,Florida,BNP,Biscayne,patch,28,903,1806
+2298,9/18/2014,Fall 2014,12,"Liz, Ashtyn, and Alex",BISC-P9a,0.33,Florida,BNP,Biscayne,patch,24,903,1806
+2299,9/18/2014,Fall 2014,12,"Liz, Ashtyn, and Alex",BISC-P9a,0.33,Florida,BNP,Biscayne,patch,24,903,1806
+2300,9/18/2014,Fall 2014,12,"Liz, Ashtyn, and Alex",BISC-P9a,0.33,Florida,BNP,Biscayne,patch,24,903,1806
+2376,5/5/2014,Spring 2014,9,Katie and Kristian,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,27,903,1806
+2377,5/5/2014,Spring 2014,9,Shelby and Matt,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,28,903,1806
+2465,12/18/2014,Winter 2015,13,Liz and Tyler E.,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,24,903,1806
+2466,12/18/2014,Winter 2015,13,Alyssa and Ashtyn,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,22,903,1806
+2545,2/3/2015,Winter 2015,14,Liz and BZ,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,25,903,1806
+2546,2/3/2015,Winter 2015,14,Amy and Anna,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,22,903,1806
+2612,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,19,903,1806
+2613,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,19,903,1806
+2614,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,19,903,1806
+2721,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,26,903,1806
+2722,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P9a,0.5,Florida,BNP,Biscayne,patch,21,903,1806
+2023,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,13,910,1680
+2024,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,13,910,1680
+2033,6/27/2013,Summer 2013,4,Shelby/Alex/Catie,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,15,910,1680
+2034,6/27/2013,Summer 2013,4,Shelby/Alex/Catie,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,15,910,1680
+2067,9/23/2013,Fall 2013,5,Katie/Shelby,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,15,910,1680
+2068,9/23/2013,Fall 2013,5,Ryan/Kristian,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,15,910,1680
+2135,12/17/2013,Winter 2014,7,Ana/Kristian,BISC-P7a,1,Florida,BNP,Biscayne,patch,14,910,1680
+2828,7/30/2015,Summer 2015,17,Emily and Lad,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,11,910,1680
+2829,7/30/2015,Summer 2015,17,Colin and Kara,BISC-P7a,0.5,Florida,BNP,Biscayne,patch,11,910,1680
+2027,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,31,918,1632
+2028,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P10a,0.5,Florida,BNP,Biscayne,patch,31,918,1632
+2053,7/19/2013,Summer 2013,4,Ryan/Shelby,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,22,924,1806
+2054,7/19/2013,Summer 2013,4,Ryan/Shelby,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,22,924,1806
+23,2/3/2013,Winter 2013,1,Jen Savaro,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,25,935,1870
+25,2/3/2013,Winter 2013,1,Kayelyn S,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,25,935,1870
+129,4/21/2013,Spring 2013,2,Anne/Lad,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,17,935,1870
+130,4/21/2013,Spring 2013,2,Ben Barker,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,26,935,1870
+155,6/3/2013,Summer 2013,3,Catie/Lad,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,20,935,1870
+156,6/3/2013,Summer 2013,3,Alex/Steve,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,20,935,1870
+185,7/22/2013,Summer 2013,4,Alex/Catie/Steve,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,16,935,1870
+186,7/22/2013,Summer 2013,4,Alex/Catie/Steve,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,16,935,1870
+291,10/8/2013,Fall 2013,5,Allison,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,27,935,1870
+292,10/8/2013,Fall 2013,5,Allison,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,27,935,1870
+293,10/8/2013,Fall 2013,5,Allison,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,27,935,1870
+322,11/22/2013,Fall 2013,6,Steve Schalk (Pennekamp),KL-P5,1,Florida,FKNMS,Key Largo,patch,25,935,1870
+372,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,24,935,1870
+373,2/10/2014,Winter 2014,7,Liz and Jess,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,77,935,1870
+418,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,25,935,1870
+419,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,25,935,1870
+420,3/15/2014,Spring 2014,8,Jess and Taylor,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,25,935,1870
+1450,5/28/2014,Spring 2014,9,Trudy and Ernie,KL-P5,1,Florida,FKNMS,Key Largo,patch,26,935,1870
+2214,8/12/2014,Summer 2014,10,Liz and Emily,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,28,935,1870
+2215,8/12/2014,Summer 2014,10,Jes and Jessie,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,20,935,1870
+2264,9/5/2014,Fall 2014,11,Lad and Alyssa,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,23,935,1870
+2265,9/5/2014,Fall 2014,11,Liz and Ashtyn,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,22,935,1870
+2369,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,23,935,1870
+2370,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,23,935,1870
+2371,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,23,935,1870
+2424,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,23,935,1870
+2425,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,20,935,1870
+2519,1/22/2015,Winter 2015,14,Liz and BZ,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,25,935,1870
+2520,1/22/2015,Winter 2015,14,Amy and Kristen,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,25,935,1870
+2653,3/25/2015,Spring 2015,15,Amy and Anna,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,26,935,1870
+2654,3/25/2015,Spring 2015,15,Amy and Anna,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,24,935,1870
+2655,3/25/2015,Spring 2015,15,Amy and Anna,KL-P5,0.33,Florida,FKNMS,Key Largo,patch,24,935,1870
+2707,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,24,935,1870
+2708,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,22,935,1870
+1103,5/11/2013,Spring 2013,2,Anna,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,48,950,260
+1104,5/11/2013,Spring 2013,2,Tony,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,50,950,260
+1201,6/22/2013,Summer 2013,3,Tracy,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,52,950,260
+1202,6/22/2013,Summer 2013,3,Anna,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,55,950,260
+1301,10/26/2013,Fall 2013,4,Colin,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,50,950,260
+1302,10/26/2013,Fall 2013,4,Colin,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,50,950,260
+1401,2/1/2014,Winter 2014,6,Stopher,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,50,950,260
+1402,2/1/2014,Winter 2014,6,Nadija,Buck-P7,0.5,USVI,BIRNM,Buck Island,patch,50,950,260
+2151,1/13/2014,Winter 2014,7,Shelby/Kristian,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,24,955.5,2184
+2152,1/13/2014,Winter 2014,7,Katie/Ana,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,25,955.5,2184
+2157,2/24/2014,Winter 2014,8,Ana/Kristian,BISC-P14a,1,Florida,BNP,Biscayne,patch,10,955.5,1960
+13,1/31/2013,Winter 2013,1,Caitlin,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,11,980,1960
+15,1/31/2013,Winter 2013,1,Nick Casper,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,11,980,1960
+83,2/8/2013,Winter 2013,1,David Roche,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,11,980,1960
+86,2/8/2013,Winter 2013,1,Jen Savaro,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,11,980,1960
+244,9/26/2013,Fall 2013,5,Austen/Colin,BISC-P14a,1,Florida,BNP,Biscayne,patch,10,980,1960
+441,3/20/2014,Spring 2014,8,Liz and Taylor,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,10,980,1960
+442,3/20/2014,Spring 2014,8,Liz and Taylor,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,10,980,1960
+443,3/20/2014,Spring 2014,8,Liz and Taylor,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,10,980,1960
+2385,5/22/2014,Spring 2014,9,Ana and Kristian,BISC-P14a,1,Florida,BNP,Biscayne,patch,12,980,1960
+2475,12/19/2014,Winter 2015,13,Liz and Alyssa,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,980,1960
+2476,12/19/2014,Winter 2015,13,Amy and Ashtyn,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,12,980,1960
+2565,2/12/2015,Winter 2015,14,Liz and Jason V.,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,980,1960
+2566,2/12/2015,Winter 2015,14,BZ and Kristen,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,980,1960
+2592,3/18/2015,Spring 2015,15,Amy and BZ,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,12,980,1960
+2593,3/18/2015,Spring 2015,15,Amy and BZ,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,12,980,1960
+2594,3/18/2015,Spring 2015,15,Amy and BZ,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,12,980,1960
+2731,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,11,980,1960
+2732,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P14a,0.5,Florida,BNP,Biscayne,patch,12,980,1960
+2759,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,12,980,1960
+2760,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,12,980,1960
+2761,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-P14a,0.33,Florida,BNP,Biscayne,patch,12,980,1960
+2824,7/28/2015,Summer 2015,17,Emily and Lad,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,12,980,1960
+2825,7/28/2015,Summer 2015,17,Steve and Trudy,BISC-P14a,0.5,Florida,BNP,Biscayne,patch,10,980,1960
+4,1/29/2013,Winter 2013,1,Anne Benolkin,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+5,1/29/2013,Winter 2013,1,Keri Kenning ,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+8,1/31/2013,Winter 2013,1,Danielle Perez,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+9,1/31/2013,Winter 2013,1,Danielle Perez,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+10,1/31/2013,Winter 2013,1,Nick Casper,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,51,1000,2000
+11,1/31/2013,Winter 2013,1,Nick Casper,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,51,1000,2000
+19,2/3/2013,Winter 2013,1,Kayelyn,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+20,2/3/2013,Winter 2013,1,Kayelyn,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,64,1000,2000
+21,2/3/2013,Winter 2013,1,Jen Savaro,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+22,2/3/2013,Winter 2013,1,Jen Savaro,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,47,1000,2000
+29,2/4/2013,Winter 2013,1,Alex Kattan,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+30,2/4/2013,Winter 2013,1,Alex Kattan,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+31,2/4/2013,Winter 2013,1,Alex Kattan,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+34,2/4/2013,Winter 2013,1,Mackenzie Brooke,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+41,2/5/2013,Winter 2013,1,Alex Kattan/ Anne,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+42,2/5/2013,Winter 2013,1,Alex Kattan/ Anne,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+43,2/5/2013,Winter 2013,1,Alex Kattan,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,43,1000,2000
+44,2/5/2013,Winter 2013,1,Alex Kattan,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+55,2/6/2013,Winter 2013,1,Ben Barker/ Lindsay,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,59,1000,2000
+56,2/6/2013,Winter 2013,1,Ben Barker/ Lindsay,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+61,2/6/2013,Winter 2013,1,Ben Barker/ Lindsay,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+62,2/6/2013,Winter 2013,1,Ben Barker/ Lindsay,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+67,2/7/2013,Winter 2013,1,Mackenzie Brooke,Conch 6A,0.25,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+68,2/7/2013,Winter 2013,1,Mackenzie Brooke,Conch 6A,0.25,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+69,2/7/2013,Winter 2013,1,David Roche,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+70,2/7/2013,Winter 2013,1,David Roche,Conch 3A,0.25,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+71,2/7/2013,Winter 2013,1,David Roche,Conch 3A,0.25,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+72,2/7/2013,Winter 2013,1,David Roche,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+73,2/7/2013,Winter 2013,1,Mackenzie Brooke,Conch 3A,0.25,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+74,2/7/2013,Winter 2013,1,Mackenzie Brooke,Conch 3A,0.25,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+75,2/7/2013,Winter 2013,1,Mackenzie Brooke,Conch 4B,0.25,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+76,2/7/2013,Winter 2013,1,Mackenzie Brooke,Conch 4B,0.25,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+77,2/8/2013,Winter 2013,1,Jen Savaro,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+78,2/8/2013,Winter 2013,1,Jen Savaro,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+80,2/8/2013,Winter 2013,1,David Roche,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+84,2/8/2013,Winter 2013,1,Jen Savaro,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+87,2/9/2013,Winter 2013,1,Jen Savaro,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+88,2/9/2013,Winter 2013,1,Danielle Perez,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,31,1000,2000
+89,2/9/2013,Winter 2013,1,Danielle Adam,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+90,2/9/2013,Winter 2013,1,Danielle Perez,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,28,1000,2000
+91,2/9/2013,Winter 2013,1,Jen Savaro,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+92,2/9/2013,Winter 2013,1,David Roche,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+97,2/12/2013,Winter 2013,1,Alex Kattan,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+98,2/12/2013,Winter 2013,1,Alex Kattan,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+101,2/12/2013,Winter 2013,1,Alex Kattan,BISC-W30a,0.33,Florida,BNP,Biscayne,continuous,30,1000,2000
+102,2/12/2013,Winter 2013,1,Lindsay Sweet,BISC-W30a,0.33,Florida,BNP,Biscayne,continuous,30,1000,2000
+104,2/12/2013,Winter 2013,1,Alex Kattan,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,69,1000,2000
+105,2/12/2013,Winter 2013,1,Alex Kattan,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+106,3/19/2013,Spring 2013,2,Lindsay Sweet,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+107,3/19/2013,Spring 2013,2,Ben Barker,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+108,3/19/2013,Spring 2013,2,Roger Grimes,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+109,3/19/2013,Spring 2013,2,Ben Barker,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+123,3/20/2013,Spring 2013,2,Lad/Roger,KL-W7,1,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+133,4/25/2013,Spring 2013,2,Adam,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+134,4/25/2013,Spring 2013,2,Ben Barker,Conch 3A,0.25,Florida,FKNMS,Conch Reef,continuous,47,1000,2000
+135,4/25/2013,Spring 2013,2,Ben Barker,Conch 3A,0.25,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+136,4/25/2013,Spring 2013,2,Ben Barker,Conch 6A,1,Florida,FKNMS,Conch Reef,continuous,47,1000,2000
+137,4/25/2013,Spring 2013,2,Adam,Conch 4B,1,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+138,4/26/2013,Spring 2013,2,Carlos and Allison Estape,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+139,4/26/2013,Spring 2013,2,Lad,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+140,4/26/2013,Spring 2013,2,Carlos and Allison Estape,KL-W7,1,Florida,FKNMS,Key Largo,continuous,44,1000,2000
+141,5/1/2013,Spring 2013,2,Lad/Lindsay,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+142,5/1/2013,Spring 2013,2,Mackenzie Brooke,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+143,5/1/2013,Spring 2013,2,Lad/Lindsay,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+144,5/1/2013,Spring 2013,2,Ben/Mackenzie,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,48,1000,2000
+145,5/9/2013,Spring 2013,2,Lad/Roger,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+146,5/9/2013,Spring 2013,2,Anne/Danielle,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+147,6/3/2013,Summer 2013,3,Catie/Alex,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+148,6/3/2013,Summer 2013,3,Lad,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,44,1000,2000
+151,6/3/2013,Summer 2013,3,Catie/Alex,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,48,1000,2000
+152,6/3/2013,Summer 2013,3,Lad/Steve,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+157,6/4/2013,Summer 2013,3,Alex/Steve,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+158,6/4/2013,Summer 2013,3,Lindsay/Steph,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+159,6/4/2013,Summer 2013,3,Steve/Catie,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,42,1000,2000
+160,6/4/2013,Summer 2013,3,Steph,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+161,6/4/2013,Summer 2013,3,Lindsay/Steve,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,35,1000,2000
+162,6/4/2013,Summer 2013,3,Alex/Catie,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+165,6/11/2013,Summer 2013,3,Lindsay/Catie,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+166,6/11/2013,Summer 2013,3,Steve/Alex/Ellie,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+191,7/25/2013,Summer 2013,4,Alex/Carlos/Allison,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,64,1000,2000
+192,7/25/2013,Summer 2013,4,Catie/Ellie/Joe,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+193,7/30/2013,Summer 2013,4,Alex/Alexis,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,75,1000,2000
+194,7/30/2013,Summer 2013,4,Catie/Roger,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,43,1000,2000
+195,7/30/2013,Summer 2013,4,Alex/Alexis,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,75,1000,2000
+196,7/30/2013,Summer 2013,4,Catie/Roger,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+197,8/1/2013,Summer 2013,4,Ellie/Alex,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+198,8/1/2013,Summer 2013,4,Catie/Alexis,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+199,8/1/2013,Summer 2013,4,Ellie/Alex,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,63,1000,2000
+200,8/1/2013,Summer 2013,4,Catie/Alexis,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+209,8/6/2013,Summer 2013,4,Catie/Trish,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+210,8/6/2013,Summer 2013,4,Alex/Roger,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+214,8/6/2013,Summer 2013,4,Catie/Trish,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+215,8/6/2013,Summer 2013,4,Alex/Roger,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,48,1000,2000
+218,9/23/2013,Fall 2013,5,Liz/Ryan,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,75,1000,2000
+219,9/23/2013,Fall 2013,5,Liz/Ryan,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+220,9/23/2013,Fall 2013,5,Liz/Ryan,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+221,9/23/2013,Fall 2013,5,Liz/Ryan,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+224,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,20,1000,2000
+225,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,20,1000,2000
+226,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+227,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+232,9/25/2013,Fall 2013,5,Lizard,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+233,9/25/2013,Fall 2013,5,Lizard,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,48,1000,2000
+234,9/25/2013,Fall 2013,5,Colin,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+235,9/25/2013,Fall 2013,5,Colin,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+238,9/26/2013,Fall 2013,5,Austen/Colin,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+239,9/26/2013,Fall 2013,5,Austen/Colin,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+240,9/26/2013,Fall 2013,5,Austen/Colin,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+241,9/26/2013,Fall 2013,5,Austen/Colin,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,47,1000,2000
+245,9/28/2013,Fall 2013,5,Allison,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+246,9/28/2013,Fall 2013,5,Allison,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+247,9/28/2013,Fall 2013,5,Allison,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,37,1000,2000
+248,9/28/2013,Fall 2013,5,Allison,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,38,1000,2000
+249,9/28/2013,Fall 2013,5,Allison,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+250,9/28/2013,Fall 2013,5,Allison,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+251,10/10/2013,Fall 2013,5,Austen Liz Keri Adam,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+252,10/10/2013,Fall 2013,5,Austen Liz Keri Adam,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+253,10/10/2013,Fall 2013,5,Austen and Liz ,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+254,10/10/2013,Fall 2013,5,Austen and Liz ,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+255,9/29/2013,Fall 2013,5,Allison,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+256,9/29/2013,Fall 2013,5,Allison,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,46,1000,2000
+257,10/5/2013,Fall 2013,5,Austen/Elissa,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+258,10/5/2013,Fall 2013,5,Austen/Elissa,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,41,1000,2000
+259,10/5/2013,Fall 2013,5,Austen/Elissa,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+260,10/5/2013,Fall 2013,5,Austen/Elissa,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+267,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+268,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+269,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,59,1000,2000
+270,10/6/2013,Fall 2013,5,Zoe and Lizard,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+277,10/7/2013,Fall 2013,5,Colin and Catie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,44,1000,2000
+278,10/7/2013,Fall 2013,5,Colin and Catie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+279,10/7/2013,Fall 2013,5,Colin and Catie,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,71,1000,2000
+280,10/7/2013,Fall 2013,5,Colin and Catie,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+285,10/8/2013,Fall 2013,5,Allison,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,68,1000,2000
+286,10/8/2013,Fall 2013,5,Allison,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,68,1000,2000
+287,10/8/2013,Fall 2013,5,Allison,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+288,10/8/2013,Fall 2013,5,Allison,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+301,11/19/2013,Fall 2013,6,Zoe and Lad,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+302,11/19/2013,Fall 2013,6,Lindsay and Catie,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+303,11/19/2013,Fall 2013,6,Zoe and Lad,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,44,1000,2000
+304,11/19/2013,Fall 2013,6,Lindsay and Catie,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+305,11/19/2013,Fall 2013,6,Zoe and Lad,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+306,11/19/2013,Fall 2013,6,Lindsay and Catie,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+307,11/19/2013,Fall 2013,6,Zoe and Lad,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,57,1000,2000
+308,11/19/2013,Fall 2013,6,Lindsay and Catie,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+311,11/20/2013,Fall 2013,6,Austen and Keri,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,68,1000,2000
+312,11/20/2013,Fall 2013,6,Colin and Catie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+313,11/20/2013,Fall 2013,6,Austen and Keri,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+314,11/20/2013,Fall 2013,6,Colin and Catie,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+315,11/21/2013,Fall 2013,6,Zoe and Lad,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,47,1000,2000
+316,11/21/2013,Fall 2013,6,Austen and Catie,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+317,11/21/2013,Fall 2013,6,Zoe and Lad,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+318,11/21/2013,Fall 2013,6,Austen and Catie,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,48,1000,2000
+325,1/25/2014,Winter 2014,7,"Lad, Keri, and Taylor",KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+326,1/25/2014,Winter 2014,7,"Liz, Stacey, Jess",KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+327,1/25/2014,Winter 2014,7,"Liz, Stacey, Jess",KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+328,1/25/2014,Winter 2014,7,"Lad, Keri, and Taylor",KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+329,1/25/2014,Winter 2014,7,"Jess, Lad, Taylor",Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,52,1000,2000
+330,1/25/2014,Winter 2014,7,Lizard and Keri,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+331,1/25/2014,Winter 2014,7,Lizard and Keri,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+332,1/25/2014,Winter 2014,7,"Jess, Lad, Taylor",KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+333,1/26/2014,Winter 2014,7,Elissa and Taylor,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+334,1/26/2014,Winter 2014,7,Jessica and Lad,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+335,1/26/2014,Winter 2014,7,Jessica and Lad,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,43,1000,2000
+336,1/26/2014,Winter 2014,7,Elissa and Taylor,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+337,1/26/2014,Winter 2014,7,Elissa and Taylor,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+338,1/26/2014,Winter 2014,7,Jess and Lad,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+339,1/26/2014,Winter 2014,7,Jess and Lad,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+340,1/26/2014,Winter 2014,7,Elissa and Taylor,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+343,2/8/2014,Winter 2014,7,Carlos and Allison Estape,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,28,1000,2000
+344,2/8/2014,Winter 2014,7,Lad and Liz,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,28,1000,2000
+345,2/8/2014,Winter 2014,7,Carlos and Allison Estape,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,27,1000,2000
+346,2/8/2014,Winter 2014,7,Lad and Liz,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+347,2/8/2014,Winter 2014,7,Carlos and Allison Estape,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,23,1000,2000
+348,2/8/2014,Winter 2014,7,Lad and Liz,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+350,1/28/2014,Winter 2014,7,"Ben, Jen Savarro, Adam",Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+351,1/28/2014,Winter 2014,7,Keri and Taylor,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+352,1/28/2014,Winter 2014,7,"Ben, Jen Savarro, Adam",Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+353,1/28/2014,Winter 2014,7,Keri and Taylor,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+354,2/11/2014,Winter 2014,7.5,Ben and Taylor,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+355,2/11/2014,Winter 2014,7.5,Liz and Keri,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+356,2/11/2014,Winter 2014,7,Ben and Taylor,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,60,1000,2000
+357,2/11/2014,Winter 2014,7,Liz and Keri,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,50,1000,2000
+378,3/12/2014,Spring 2014,8,Liz and Taylor,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+379,3/12/2014,Spring 2014,8,Liz and Taylor,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+380,3/12/2014,Spring 2014,8,Liz and Taylor,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+381,3/12/2014,Spring 2014,8,Liz and Taylor,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+391,3/13/2014,Spring 2014,8,Liz and Jess,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,75,1000,2000
+392,3/13/2014,Spring 2014,8,Liz and Jess,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,47,1000,2000
+393,3/13/2014,Spring 2014,8,Liz and Jess,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+394,3/13/2014,Spring 2014,8,Liz and Jess,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,38,1000,2000
+401,3/14/2014,Spring 2014,8,Liz and Ellie,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,70,1000,2000
+402,3/14/2014,Spring 2014,8,Liz and Ellie,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+403,3/14/2014,Spring 2014,8,Liz and Ellie,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+404,3/14/2014,Spring 2014,8,Liz and Ellie,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+411,3/15/2014,Spring 2014,8,Jess and Taylor,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+412,3/15/2014,Spring 2014,8,Jess and Taylor,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+413,3/15/2014,Spring 2014,8,Jess and Taylor,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+414,3/15/2014,Spring 2014,8,Jess and Taylor,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+424,3/19/2014,Spring 2014,8,Liz and Jess,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+425,3/19/2014,Spring 2014,8,Liz and Jess,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+426,3/19/2014,Spring 2014,8,Liz and Jess,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+427,3/19/2014,Spring 2014,8,Liz and Jess,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+434,3/20/2014,Spring 2014,8,Ellie and Taylor,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+435,3/20/2014,Spring 2014,8,Ellie and Taylor,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+436,3/20/2014,Spring 2014,8,Ellie and Taylor,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+437,3/20/2014,Spring 2014,8,Ellie and Taylor,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+444,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+445,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+446,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,33,1000,2000
+447,3/21/2014,Spring 2014,8,Jess and Taylor,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+457,3/29/2014,Spring 2014,8,Carlos and Jess,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+458,3/29/2014,Spring 2014,8,Carlos and Jess,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,33,1000,2000
+459,3/29/2014,Spring 2014,8,Carlos and Jess,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+460,3/29/2014,Spring 2014,8,Carlos and Jess,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,31,1000,2000
+461,3/29/2014,Spring 2014,8,Jess and Taylor,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,27,1000,2000
+462,3/29/2014,Spring 2014,8,Jess and Taylor,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,31,1000,2000
+463,3/30/2014,Spring 2014,8,Liz and Elissa,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+464,3/30/2014,Spring 2014,8,Liz and Ed,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+465,3/30/2014,Spring 2014,8,Liz and Elissa,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+466,3/30/2014,Spring 2014,8,Liz and Elissa,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,48,1000,2000
+470,3/31/2014,Spring 2014,8,Jess and Taylor,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,50,1000,2000
+471,3/31/2014,Spring 2014,8,Jess and Taylor,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,50,1000,2000
+472,3/31/2014,Spring 2014,8,Jess and Taylor,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+473,3/31/2014,Spring 2014,8,Jess and Taylor,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+474,3/31/2014,Spring 2014,8,Jess and Taylor,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,39,1000,2000
+475,3/31/2014,Spring 2014,8,Jess and Taylor,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+1416,5/23/2014,Spring 2014,9,Allison and Ed,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,31,1000,2000
+1417,5/23/2014,Spring 2014,9,Adam and Liz,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+1418,5/23/2014,Spring 2014,9,Allison and Ed,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+1419,5/23/2014,Spring 2014,9,Adam and Liz,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+1420,5/23/2014,Spring 2014,9,Adam and Liz,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+1421,5/23/2014,Spring 2014,9,Ed and Carlos,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,25,1000,2000
+1422,6/14/2014,Summer 2014,9,Liz and Jessie,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,77,1000,2000
+1423,6/14/2014,Summer 2014,9,Lad and Liz R. ,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+1424,6/14/2014,Summer 2014,9,Liz and Jessie,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,63,1000,2000
+1425,6/14/2014,Summer 2014,9,Lad and Liz R. ,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+1426,6/14/2014,Summer 2014,9,Lad and Liz R. ,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+1427,6/14/2014,Summer 2014,9,Liz and Jessie,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+1428,6/14/2014,Summer 2014,9,Lad and Liz R. ,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+1429,6/14/2014,Summer 2014,9,Liz and Jessie,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+1430,6/15/2014,Summer 2014,9,Lad and Jes,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,63,1000,2000
+1431,6/15/2014,Summer 2014,9,Keri and Jessie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+1432,6/15/2014,Summer 2014,9,Lad and Jes,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+1433,6/15/2014,Summer 2014,9,Keri and Jessie,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+1434,6/15/2014,Summer 2014,9,Lad and Jes,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,62,1000,2000
+1435,6/15/2014,Summer 2014,9,Keri and Jessie,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+1436,6/15/2014,Summer 2014,9,Lad and Jes,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+1437,6/15/2014,Summer 2014,9,Keri and Jessie,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,30,1000,2000
+1439,6/16/2014,Summer 2014,9,Emily and Lad,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+1440,6/16/2014,Summer 2014,9,Jes and Jessie,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+1441,6/16/2014,Summer 2014,9,Emily and Lad,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+1442,6/16/2014,Summer 2014,9,Jes and Jessie,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+1443,6/16/2014,Summer 2014,9,Jes and Jessie,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+1444,6/16/2014,Summer 2014,9,Emily and Lad,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+2009,4/23/2013,Spring 2013,3,Shelby/Greg,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2010,4/23/2013,Spring 2013,3,Ryan/Vanessa,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2011,4/23/2013,Spring 2013,3,Shelby/Greg,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,45,1000,2000
+2012,4/23/2013,Spring 2013,3,Ryan/Vanessa,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,45,1000,2000
+2017,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,69,1000,2000
+2018,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,46,1000,2000
+2019,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,63,1000,2000
+2020,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2035,7/9/2013,Summer 2013,4,Kristian/Catie,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2036,7/9/2013,Summer 2013,4,Ana/Alex,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+2037,7/9/2013,Summer 2013,4,Ryan/Ben,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2038,7/9/2013,Summer 2013,4,Ana/Alex,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2043,7/10/2013,Summer 2013,4,Terry/Ana,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2044,7/10/2013,Summer 2013,4,Ryan/Kristian,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2045,7/10/2013,Summer 2013,4,Ryan/Kristian,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2046,7/10/2013,Summer 2013,4,Terry/Ana,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2051,7/19/2013,Summer 2013,4,Ryan/Shelby,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2052,7/19/2013,Summer 2013,4,Ryan/Shelby,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2059,7/23/2013,Summer 2013,4,Shelby/Ryan,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2060,7/23/2013,Summer 2013,4,Ana/Kristian,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2061,8/20/2013,Summer 2013,4,Christina/Ana,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+2062,8/20/2013,Summer 2013,4,Ryan/Kristian,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2063,9/23/2013,Fall 2013,5,Katie/Shelby,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,72,1000,2000
+2064,9/23/2013,Fall 2013,5,Ana/Kristian,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2065,9/23/2013,Fall 2013,5,Ryan/Katie,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2066,9/23/2013,Fall 2013,5,Ana/Kristian,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2075,9/24/2013,Fall 2013,5,Ryan/Shelby,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2076,9/24/2013,Fall 2013,5,Kristian/Ana,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,61,1000,2000
+2077,9/24/2013,Fall 2013,5,Kristian/Katie,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2078,9/24/2013,Fall 2013,5,Ryan/Shelby,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2087,9/25/2013,Fall 2013,5,Shelby/Ryan,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2088,9/25/2013,Fall 2013,5,Katie/Terry,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2089,9/25/2013,Fall 2013,5,Shelby/Ryan,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2090,9/25/2013,Fall 2013,5,Katie/Terry,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2091,9/25/2013,Fall 2013,5,Shelby/Ryan,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,33,1000,2000
+2092,9/25/2013,Fall 2013,5,Katie/Terry,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,33,1000,2000
+2093,9/25/2013,Fall 2013,5,Shelby/Ryan,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2094,9/25/2013,Fall 2013,5,Katie/Terry,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2095,10/21/2013,Fall 2013,6,Shelby/Kristian,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,75,1000,2000
+2096,10/21/2013,Fall 2013,6,Katie/Ana,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,75,1000,2000
+2097,10/21/2013,Fall 2013,6,Shelby/Kristian,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,66,1000,2000
+2098,10/21/2013,Fall 2013,6,Katie/Ana,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2107,10/22/2013,Fall 2013,6,Shelby/Kristian,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,63,1000,2000
+2108,10/22/2013,Fall 2013,6,Katie/Ana,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,69,1000,2000
+2109,10/22/2013,Fall 2013,6,Shelby/Kristian,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2110,10/22/2013,Fall 2013,6,Katie/Ana,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,57,1000,2000
+2111,10/22/2013,Fall 2013,6,Shelby/Kristian,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,67,1000,2000
+2112,10/22/2013,Fall 2013,6,Katie/Ana,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2117,11/7/2013,Fall 2013,6,Shelby/Kristian,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2118,11/7/2013,Fall 2013,6,Katie/Ana,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2119,11/7/2013,Fall 2013,6,Shelby/Kristian,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,32,1000,2000
+2120,11/7/2013,Fall 2013,6,Katie/Ana,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,34,1000,2000
+2121,11/7/2013,Fall 2013,6,Shelby/Kristian,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2122,11/7/2013,Fall 2013,6,Katie/Ana,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,57,1000,2000
+2127,12/10/2013,Winter 2014,7,Katie/Ana,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,69,1000,2000
+2128,12/10/2013,Winter 2014,7,Shelby/Kristian,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2129,12/10/2013,Winter 2014,7,Shelby/Kristian,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2130,12/10/2013,Winter 2014,7,Katie/Ana,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+2131,12/12/2013,Winter 2014,7,Kristian/Terry,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,66,1000,2000
+2132,12/12/2013,Winter 2014,7,Katie/Ana,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2133,12/12/2013,Winter 2014,7,Kristian/Terry,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+2134,12/12/2013,Winter 2014,7,Katie/Ana,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2139,1/6/2014,Winter 2014,7,Ana/Katie,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,44,1000,2000
+2140,1/6/2014,Winter 2014,7,Ana/Katie,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,57,1000,2000
+2141,1/6/2014,Winter 2014,7,Katie/Shelby,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,34,1000,2000
+2142,1/6/2014,Winter 2014,7,Katie/Shelby,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,34,1000,2000
+2147,1/13/2014,Winter 2014,7,Shelby/Kristian,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,61,1000,2000
+2148,1/13/2014,Winter 2014,7,Katie/Ana,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2149,1/13/2014,Winter 2014,7,Katie/Ana,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,63,1000,2000
+2150,1/13/2014,Winter 2014,7,Shelby/Kristian,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2159,2/25/2014,Winter 2014,8,Ana/Kristian,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,69,1000,2000
+2160,2/25/2014,Winter 2014,8,Ana/Kristian,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2161,2/25/2014,Winter 2014,8,Ana/Kristian,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2162,2/25/2014,Winter 2014,8,Ana/Kristian,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2165,2/26/2014,Winter 2014,8,Shelby/Christina,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2166,2/26/2014,Winter 2014,8,Shelby/Christina,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2167,2/26/2014,Winter 2014,8,Katie/Kristian,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,66,1000,2000
+2168,2/26/2014,Winter 2014,8,Katie/Kristian,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,66,1000,2000
+2169,3/3/2014,Spring 2014,8,Shelby/Kristian,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+2170,3/3/2014,Spring 2014,8,Shelby/Kristian,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+2171,3/3/2014,Spring 2014,8,Shelby/Ana,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,32,1000,2000
+2172,3/3/2014,Spring 2014,8,Shelby/Ana,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,32,1000,2000
+2174,3/10/2014,Spring 2014,8,Shelby/Kristian,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2175,3/10/2014,Spring 2014,8,Katie/Ana,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,61,1000,2000
+2176,3/10/2014,Spring 2014,8,Shelby/Kristian,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,49,1000,2000
+2177,3/10/2014,Spring 2014,8,Katie/Ana,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,51,1000,2000
+2178,7/29/2014,Summer 2014,10,Emily and Keri,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2179,7/29/2014,Summer 2014,10,Jessie and Allison,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2180,7/29/2014,Summer 2014,10,Emily and Keri,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,31,1000,2000
+2181,7/29/2014,Summer 2014,10,Jessie and Carlos,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2182,7/29/2014,Summer 2014,10,Emily and Allison,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2183,7/29/2014,Summer 2014,10,Jessie and Carlos,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2186,8/4/2014,Summer 2014,10,Emily and Jessie,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+2187,8/4/2014,Summer 2014,10,"Liz, Jes, Jeremy",KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,52,1000,2000
+2188,8/4/2014,Summer 2014,10,"Emily, Jes, Jessie",KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+2189,8/4/2014,Summer 2014,10,Liz and Jeremy,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,57,1000,2000
+2190,8/4/2014,Summer 2014,10,"Emily, Jes, Jessie",KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2191,8/4/2014,Summer 2014,10,Liz and Jeremy,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2192,8/4/2014,Summer 2014,10,"Emily, Jes, Jessie",KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2193,8/4/2014,Summer 2014,10,Liz and Jeremy,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2196,8/5/2014,Summer 2014,10,Jes and Jessie,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2197,8/5/2014,Summer 2014,10,Liz and Emily,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,80,1000,2000
+2198,8/5/2014,Summer 2014,10,Jes and Jessie,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2199,8/5/2014,Summer 2014,10,Liz and Emily,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,70,1000,2000
+2200,8/5/2014,Summer 2014,10,Jes and Jessie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+2201,8/5/2014,Summer 2014,10,Liz and Jessie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2202,8/5/2014,Summer 2014,10,Liz and Emily,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,67,1000,2000
+2203,8/5/2014,Summer 2014,10,Jes and Jessie,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,52,1000,2000
+2204,8/6/2014,Summer 2014,10,Liz and Emily,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+2205,8/6/2014,Summer 2014,10,Jes and Jessie,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+2206,8/6/2014,Summer 2014,10,Liz and Emily,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2207,8/6/2014,Summer 2014,10,Jes and Jessie,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,33,1000,2000
+2208,8/6/2014,Summer 2014,10,Jes and Jessie,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+2209,8/6/2014,Summer 2014,10,Liz and Emily,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2230,9/2/2014,Fall 2014,11,Lad and Gracie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2231,9/2/2014,Fall 2014,11,Liz and Anna,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+2232,9/2/2014,Fall 2014,11,Lad and Gracie,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+2233,9/2/2014,Fall 2014,11,Liz and Anna,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2242,9/3/2014,Fall 2014,11,Lad and Ashtyn,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+2243,9/3/2014,Fall 2014,11,Liz and Gracie,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2244,9/3/2014,Fall 2014,11,Lad and Ashtyn,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2245,9/3/2014,Fall 2014,11,Liz and Gracie,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2252,9/4/2014,Fall 2014,11,Lad and Amy,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+2253,9/4/2014,Fall 2014,11,Liz and Alyssa,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2254,9/4/2014,Fall 2014,11,Lad and Amy,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2255,9/4/2014,Fall 2014,11,Liz and Alyssa,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,35,1000,2000
+2260,9/5/2014,Fall 2014,11,Lad and Ashtyn,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,68,1000,2000
+2261,9/5/2014,Fall 2014,11,Liz and Alyssa,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+2262,9/5/2014,Fall 2014,11,Lad and Alyssa,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2263,9/5/2014,Fall 2014,11,Liz and Ashtyn,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+2270,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+2271,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,45,1000,2000
+2272,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,29,1000,2000
+2273,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,29,1000,2000
+2280,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2281,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2282,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2283,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2290,9/18/2014,Fall 2014,12,Liz and Ashtyn,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2291,9/18/2014,Fall 2014,12,Liz and Ashtyn,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2292,9/18/2014,Fall 2014,12,Liz and Ashtyn,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2293,9/18/2014,Fall 2014,12,Liz and Ashtyn,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2301,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2302,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,48,1000,2000
+2303,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2304,9/19/2014,Fall 2014,12,Gracie and Alex,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2308,9/22/2014,Fall 2014,12,Alyssa and Anna,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,57,1000,2000
+2309,9/22/2014,Fall 2014,12,Alyssa and Anna,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2310,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+2311,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2321,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,70,1000,2000
+2322,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2323,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2324,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+2334,9/25/2014,Fall 2014,12,Carlos and Alyssa,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2335,9/25/2014,Fall 2014,12,Carlos and Alyssa,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2336,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2337,9/25/2014,Fall 2014,12,Carlos and Alyssa,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2347,9/26/2014,Fall 2014,12,Carlos and Ashtyn,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2348,9/26/2014,Fall 2014,12,Carlos and Ashtyn,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2349,9/26/2014,Fall 2014,12,Allison and Ashtyn,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2350,9/26/2014,Fall 2014,12,Allison and Ashtyn,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2351,9/28/2014,Fall 2014,12,Amy and Anna,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2352,9/28/2014,Fall 2014,12,Amy and Anna,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2353,9/28/2014,Fall 2014,12,Amy and Anna,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+2354,9/28/2014,Fall 2014,12,Amy and Anna,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2355,9/28/2014,Fall 2014,12,Amy and Anna,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,33,1000,2000
+2356,9/28/2014,Fall 2014,12,Amy and Anna,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,31,1000,2000
+2360,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+2361,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+2362,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+2363,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+2364,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2365,9/29/2014,Fall 2014,12,Alyssa and Ashtyn,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+2372,5/5/2014,Spring 2014,9,Katie and Kristian,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,74,1000,2000
+2373,5/5/2014,Spring 2014,9,Shelby and Matt,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2374,5/5/2014,Spring 2014,9,Katie and Kristian,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2375,5/5/2014,Spring 2014,9,Shelby and Matt,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2388,5/28/2014,Spring 2014,9,Shelby and Kristian,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2389,5/28/2014,Spring 2014,9,Shelby and Kristian,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2390,5/28/2014,Spring 2014,9,Shelby and Kristian,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2391,5/28/2014,Spring 2014,9,Shelby and Kristian,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2392,6/9/2014,Summer 2014,9,Katie and Kristian,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,61,1000,2000
+2393,6/9/2014,Summer 2014,9,Katie and Kristian,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,61,1000,2000
+2394,6/9/2014,Summer 2014,9,Katie and Kristian,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2395,6/9/2014,Summer 2014,9,Katie and Kristian,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,40,1000,2000
+2396,6/10/2014,Summer 2014,9,Shelby and Kristian,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2397,6/10/2014,Summer 2014,9,Shelby and Kristian,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2398,6/10/2014,Summer 2014,9,Shelby and Kristian,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,29,1000,2000
+2399,6/10/2014,Summer 2014,9,Shelby and Kristian,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,31,1000,2000
+2400,12/8/2014,Winter 2015,13,Liz and Gracie,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2401,12/8/2014,Winter 2015,13,Amy and Alyssa,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2402,12/8/2014,Winter 2015,13,Liz and Gracie,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2403,12/8/2014,Winter 2015,13,Amy and Alyssa,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,48,1000,2000
+2404,12/8/2014,Winter 2015,13,Liz and Amy,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+2405,12/8/2014,Winter 2015,13,Gracie and Alyssa,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2406,12/8/2014,Winter 2015,13,Liz and Amy,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2407,12/8/2014,Winter 2015,13,Gracie and Alyssa,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2428,12/10/2014,Winter 2015,13,Liz and Ashtyn,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,80,1000,2000
+2429,12/10/2014,Winter 2015,13,Amy and Anna,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2430,12/10/2014,Winter 2015,13,Liz and Ashtyn,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,75,1000,2000
+2431,12/10/2014,Winter 2015,13,Amy and Anna,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,68,1000,2000
+2432,12/10/2014,Winter 2015,13,Liz and Ashtyn,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2433,12/10/2014,Winter 2015,13,Amy and Anna,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2434,12/10/2014,Winter 2015,13,Liz and Ashtyn,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2435,12/10/2014,Winter 2015,13,Amy and Anna,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,59,1000,2000
+2436,12/11/2014,Winter 2015,13,Alyssa and Anna,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2437,12/11/2014,Winter 2015,13,Liz and Gracie,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2438,12/11/2014,Winter 2015,13,Alyssa and Anna,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+2439,12/11/2014,Winter 2015,13,Liz and Gracie,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+2440,12/11/2014,Winter 2015,13,Alyssa and Anna,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2441,12/11/2014,Winter 2015,13,Liz and Gracie,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2445,12/16/2014,Winter 2015,13,Liz and Alyssa,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2446,12/16/2014,Winter 2015,13,Amy and Anna,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2447,12/16/2014,Winter 2015,13,Liz and Alyssa,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2448,12/16/2014,Winter 2015,13,Amy and Anna,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,61,1000,2000
+2449,12/16/2014,Winter 2015,13,Liz and Alyssa,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,51,1000,2000
+2450,12/16/2014,Winter 2015,13,Amy and Anna,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2451,12/16/2014,Winter 2015,13,Liz and Alyssa,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2452,12/16/2014,Winter 2015,13,Amy and Anna,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2453,12/17/2014,Winter 2015,13,Liz and Ben Acker,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2454,12/17/2014,Winter 2015,13,Amy and Anna,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2455,12/17/2014,Winter 2015,13,Liz and Ben Acker,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2456,12/17/2014,Winter 2015,13,Amy and Anna,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2457,12/17/2014,Winter 2015,13,Liz and Ben Acker,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2458,12/17/2014,Winter 2015,13,Amy and Anna,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2461,12/18/2014,Winter 2015,13,Liz and Tyler E.,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2462,12/18/2014,Winter 2015,13,Alyssa and Ashtyn,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,47,1000,2000
+2479,12/31/2014,Winter 2015,13,Lad and Liz,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,27,1000,2000
+2480,12/31/2014,Winter 2015,13,Allison and Carlos,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+2481,12/31/2014,Winter 2015,13,Allison and Carlos,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+2482,12/31/2014,Winter 2015,13,Lad and Liz,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,35,1000,2000
+2483,12/31/2014,Winter 2015,13,Allison and Carlos,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2484,12/31/2014,Winter 2015,13,Lad and Liz,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2487,1/19/2015,Winter 2015,14,Liz and Jack,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2488,1/19/2015,Winter 2015,14,Amy and Kristen,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2489,1/19/2015,Winter 2015,14,Liz and Jack,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,70,1000,2000
+2490,1/19/2015,Winter 2015,14,Amy and Kristen,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2491,1/20/2015,Winter 2015,14,Liz and BZ,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,75,1000,2000
+2492,1/20/2015,Winter 2015,14,Anna and Jack,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,74,1000,2000
+2493,1/20/2015,Winter 2015,14,Liz and BZ,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,80,1000,2000
+2494,1/20/2015,Winter 2015,14,Anna and Jack,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+2495,1/20/2015,Winter 2015,14,Liz and BZ,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,70,1000,2000
+2496,1/20/2015,Winter 2015,14,Anna and Jack,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+2497,1/20/2015,Winter 2015,14,Liz and BZ,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2498,1/20/2015,Winter 2015,14,Anna and Jack,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+2499,1/21/2015,Winter 2015,14,Liz and BZ,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+2500,1/21/2015,Winter 2015,14,Anna and Jack,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2503,1/21/2015,Winter 2015,14,Liz and BZ,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2504,1/21/2015,Winter 2015,14,Anna and Jack,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2523,1/27/2015,Winter 2015,14,Amy and Jack,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,46,1000,2000
+2524,1/27/2015,Winter 2015,14,Liz and Kristen,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,46,1000,2000
+2525,1/27/2015,Winter 2015,14,Amy and Jack,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,47,1000,2000
+2526,1/27/2015,Winter 2015,14,Liz and Kristen,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2527,1/27/2015,Winter 2015,14,Amy and Jack,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,48,1000,2000
+2528,1/27/2015,Winter 2015,14,Liz and Kristen,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2531,1/30/2015,Winter 2015,14,Amy and Anna,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,33,1000,2000
+2532,1/30/2015,Winter 2015,14,Carlos and BZ,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,34,1000,2000
+2533,1/30/2015,Winter 2015,14,Amy and Anna,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,24,1000,2000
+2534,1/30/2015,Winter 2015,14,Carlos and BZ,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,21,1000,2000
+2535,1/30/2015,Winter 2015,14,Amy and Anna,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,29,1000,2000
+2536,1/30/2015,Winter 2015,14,Allison and BZ,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,36,1000,2000
+2539,2/3/2015,Winter 2015,14,Liz and BZ,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2540,2/3/2015,Winter 2015,14,Amy and Anna,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,63,1000,2000
+2543,2/3/2015,Winter 2015,14,Liz and BZ,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,64,1000,2000
+2544,2/3/2015,Winter 2015,14,Amy and Anna,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2547,2/11/2015,Winter 2015,14,Liz and Anna,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2548,2/11/2015,Winter 2015,14,Amy and Ashtyn,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,51,1000,2000
+2549,2/11/2015,Winter 2015,14,Liz and Anna,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2550,2/11/2015,Winter 2015,14,Amy and Ashtyn,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2561,2/12/2015,Winter 2015,14,Liz and Jason V.,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2562,2/12/2015,Winter 2015,14,BZ and Kristen,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+2563,2/12/2015,Winter 2015,14,Liz and Jason V.,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2564,2/12/2015,Winter 2015,14,BZ and Kristen,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2567,2/12/2015,Winter 2015,14,Liz and Jason V.,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2568,2/12/2015,Winter 2015,14,BZ and Kristen,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,66,1000,2000
+2569,2/12/2015,Winter 2015,14,"Liz, BZ, and Kristen",BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2570,2/12/2015,Winter 2015,14,"Liz, BZ, and Kristen",BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2571,3/16/2015,Spring 2015,15,Allison and Carlos,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2572,3/16/2015,Spring 2015,15,Allison and Carlos,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+2573,3/16/2015,Spring 2015,15,Allison and Ed,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2574,3/16/2015,Spring 2015,15,Allison and Ed,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,61,1000,2000
+2581,3/17/2015,Spring 2015,15,BZ and Kristen,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+2582,3/17/2015,Spring 2015,15,BZ and Kristen,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,58,1000,2000
+2583,3/17/2015,Spring 2015,15,BZ and Kristen,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2584,3/17/2015,Spring 2015,15,BZ and Kristen,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,41,1000,2000
+2585,3/18/2015,Spring 2015,15,Amy and BZ,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2586,3/18/2015,Spring 2015,15,Amy and BZ,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+2587,3/18/2015,Spring 2015,15,Amy and BZ,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2588,3/18/2015,Spring 2015,15,Amy and BZ,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2595,3/19/2015,Spring 2015,15,Jack and Allison,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,82,1000,2000
+2596,3/19/2015,Spring 2015,15,Jack and Allison,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,44,1000,2000
+2597,3/19/2015,Spring 2015,15,Jack and Carlos,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,35,1000,2000
+2598,3/19/2015,Spring 2015,15,Jack and Carlos,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,35,1000,2000
+2605,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,62,1000,2000
+2606,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2607,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2608,3/20/2015,Spring 2015,15,Kristen and Anna,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2615,3/22/2015,Spring 2015,15,Allison and Carlos,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,39,1000,2000
+2616,3/22/2015,Spring 2015,15,Allison and Carlos,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,39,1000,2000
+2617,3/22/2015,Spring 2015,15,Allison and Ed,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2618,3/22/2015,Spring 2015,15,Allison and Ed,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2619,3/22/2015,Spring 2015,15,Ed and Carlos,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2620,3/22/2015,Spring 2015,15,Ed and Carlos,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2624,3/23/2015,Spring 2015,15,Anna and BZ,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+2625,3/23/2015,Spring 2015,15,Anna and BZ,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2626,3/23/2015,Spring 2015,15,Anna and BZ,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,46,1000,2000
+2627,3/23/2015,Spring 2015,15,Anna and BZ,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+2628,3/23/2015,Spring 2015,15,Anna and BZ,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,47,1000,2000
+2629,3/23/2015,Spring 2015,15,Anna and BZ,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,48,1000,2000
+2633,3/24/2015,Spring 2015,15,Jack and Allison,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,61,1000,2000
+2634,3/24/2015,Spring 2015,15,Jack and Allison,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+2635,3/24/2015,Spring 2015,15,Jack and Allison,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+2636,3/24/2015,Spring 2015,15,Jack and Allison,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,49,1000,2000
+2649,3/25/2015,Spring 2015,15,Amy and Anna,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+2650,3/25/2015,Spring 2015,15,Amy and Anna,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+2651,3/25/2015,Spring 2015,15,Amy and Anna,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,48,1000,2000
+2652,3/25/2015,Spring 2015,15,Amy and Anna,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2662,3/26/2015,Spring 2015,15,Jack and BZ,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,57,1000,2000
+2663,3/26/2015,Spring 2015,15,Jack and BZ,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,43,1000,2000
+2664,3/26/2015,Spring 2015,15,Jack and BZ,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,74,1000,2000
+2665,3/26/2015,Spring 2015,15,Jack and BZ,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,74,1000,2000
+2675,5/18/2015,Spring 2015,16,Lizard and Tyler E.,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2676,5/18/2015,Spring 2015,16,Anna and Jack,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+2677,5/18/2015,Spring 2015,16,Lizard and Tyler E.,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2678,5/18/2015,Spring 2015,16,Anna and Jack,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,52,1000,2000
+2679,5/18/2015,Spring 2015,16,Lizard and Tyler E.,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2680,5/18/2015,Spring 2015,16,Anna and Jack,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,37,1000,2000
+2681,5/18/2015,Spring 2015,16,Lizard and Tyler E.,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2682,5/18/2015,Spring 2015,16,Anna and Jack,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,51,1000,2000
+2683,5/19/2015,Spring 2015,16,Lizard and Ed,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,63,1000,2000
+2684,5/19/2015,Spring 2015,16,Anna and BZ,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,63,1000,2000
+2685,5/19/2015,Spring 2015,16,Lizard and Ed,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,75,1000,2000
+2686,5/19/2015,Spring 2015,16,Anna and BZ,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+2687,5/19/2015,Spring 2015,16,Lizard and Ed,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,70,1000,2000
+2688,5/19/2015,Spring 2015,16,Anna and BZ,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,52,1000,2000
+2689,5/19/2015,Spring 2015,16,Lizard and Ed,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2690,5/19/2015,Spring 2015,16,Anna and BZ,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,54,1000,2000
+2711,5/21/2015,Spring 2015,16,Lizard and Ed,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2712,5/21/2015,Spring 2015,16,Anna and BZ,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2713,5/21/2015,Spring 2015,16,Lizard and Ed,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2714,5/21/2015,Spring 2015,16,Anna and BZ,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,57,1000,2000
+2715,5/21/2015,Spring 2015,16,Lizard and Ed,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2716,5/21/2015,Spring 2015,16,Anna and BZ,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,52,1000,2000
+2717,5/21/2015,Spring 2015,16,Lizard and Ed,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2718,5/21/2015,Spring 2015,16,Anna and BZ,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+2735,6/2/2015,Summer 2015,16,Lad and Steve Schalk,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,70,1000,2000
+2736,6/2/2015,Summer 2015,16,Ed and Ashtyn,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2737,6/2/2015,Summer 2015,16,Lad and Steve Schalk,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2738,6/2/2015,Summer 2015,16,Ed and Ashtyn,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2739,6/2/2015,Summer 2015,16,Lad and Steve Schalk,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2740,6/2/2015,Summer 2015,16,Ed and Ashtyn,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,51,1000,2000
+2741,6/2/2015,Summer 2015,16,Lad and Steve Schalk,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,27,1000,2000
+2742,6/2/2015,Summer 2015,16,Ed and Ashtyn,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,26,1000,2000
+2743,6/4/2015,Summer 2015,16,Lad and Steve Schalk,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2744,6/4/2015,Summer 2015,16,Ed and Carlos,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+2745,6/4/2015,Summer 2015,16,Lad and Steve Schalk,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+2746,6/4/2015,Summer 2015,16,Ed and Carlos,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,42,1000,2000
+2747,6/4/2015,Summer 2015,16,Lad and Steve Schalk,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,46,1000,2000
+2748,6/4/2015,Summer 2015,16,Ed and Carlos,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,46,1000,2000
+2751,6/10/2015,Summer 2015,16,Lad and Abbey,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2752,6/10/2015,Summer 2015,16,Carlos and Miranda,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,24,1000,2000
+2753,6/10/2015,Summer 2015,16,Lad and Abbey,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,29,1000,2000
+2754,6/10/2015,Summer 2015,16,Carlos and Miranda,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,26,1000,2000
+2755,6/10/2015,Summer 2015,16,Lad and Abbey,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,32,1000,2000
+2756,6/10/2015,Summer 2015,16,Carlos and Miranda,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,33,1000,2000
+2762,7/20/2015,Summer 2015,17,Emily and Lad,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+2763,7/20/2015,Summer 2015,17,Miranda and Kara,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+2764,7/20/2015,Summer 2015,17,Emily and Kara,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,48,1000,2000
+2765,7/20/2015,Summer 2015,17,Lad and Miranda,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2782,7/22/2015,Summer 2015,17,Emily and Lad,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,65,1000,2000
+2783,7/22/2015,Summer 2015,17,James and Abbey,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2784,7/22/2015,Summer 2015,17,Emily and Lad,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2785,7/22/2015,Summer 2015,17,James and Abbey,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,59,1000,2000
+2786,7/22/2015,Summer 2015,17,Emily and Lad,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+2787,7/22/2015,Summer 2015,17,James and Abbey,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2788,7/22/2015,Summer 2015,17,Emily and Lad,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,40,1000,2000
+2789,7/22/2015,Summer 2015,17,James and Abbey,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,35,1000,2000
+2790,7/23/2015,Summer 2015,17,Emily and Lad,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2791,7/23/2015,Summer 2015,17,Carlos and Allison Estape,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2792,7/23/2015,Summer 2015,17,Emily and Lad,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2793,7/23/2015,Summer 2015,17,Carlos and Allison Estape,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2800,7/24/2015,Summer 2015,17,Emily and Lad,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,25,1000,2000
+2801,7/24/2015,Summer 2015,17,Carlos and Allison Estape,Ten 5A,0.5,Florida,FKNMS,Tennessee Reef,continuous,33,1000,2000
+2802,7/24/2015,Summer 2015,17,Emily and Lad,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2803,7/24/2015,Summer 2015,17,Carlos and Allison Estape,Ten 3A,0.5,Florida,FKNMS,Tennessee Reef,continuous,33,1000,2000
+2804,7/24/2015,Summer 2015,17,Emily and Lad,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,30,1000,2000
+2805,7/24/2015,Summer 2015,17,Carlos and Allison Estape,Ten 2A,0.5,Florida,FKNMS,Tennessee Reef,continuous,36,1000,2000
+2808,7/27/2015,Summer 2015,17,Emily and Lad,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2809,7/27/2015,Summer 2015,17,Steve and Trudy,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2810,7/27/2015,Summer 2015,17,Emily and Lad,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2811,7/27/2015,Summer 2015,17,Steve and Trudy,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,45,1000,2000
+2812,7/27/2015,Summer 2015,17,Emily and Lad,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,55,1000,2000
+2813,7/27/2015,Summer 2015,17,Steve and Trudy,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2814,7/27/2015,Summer 2015,17,Emily and Lad,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2815,7/27/2015,Summer 2015,17,Steve,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,36,1000,2000
+2816,7/28/2015,Summer 2015,17,Emily and Lad,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2817,7/28/2015,Summer 2015,17,Steve and Trudy,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+2818,7/28/2015,Summer 2015,17,Emily and Lad,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2819,7/28/2015,Summer 2015,17,Steve and Trudy,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,40,1000,2000
+2820,7/28/2015,Summer 2015,17,Emily and Lad,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2821,7/28/2015,Summer 2015,17,Steve and Trudy,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,59,1000,2000
+2826,7/30/2015,Summer 2015,17,Emily and Lad,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,67,1000,2000
+2827,7/30/2015,Summer 2015,17,Colin and Kara,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,58,1000,2000
+2840,8/4/2015,Summer 2015,17,Emily and Lad,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+2841,8/4/2015,Summer 2015,17,Carlos and Allison Estape,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,40,1000,2000
+2842,8/4/2015,Summer 2015,17,Emily and Lad,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2843,8/4/2015,Summer 2015,17,Carlos and Allison Estape,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,41,1000,2000
+2844,8/4/2015,Summer 2015,17,Emily and Lad,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2845,8/4/2015,Summer 2015,17,Carlos and Allison Estape,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,48,1000,2000
+2846,10/22/2015,Fall 2015,18,BZ and Katie,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,66,1000,2000
+2847,10/22/2015,Fall 2015,18,BZ and Katie,Benwood Ledge,0.5,Florida,FKNMS,Key Largo,continuous,45,1000,2000
+2848,10/22/2015,Fall 2015,18,BZ and Katie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,66,1000,2000
+2849,10/22/2015,Fall 2015,18,BZ and Katie,KL-W2,0.5,Florida,FKNMS,Key Largo,continuous,55,1000,2000
+2850,10/23/2015,Fall 2015,18,Becca and Ed,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,56,1000,2000
+2851,10/23/2015,Fall 2015,18,Becca and Ed,KL-W8,0.5,Florida,FKNMS,Key Largo,continuous,52,1000,2000
+2852,10/23/2015,Fall 2015,18,Emily and Becca,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,74,1000,2000
+2853,10/23/2015,Fall 2015,18,Emily and Becca,Dixie Ledge,0.5,Florida,FKNMS,Key Largo,continuous,74,1000,2000
+2854,10/23/2015,Fall 2015,18,Emily and Becca,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,53,1000,2000
+2855,10/23/2015,Fall 2015,18,Emily and Becca,KL-W7,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2856,10/24/2015,Fall 2015,18,BZ and Ed,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,35,1000,2000
+2857,10/24/2015,Fall 2015,18,BZ and Ed,KL-W11,0.5,Florida,FKNMS,Key Largo,continuous,46,1000,2000
+2858,10/24/2015,Fall 2015,18,BZ and Ed,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,61,1000,2000
+2859,10/24/2015,Fall 2015,18,BZ and Ed,KL-W12,0.5,Florida,FKNMS,Key Largo,continuous,60,1000,2000
+2860,10/24/2015,Fall 2015,18,BZ and Becca,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,50,1000,2000
+2861,10/24/2015,Fall 2015,18,BZ and Becca,KL-W13,0.5,Florida,FKNMS,Key Largo,continuous,47,1000,2000
+2862,10/24/2015,Fall 2015,18,BZ and Becca,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2863,10/24/2015,Fall 2015,18,BZ and Becca,BISC-W12,0.5,Florida,BNP,Biscayne,continuous,57,1000,2000
+2864,10/25/2015,Fall 2015,18,Olivia and Andy,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2865,10/25/2015,Fall 2015,18,Olivia and Andy,Conch 6A,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2866,10/25/2015,Fall 2015,18,Olivia and Andy,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+2867,10/25/2015,Fall 2015,18,Olivia and Andy,Conch 3A,0.5,Florida,FKNMS,Conch Reef,continuous,43,1000,2000
+2868,10/26/2015,Fall 2015,18,Olivia and Ashtyn,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,60,1000,2000
+2869,10/26/2015,Fall 2015,18,Olivia and Ashtyn,BISC-W60-6d,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2870,10/26/2015,Fall 2015,18,Olivia and Ashtyn,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,50,1000,2000
+2871,10/26/2015,Fall 2015,18,Olivia and Ashtyn,BISC-W40-b,0.5,Florida,BNP,Biscayne,continuous,45,1000,2000
+2872,10/26/2015,Fall 2015,18,Olivia and Ashtyn,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,30,1000,2000
+2873,10/26/2015,Fall 2015,18,Olivia and Ashtyn,BISC-W30a,0.5,Florida,BNP,Biscayne,continuous,32,1000,2000
+2874,10/27/2015,Fall 2015,18,Carlos and Katie,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,57,1000,2000
+2875,10/27/2015,Fall 2015,18,Carlos and Katie,BISC-W60-4b,0.5,Florida,BNP,Biscayne,continuous,54,1000,2000
+2876,10/27/2015,Fall 2015,18,Carlos and Katie,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,53,1000,2000
+2877,10/27/2015,Fall 2015,18,Carlos and Katie,BISC-W13,0.5,Florida,BNP,Biscayne,continuous,56,1000,2000
+2878,10/27/2015,Fall 2015,18,Carlos and Katie,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,46,1000,2000
+2879,10/27/2015,Fall 2015,18,Carlos and Katie,BISC-W60-11c,0.5,Florida,BNP,Biscayne,continuous,44,1000,2000
+2880,10/28/2015,Fall 2015,18,BZ and Becca,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,45,1000,2000
+2881,10/28/2015,Fall 2015,18,BZ and Becca,Conch 4B,0.5,Florida,FKNMS,Conch Reef,continuous,44,1000,2000
+2905,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,65,1000,2000
+2906,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-W60-2b,0.5,Florida,BNP,Biscayne,continuous,45,1000,2000
+2136,12/17/2013,Winter 2014,7,Ana/Kristian,BISC-P9a,1,Florida,BNP,Biscayne,patch,27,1008,1806
+2794,7/23/2015,Summer 2015,17,Emily and Lad,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,25,1020,1870
+2795,7/23/2015,Summer 2015,17,Carlos and Allison Estape,KL-P5,0.5,Florida,FKNMS,Key Largo,patch,27,1020,1870
+2145,1/6/2014,Winter 2014,7,Katie/Ana,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,21,1037,1428
+2146,1/6/2014,Winter 2014,7,Katie/Ana,BISC-P11a,0.5,Florida,BNP,Biscayne,patch,21,1037,1428
+53,2/5/2013,Winter 2013,1,Anne Benolkin,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,13,1040,2080
+54,2/5/2013,Winter 2013,1,Alex Kattan,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,14,1040,2080
+163,6/4/2013,Summer 2013,3,Lindsay/Steve,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,10,1040,2080
+164,6/4/2013,Summer 2013,3,Alex/Catie,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,8,1040,2080
+207,8/5/2013,Summer 2013,4,Steve/Alex,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,13,1040,2080
+208,8/5/2013,Summer 2013,4,Steve/Alex,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,13,1040,2080
+294,10/8/2013,Fall 2013,5,Allison,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,12,1040,2080
+295,10/8/2013,Fall 2013,5,Allison,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,12,1040,2080
+296,10/8/2013,Fall 2013,5,Allison,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,12,1040,2080
+297,11/11/2013,Fall 2013,6,Zoe,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,14,1040,2080
+298,11/11/2013,Fall 2013,6,Catie and Lad,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,14.5,1040,2080
+364,2/10/2014,Winter 2014,7,Liz and Jess,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,15,1040,2080
+365,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,16,1040,2080
+395,3/13/2014,Spring 2014,8,Liz and Jess,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,13,1040,2080
+396,3/13/2014,Spring 2014,8,Liz and Jess,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,13,1040,2080
+397,3/13/2014,Spring 2014,8,Liz and Jess,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,13,1040,2080
+1453,5/30/2014,Spring 2014,9,Liz and Becky,KL-P30,1,Florida,FKNMS,Key Largo,patch,18,1040,2080
+2222,8/12/2014,Summer 2014,10,Jes and Jessie,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,12,1040,2080
+2223,8/12/2014,Summer 2014,10,Liz and Emily,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,16,1040,2080
+2234,9/2/2014,Fall 2014,11,Lad and Gracie,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,14,1040,2080
+2235,9/2/2014,Fall 2014,11,Liz and Anna,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,15,1040,2080
+2328,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,10,1040,2080
+2329,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,13,1040,2080
+2330,9/24/2014,Fall 2014,12,Alyssa and Anna,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,14,1040,2080
+2416,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,12,1040,2080
+2417,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,15,1040,2080
+2511,1/22/2015,Winter 2015,14,Liz and BZ,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,17,1040,2080
+2512,1/22/2015,Winter 2015,14,Amy and Kristen,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,16,1040,2080
+2669,3/26/2015,Spring 2015,15,Jack and BZ,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,16,1040,2080
+2670,3/26/2015,Spring 2015,15,Jack and BZ,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,16,1040,2080
+2671,3/26/2015,Spring 2015,15,Jack and BZ,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,16,1040,2080
+2699,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,15,1040,2080
+2700,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,11,1040,2080
+2776,7/21/2015,Summer 2015,17,Emily and Lad,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,15,1045,2660
+2777,7/21/2015,Summer 2015,17,Ellie and Amy,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,15,1045,2660
+2101,10/21/2013,Fall 2013,6,Shelby/Kristian,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,28,1050,1806
+2102,10/21/2013,Fall 2013,6,Katie/Ana,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,27,1050,1806
+2910,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,21,1050,1806
+2911,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,21,1050,1806
+2912,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P9a,0.33,Florida,BNP,Biscayne,patch,21,1050,1806
+2830,7/30/2015,Summer 2015,17,Emily and Lad,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,24,1071,1806
+2831,7/30/2015,Summer 2015,17,Colin and Kara,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,20,1071,1806
+94,2/12/2013,Winter 2013,1,Lindsay Sweet,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,23,1092,2184
+95,2/12/2013,Winter 2013,1,Alex Kattan,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,23,1092,2184
+228,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,20,1092,2184
+229,9/24/2013,Fall 2013,5,Zoe/Catie,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,18,1092,2184
+438,3/20/2014,Spring 2014,8,Ellie and Taylor,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,25,1092,2184
+439,3/20/2014,Spring 2014,8,Ellie and Taylor,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,25,1092,2184
+440,3/20/2014,Spring 2014,8,Ellie and Taylor,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,25,1092,2184
+2274,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-P13a,0.33,Florida,BNP,Biscayne,patch,16,1092,2184
+2275,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-P13a,0.33,Florida,BNP,Biscayne,patch,16,1092,2184
+2276,9/16/2014,Fall 2014,12,Carlos and Gracie,BISC-P13a,0.33,Florida,BNP,Biscayne,patch,16,1092,2184
+2382,5/7/2014,Spring 2014,9,Shelby and Terry,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,27,1092,2184
+2383,5/7/2014,Spring 2014,9,Kristian and Matt,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,27,1092,2184
+2471,12/19/2014,Winter 2015,13,Liz and Alyssa,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,20,1092,2184
+2472,12/19/2014,Winter 2015,13,Amy and Ashtyn,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,20,1092,2184
+2557,2/11/2015,Winter 2015,14,Liz and Anna,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,28,1092,2184
+2558,2/11/2015,Winter 2015,14,Amy and Ashtyn,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,20,1092,2184
+2575,3/16/2015,Spring 2015,15,Ed and Carlos,BISC-P13a,0.33,Florida,BNP,Biscayne,patch,20,1092,2184
+2576,3/16/2015,Spring 2015,15,Ed and Carlos,BISC-P13a,0.33,Florida,BNP,Biscayne,patch,20,1092,2184
+2577,3/16/2015,Spring 2015,15,Ed and Carlos,BISC-P13a,0.33,Florida,BNP,Biscayne,patch,20,1092,2184
+2729,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,24,1092,2184
+2730,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P13a,0.5,Florida,BNP,Biscayne,patch,20,1092,2184
+2907,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,1137.5,1680
+2908,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,1137.5,1680
+2909,11/2/2015,Fall 2015,18,Alyssa and Katie,BISC-P7a,0.33,Florida,BNP,Biscayne,patch,10,1137.5,1680
+2173,3/4/2014,Spring 2014,8,Kristian/Ana,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,26,1209,2184
+121,3/20/2013,Spring 2013,2,Danielle,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,17,1216,2080
+122,3/20/2013,Spring 2013,2,Roger/Patricia Grimes,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,17,1216,2080
+2899,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,12,1235,2660
+2900,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,12,1235,2660
+2901,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,12,1235,2660
+2774,7/21/2015,Summer 2015,17,Emily and Lad,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,15,1248,2080
+2775,7/21/2015,Summer 2015,17,Ellie and Amy,KL-P30,0.5,Florida,FKNMS,Key Largo,patch,14,1248,2080
+2902,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,12,1248,2080
+2903,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,12,1248,2080
+2904,10/31/2015,Fall 2015,18,Carlos and Becca,KL-P30,0.33,Florida,FKNMS,Key Largo,patch,12,1248,2080
+36,2/4/2013,Winter 2013,1,Alex Kattan,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,14,1330,2660
+38,2/4/2013,Winter 2013,1,Mackenzie Brooke,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,14,1330,2660
+125,4/21/2013,Spring 2013,2,Anne/Lad,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,18,1330,2660
+126,4/21/2013,Spring 2013,2,Adam,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,12,1330,2660
+175,6/12/2013,Summer 2013,3,Catie/Lindsay,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,10,1330,2660
+176,6/12/2013,Summer 2013,3,Alexis/Alex,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,14,1330,2660
+212,8/6/2013,Summer 2013,4,Lindsay/Liz B,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,13,1330,2660
+213,8/6/2013,Summer 2013,4,Lindsay/Liz B,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,13,1330,2660
+261,10/5/2013,Fall 2013,5,Austen/Elissa,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,12,1330,2660
+262,10/5/2013,Fall 2013,5,Austen/Elissa,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,12,1330,2660
+324,11/22/2013,Fall 2013,6,Steve Schalk (Pennekamp),KL-P8,1,Florida,FKNMS,Key Largo,patch,14,1330,2660
+366,2/10/2014,Winter 2014,7,Adam and Taylor,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,16,1330,2660
+367,2/10/2014,Winter 2014,7,Liz and Jess,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,14,1330,2660
+405,3/14/2014,Spring 2014,8,Ellie,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,13,1330,2660
+406,3/14/2014,Spring 2014,8,Ellie,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,13,1330,2660
+407,3/14/2014,Spring 2014,8,Ellie,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,13,1330,2660
+1452,5/30/2014,Spring 2014,9,Liz and Becky,KL-P8,1,Florida,FKNMS,Key Largo,patch,16,1330,2660
+2220,8/12/2014,Summer 2014,10,Jes and Jessie,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,11,1330,2660
+2221,8/12/2014,Summer 2014,10,Liz and Emily,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,15,1330,2660
+2236,9/2/2014,Fall 2014,11,Lad and Gracie,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,15,1330,2660
+2237,9/2/2014,Fall 2014,11,Liz and Anna,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,13,1330,2660
+2312,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,11,1330,2660
+2313,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,11,1330,2660
+2314,9/22/2014,Fall 2014,12,Alyssa and Anna,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,11,1330,2660
+2418,12/9/2014,Winter 2015,13,Liz and Alyssa,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,10,1330,2660
+2419,12/9/2014,Winter 2015,13,Anna and Ashtyn,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,15,1330,2660
+2513,1/22/2015,Winter 2015,14,Liz and BZ,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,15,1330,2660
+2514,1/22/2015,Winter 2015,14,Amy and Kristen,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,17,1330,2660
+2666,3/26/2015,Spring 2015,15,Jack and BZ,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,16,1330,2660
+2667,3/26/2015,Spring 2015,15,Jack and BZ,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,16,1330,2660
+2668,3/26/2015,Spring 2015,15,Jack and BZ,KL-P8,0.33,Florida,FKNMS,Key Largo,patch,16,1330,2660
+2701,5/20/2015,Spring 2015,16,Lizard and BZ,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,14,1330,2660
+2702,5/20/2015,Spring 2015,16,Anna and Ashtyn,KL-P8,0.5,Florida,FKNMS,Key Largo,patch,15,1330,2660
+2822,7/28/2015,Summer 2015,17,Emily and Lad,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,21,1482,2184
+2823,7/28/2015,Summer 2015,17,Steve and Trudy,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,11,1482,2184
+2123,11/7/2013,Fall 2013,6,Shelby/Kristian,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,29,1501.5,2184
+2124,11/7/2013,Fall 2013,6,Katie/Ana,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,31,1501.5,2184
+2029,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,27,1618.5,2184
+2030,5/23/2013,Spring 2013,3,Shelby/Vanessa,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,27,1618.5,2184
+2001,3/25/2013,Spring 2013,2,Shelby/Vanessa,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,25,1657.5,2184
+2002,3/25/2013,Spring 2013,2,Shelby/Vanessa,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,25,1657.5,2184
+2069,9/23/2013,Fall 2013,5,Katie/Shelby,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,28,1680,1806
+2070,9/23/2013,Fall 2013,5,Ryan/Kristian,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,29,1680,1806
+2047,7/10/2013,Summer 2013,4,Ryan/Kristian,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,27,1696.5,2184
+2048,7/10/2013,Summer 2013,4,Terry/Ana,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,26,1696.5,2184
+2083,9/24/2013,Fall 2013,5,Shelby/Ryan,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,21,1696.5,2184
+2084,9/24/2013,Fall 2013,5,Ana/Kristian,BISC-P13a,0.5,Florida,BNP,Biscayne,patch,21,1696.5,2184
+2021,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,26,1764,1806
+2022,4/25/2013,Spring 2013,3,Shelby/Ryan,BISC-P9a,0.5,Florida,BNP,Biscayne,patch,26,1764,1806
+2137,12/17/2013,Winter 2014,7,Ana/Kristian,BISC-P15a,1,Florida,BNP,Biscayne,patch,20,2520,6160
+2113,10/22/2013,Fall 2013,6,Shelby/Kristian,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,19,2625,6160
+2114,10/22/2013,Fall 2013,6,Katie/Ana,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,20,2625,6160
+2156,2/24/2014,Winter 2014,8,Ana/Kristian,BISC-P15a,1,Florida,BNP,Biscayne,patch,19,2926,6160
+2013,4/23/2013,Spring 2013,3,Shelby/Greg,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,19,2940,6160
+2014,4/23/2013,Spring 2013,3,Ryan/Vanessa,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,19,2940,6160
+2055,7/22/2013,Summer 2013,4,David/Ana,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,19,2940,6160
+2056,7/22/2013,Summer 2013,4,Kristian/Dan,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,19,2940,6160
+2079,9/24/2013,Fall 2013,5,Shelby/Ryan,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,21,2940,6160
+2080,9/24/2013,Fall 2013,5,Kristian/Ana,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,19,2940,6160
+81,2/8/2013,Winter 2013,1,Master,BISC-P15a,1,Florida,BNP,Biscayne,patch,16,3080,6160
+242,9/26/2013,Fall 2013,5,Austen/Colin,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,17,3080,6160
+243,9/26/2013,Fall 2013,5,Austen/Colin,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,14,3080,6160
+467,3/30/2014,Spring 2014,8,Liz and Elissa,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,14,3080,6160
+468,3/30/2014,Spring 2014,8,Liz and Elissa,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,14,3080,6160
+469,3/30/2014,Spring 2014,8,Liz and Elissa,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,14,3080,6160
+2284,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,20,3080,6160
+2285,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,20,3080,6160
+2286,9/17/2014,Fall 2014,12,Carlos and Alyssa,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,20,3080,6160
+2384,5/22/2014,Spring 2014,9,Ana and Kristian,BISC-P15a,1,Florida,BNP,Biscayne,patch,19,3080,6160
+2477,12/19/2014,Winter 2015,13,Liz and Alyssa,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,10,3080,6160
+2478,12/19/2014,Winter 2015,13,Amy and Ashtyn,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,10,3080,6160
+2559,2/11/2015,Winter 2015,14,Liz and Anna,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,19,3080,6160
+2560,2/11/2015,Winter 2015,14,Amy and Ashtyn,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,20,3080,6160
+2589,3/18/2015,Spring 2015,15,Amy and BZ,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,7,3080,6160
+2590,3/18/2015,Spring 2015,15,Amy and BZ,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,7,3080,6160
+2591,3/18/2015,Spring 2015,15,Amy and BZ,BISC-P15a,0.33,Florida,BNP,Biscayne,patch,7,3080,6160
+2733,5/22/2015,Spring 2015,16,Anna and BZ,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,18,3080,6160
+2734,5/22/2015,Spring 2015,16,"Lad, Jack, Cindy",BISC-P15a,0.5,Florida,BNP,Biscayne,patch,18,3080,6160
+2838,7/30/2015,Summer 2015,17,Emily and Lad,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,12,3080,6160
+2839,7/30/2015,Summer 2015,17,Colin and Kara,BISC-P15a,0.5,Florida,BNP,Biscayne,patch,12,3080,6160
