@@ -1,0 +1,1061 @@
+id,SurveyNum,Avrage_PR,Trans_lengthm,Lionfish_size_TL,Habitat_type,Lionfish_visibility,Lionfish_behaviour,Adj_behaviour,TOD,Num_attempts,Captured_bin,Mins_elapsed,Hrs_elapsed,Adj_min,Gamma_min,Capturer_name,Proportion_caught,Adj_Prop,Prop_remaining,Cap_Dives,Cap_removals,Cap_exp,Cap_affl,Cap_exp_new,Cap_exp_2821
+146,364,0.8,5,28,Reef,SH,rest,rest,midday,0,0,0,0,0,0.00000001,Liz,0.5,0.5,0.5,400,200,High,NRM&CS,High,High
+147,364,0.8,5,30,Reef,SH,rest,rest,midday,0,0,0,0,0,0.00000001,Liz,0.5,0.5,0.5,400,200,High,NRM&CS,High,High
+157,395,0.529411765,15,12,Reef,EXP,rest,rest,midday,0,0,0,0,0,0.00000001,Liz,0,0.001,1,400,200,High,NRM&CS,High,High
+467,2572,0.714285714,29,30,Reef,EXP,swim,active,midday,0,0,,,0,0.00000001,Carlos,0,0.001,1,1272,225,High,Volunteer,High,High
+511,2800,0.7,,20,Reef,SH,rest,rest,midday,0,0,,,0,0.00000001,Lad,0,0.001,1,10000,1000,High,NRM&CS,High,High
+523,2816,0.636363636,50,25,Reef,EXP,hover,active,midday,0,0,,,0,0.00000001,Lad,0.333333333,0.333333333,0.666666667,10000,1000,High,NRM&CS,High,High
+524,2816,0.636363636,50,44,Reef,EXP,hover,active,midday,0,0,,,0,0.00000001,Lad,0.333333333,0.333333333,0.666666667,10000,1000,High,NRM&CS,High,High
+525,2816,0.636363636,50,35,Reef,EXP,hover,active,midday,0,0,,,0,0.00000001,Lad,0.333333333,0.333333333,0.666666667,10000,1000,High,NRM&CS,High,High
+526,2816,0.636363636,50,35,Reef,EXP,hover,active,midday,0,0,,,0,0.00000001,Lad,0.333333333,0.333333333,0.666666667,10000,1000,High,NRM&CS,High,High
+897,5130,0.735442192,,40,Reef,EXP,hover,active,midday,0,0,0,0,0,0.00000001,Grayson and Travis,0.714285714,0.714285714,0.285714286,,,High,Volunteer,High,High
+1035,5413,0.485620915,,40,Reef,EXP,swim,active,Crepuscular,0,0,0,0,0,0.00000001,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1038,5421,0.485620915,,35,Reef,SH,hover,active,midday,0,0,0,0,0,0.00000001,Kris and Grytch,0.333333333,0.333333333,0.666666667,,,High,Volunteer,High,High
+136,322,0.555555556,,,Reef,EXP,rest,rest,midday,0,0,,,0,0.00000001,Steve Schalk,0,0.001,1,,,High,NRM&CS,High,High
+189,1003,0.90625,35,27,Reef,SH,rest,rest,midday,0,0,,,0,0.00000001,Tony,0.857142857,0.857142857,0.142857143,,,,Dive Professional,High,High
+973,5301,0.397435641,,13,Reef,SH,swim,active,Crepuscular,0,0,,0,0,0.00000001,Wall and Kersting,0.5,0.5,0.5,,,High,Volunteer,High,High
+985,5324,0.397435641,,43,Reef,EXP,swim,active,midday,0,0,,0,0,0.00000001,Wall and Kersting,0.7143,0.7143,0.2857,,,High,Volunteer,High,High
+986,5324,0.397435641,,27,Reef,EXP,swim,active,midday,0,0,,0,0,0.00000001,Wall and Kersting,0.7143,0.7143,0.2857,,,High,Volunteer,High,High
+1049,5427,0.485620915,,35,Reef,EXP,hover,active,Crepuscular,0,0,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1053,5427,0.485620915,,30,Reef,EXP,hunt,active,Crepuscular,0,0,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1059,5428,0.485620915,,40,Reef,SH,swim,active,Crepuscular,0,0,0.666666667,0.01111,0.666666667,0.666666667,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+81,207,0.677419355,8,14,Reef,SH,rest,rest,midday,0,0,8.502,0.1417,8.502,8.502,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+82,207,0.677419355,8,15,Reef,SH,rest,rest,midday,0,0,8.502,0.1417,8.502,8.502,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+406,2355,0.625,46,35,Reef,SH,hover,active,midday,0,0,,,0,0.00000001,Amy,0,0.001,1,85,50,Low,Intern,Low,Low
+447,2520,0.714285714,33,22,Reef,SH,rest,rest,midday,0,0,,,0,0.00000001,Amy,0,0.001,1,85,50,Low,Intern,Low,Low
+729,5114,0.735442192,,20,Reef,,,,Crepuscular,0,0,0,0,0,0.00000001,Bryan and Anna,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+610,5101,0.735442192,,15,Reef,EXP,swim,active,Crepuscular,0,0,0.083333333,0.0014,0.083333333,0.083333333,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+1042,5425,0.485620915,,,Reef,SH,hunt,active,Crepuscular,0,0,4,0.06667,4,4,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+223,1109,0.809523809,1,32,Reef,SH,rest,rest,midday,0,0,,,0,0.00000001,Andrew,0.833333333,0.833333333,0.166666667,,,,,Medium,Low
+851,5125,0.735442192,,25,Reef,SH,hover,active,Crepuscular,0,0,0,0,0,0.00000001,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+852,5125,0.735442192,,35,Reef,SH,swim,active,Crepuscular,0,0,0,0,0,0.00000001,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+1020,5410,0.485620915,,41,Reef,EXP,hover,active,Crepuscular,0,0,0,0,0,0.00000001,Curtis and Amy,0.333333333,0.333333333,0.666666667,,,High,Dive Professional,Medium,Low
+823,5124,0.735442192,,28,Reef,EXP,swim,active,Crepuscular,0,0,1,0.01667,1,1,Leah and Jackie,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,Medium,Low
+576,5100,0.735442192,,25,Reef,SH,rest,rest,Crepuscular,0,0,9,0.15,7,7,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+235,1116,0.809523809,46,25,Reef,SH,rest,rest,midday,0,0,13.002,0.2167,7.002,7.002,Andrew,0.6,0.6,0.4,,,,,Medium,Low
+129,297,0.555555556,56,15,Reef,SH,rest,rest,midday,0,0,,,0,0.00000001,Zoe.Liz,0.666666667,0.666666667,0.333333333,32,0,Low,Intern,None,Low
+198,1010,0.90625,25,25,Reef,EXP,hover,active,midday,1,0,0,0,0.083333333,0.00000001,Chris,0.75,0.75,0.25,1000,1000,High,Dive Professional,High,High
+176,464,0.775,14,5,Reef,EXP,rest,rest,midday,1,0,0,0,0.083333333,0.00000001,Ed,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+994,5401,0.485620915,,20,Reef,SH,hunt,active,Crepuscular,1,0,0,0,0.083333333,0.00000001,Fogg and Rachel,0.8,0.8,0.2,,,High,NRM&CS,High,High
+743,5115,0.735442192,,29,Reef,,rest,rest,Crepuscular,1,0,0,,0.083333333,0.00000001,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+744,5115,0.735442192,,25,Reef,,,,Crepuscular,1,0,0,,0.083333333,0.00000001,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+745,5115,0.735442192,,28,Reef,,,,Crepuscular,1,0,0,,0.083333333,0.00000001,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+972,5301,0.397435641,,21,Reef,SH,rest,rest,Crepuscular,1,0,,0.00139,0.083333333,0.00000001,Wall and Kersting,0.5,0.5,0.5,,,High,Volunteer,High,High
+561,2877,0.846153846,7,8,Reef,EXP,rest,rest,midday,1,0,0,0,0.083333333,0.083333333,Carlos,0.5,0.5,0.5,1272,225,High,Volunteer,High,High
+1023,5411,0.485620915,,15,Reef,EXP,hover,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+1024,5411,0.485620915,,22,Reef,EXP,hover,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+1025,5411,0.485620915,,30,Reef,EXP,swim,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+1048,5427,0.485620915,,35,Reef,EXP,hover,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+813,5123,0.735442192,,15,Reef,SH,hover,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,0.8,0.8,0.2,,,High,NRM&CS,High,High
+792,5119,0.735442192,,21,Reef,,rest,rest,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.8,0.8,0.2,,,High,Volunteer,High,High
+704,5112,0.735442192,,22,Reef,SH,swim,active,Crepuscular,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+807,5122,0.735442192,,25,Reef,SH,rest,rest,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+31,122,0.891891892,72,12,Reef,SH,rest,rest,midday,1,0,0,0,0.083333333,0.083333333,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+892,5130,0.735442192,,25,Reef,EXP,hover,active,midday,1,0,0.166666667,0.00278,0.083333334,0.083333334,Grayson and Travis,0.714285714,0.714285714,0.285714286,,,High,Volunteer,High,High
+1092,5440,0.485620915,,33,Reef,EXP,hover,active,midday,1,0,0.333333333,0.00556,0.333333333,0.333333333,Kara and Holden,0.4,0.4,0.6,,,High,NRM&CS,High,High
+1061,5428,0.485620915,,28,Reef,EXP,hover,active,Crepuscular,1,0,0.5,0.00833,0.5,0.5,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+376,2174,,6.1,,Reef,SH,hover,active,midday,1,0,0.582,0.0097,0.582,0.582,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+293,2010,0.857142857,50,17,Reef,SH,rest,rest,midday,1,0,0.966,0.0161,0.966,0.966,Ryan,0.6,0.6,0.4,1500,300,High,NRM&CS,High,High
+616,5102,0.735442192,,25,Reef,,,,Crepuscular,1,0,1,0.0167,1,1,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+806,5122,0.735442192,,23,Reef,SH,swim,active,midday,1,0,1,0.01667,1,1,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+878,5127,0.735442192,,20,Reef,EXP,hunt,active,Crepuscular,1,0,1,0.01667,1,1,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+154,395,0.529411765,54,19,Reef,SH,rest,rest,midday,1,0,1.002,0.0167,1.002,1.002,Liz,0,0.001,1,400,200,High,NRM&CS,High,High
+278,1453,,16,,Reef,SH,rest,rest,midday,1,0,1.002,0.0167,1.002,1.002,Liz T.,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,High,High
+96,208,0.677419355,15,7,Reef,SH,hover,active,midday,1,0,7.164,0.1194,1.5,1.5,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+294,2010,0.857142857,46,12,Sand,EXP,rest,rest,midday,1,0,1.764,0.0294,1.764,1.764,Ryan,0.6,0.6,0.4,1500,300,High,NRM&CS,High,High
+36,122,0.891891892,47,7,Reef,EXP,hover,active,Crepuscular,1,0,1.998,0.0333,1.998,1.998,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+581,5100,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,0,2,0.0333,2,2,Andy and Chuck,0.6,0.6,0.4,,,High,Volunteer,High,High
+614,5102,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,0,2,0.0333,2,2,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+91,208,0.677419355,10,8,Reef,SH,rest,rest,midday,1,0,2.832,0.0472,2.166,2.166,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+150,379,,40,30,Reef,SH,rest,rest,midday,1,0,3,0.05,3,3,Liz,0.5,0.5,0.5,400,200,High,NRM&CS,High,High
+155,395,0.529411765,15,23,Reef,SH,rest,rest,midday,1,0,3,0.05,3,3,Liz,0,0.001,1,400,200,High,NRM&CS,High,High
+471,2615,0.733333333,1,25,Sponge,EXP,rest,rest,midday,1,0,3,0.05,3,3,Carlos,0.5,0.5,0.5,1272,225,High,Volunteer,High,High
+283,1454,0.858974359,23,20,Reef,EXP,swim,active,midday,1,0,3,0.05,3,3,Steve Schalk,0.75,0.75,0.25,,,High,NRM&CS,High,High
+83,207,0.677419355,8,20,Reef,SH,rest,rest,midday,1,0,8.502,0.1417,8.502,8.502,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+231,1113,0.809523809,30,30,Reef,SH,rest,rest,midday,1,0,,,0.083333333,0.00000001,Colin,0.5,0.5,0.5,250,10,Low,Intern,Low,Low
+241,1207,0.8,0,25,Reef,SH,hover,active,midday,1,0,0,0,0.083333333,0.00000001,Colin,0,0.001,1,250,10,Low,Intern,Low,Low
+1056,5427,0.485620915,,38,Reef,SH,hover,active,Crepuscular,1,0,0,0,0.083333333,0.00000001,Andy and Tim ,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+1057,5427,0.485620915,,24,Reef,SH,rest,rest,Crepuscular,1,0,0,0,0.083333333,0.00000001,Andy and Tim ,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+1058,5427,0.485620915,,5,Reef,SH,rest,rest,Crepuscular,1,0,0,0,0.083333333,0.00000001,Andy and Tim ,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+728,5114,0.735442192,,42,Reef,,,,Crepuscular,1,0,0,0,0.083333333,0.00000001,Bryan and Anna,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+1074,5430,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,0,0,0,0.083333333,0.00000001,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+996,5402,0.485620915,,20,Reef,EXP,hover,active,Crepuscular,1,0,0,0,0.083333333,0.00000001,Mike and Amanda,0,0.001,1,,,Low,Volunteer,Low,Low
+1068,5428,0.485620915,,10,Reef,EXP,hover,active,Crepuscular,1,0,0,0,0.083333333,0.00000001,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+1069,5428,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,0,0,0,0.083333333,0.00000001,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+664,5107,0.735442192,,12,Reef,EXP,hover,active,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+665,5107,0.735442192,,12,Reef,EXP,hover,active,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+666,5107,0.735442192,,12,Reef,EXP,hover,active,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+667,5107,0.735442192,,12,Reef,EXP,rest,rest,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+686,5109,0.735442192,,12,Reef,EXP,hover,active,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+687,5109,0.735442192,,12,Reef,EXP,hover,active,midday,1,0,0.083333333,0.0014,0.083333333,0.083333333,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+798,5121,0.735442192,,10,Reef,,,,midday,1,0,0.083333333,0.00139,0.083333333,0.083333333,Hall and Wicksten,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Low,Low
+887,5128,0.735442192,,20,Reef,,,,midday,1,0,0.083333333,0.00139,0.083333333,0.083333333,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+765,5118,0.735442192,,10,Reef,SH,hover,active,midday,1,0,0.083333333,0.00139,0.083333333,0.083333333,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+766,5118,0.735442192,,10,Reef,SH,hover,active,midday,1,0,1,0.01667,0.083333333,0.083333333,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+767,5118,0.735442192,,25,Reef,SH,hover,active,midday,1,0,1,0.01667,0.083333333,0.083333333,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+975,5303,0.397435641,,20,Reef,,,,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Mark and Wes,0,0.001,1,,,Low,Volunteer,Low,Low
+983,5314,0.397435641,,26,Reef,SH,swim,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+372,2168,0.775,12.6,12,Sponge,SH,hover,active,midday,1,0,0.216,0.0036,0.216,0.216,Kristian,0.666666667,0.666666667,0.333333333,60,50,Low,Intern,Low,Low
+353,2139,0.65,25,38,Reef,EXP,rest,rest,midday,1,0,0.234,0.0039,0.234,0.234,Ana,0,0.001,1,260,0,Low,Intern,Low,Low
+380,2177,0.775,,35,Reef,SH,hover,active,midday,1,0,1.002,0.0167,0.5,0.5,Ana,0,0.001,1,260,0,Low,Intern,Low,Low
+381,2177,0.775,,40,Reef,SH,hover,active,midday,1,0,1.002,0.0167,0.5,0.5,Ana,0,0.001,1,260,0,Low,Intern,Low,Low
+1039,5422,0.485620915,,10,Reef,EXP,hover,active,midday,1,0,1,0.01667,1,1,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+717,5114,0.735442192,,10,Reef,EXP,hover,active,Crepuscular,1,0,1,0.0167,1,1,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+718,5114,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,0,2,0.0333,1,1,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+719,5114,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,0,5,0.0833,1,1,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+720,5114,0.735442192,,20,Reef,,swim,active,Crepuscular,1,0,1,0.0167,1,1,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+763,5118,0.735442192,,15,Reef,EXP,hover,active,midday,1,0,1,0.01667,1,1,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+964,5139,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,0,1,0.01667,1,1,Kris and Kaitlin,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+976,5309,0.397435641,,25,Reef,SH,rest,rest,midday,1,0,1,0.01667,1,1,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+1070,5429,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,0,1,0.01667,1,1,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+1071,5429,0.485620915,,30,Reef,EXP,swim,active,Crepuscular,1,0,1,0.01667,1,1,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+318,2060,,50,,Sponge,SH,rest,rest,midday,1,0,1.002,0.0167,1.002,1.002,Ana,0,0.001,1,260,0,Low,Intern,Low,Low
+319,2060,,50,,Sponge,SH,rest,rest,midday,1,0,1.002,0.0167,1.002,1.002,Ana,0,0.001,1,260,0,Low,Intern,Low,Low
+135,302,0.555555556,10,10,Reef,SH,rest,rest,midday,1,0,1.002,0.0167,1.002,1.002,Lindsay,0,0.001,1,500,0,Low,Volunteer,Low,Low
+402,2329,0.625,16,8,Reef,SH,rest,rest,midday,1,0,1.002,0.0167,1.002,1.002,Alyssa,0,0.001,1,100,100,Low,Intern,Low,Low
+441,2497,0.714285714,43,12,Reef,EXP,rest,rest,midday,1,0,1.998,0.0333,1.998,1.998,BZ,0.5,0.5,0.5,150,0,Low,Intern,Low,Low
+444,2509,0.714285714,13,16,Reef,EXP,rest,rest,midday,1,0,1.998,0.0333,1.998,1.998,BZ,0,0.001,1,150,0,Low,Intern,Low,Low
+474,2625,0.733333333,21,11,Reef,EXP,hover,active,midday,1,0,1.998,0.0333,1.998,1.998,BZ,0,0.001,1,150,0,Low,Intern,Low,Low
+644,5103,0.735442192,,10,Reef,EXP,hover,active,Crepuscular,1,0,2,0.0333,2,2,Kris and Kaitlin,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+715,5114,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,0,2,0.0333,2,2,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+469,2601,0.714285714,3,15,Reef,SH,hover,active,midday,1,0,3,0.05,3,3,Jack Fishman,0,0.001,1,400,2,Low,Intern,Low,Low
+661,5107,0.735442192,,20,Reef,EXP,hover,active,midday,1,0,3,0.05,3,3,Harley and Victoria,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+1043,5425,0.485620915,,30,Reef,SH,hunt,active,Crepuscular,1,0,3,0.05,3,3,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+643,5103,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,0,3,0.05,3,3,Kris and Kaitlin,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+713,5114,0.735442192,,30,Reef,EXP,hover,active,Crepuscular,1,0,8,0.1333,3,3,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+450,2536,0.714285714,3,18,Reef,EXP,hover,active,midday,1,0,4.998,0.0833,4.998,4.998,BZ,0.666666667,0.666666667,0.333333333,150,0,Low,Intern,Low,Low
+163,419,0.529411765,50,24,Reef,SH,hover,active,midday,1,0,4.998,0.0833,4.998,4.998,Taylor,0.5,0.5,0.5,130,0,Low,Intern,Low,Low
+246,1213,,4,,Reef,EXP,hover,active,midday,1,0,0,0,0,0.00000001,Rich,0,0.001,1,300,50,Low,NRM&CS,Medium,Low
+984,5317,0.397435641,,20,Reef,EXP,hover,active,Crepuscular,1,0,,0.00139,0,0.00000001,Nikkie and Hanna,0.83333,0.83333,0.16667,,,Low,Volunteer,Medium,Low
+836,5125,0.735442192,,25,Reef,SH,hover,active,Crepuscular,1,0,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+842,5125,0.735442192,,23,Reef,EXP,swim,active,Crepuscular,1,0,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+1019,5410,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Curtis and Amy,0.333333333,0.333333333,0.666666667,,,High,Dive Professional,Medium,Low
+634,5102,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.5,0.5,0.5,,,Low,Volunteer,Medium,Low
+757,5117,0.735442192,,35,Reef,EXP,hover,active,midday,1,0,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Medium,Low
+759,5117,0.735442192,,5,Reef,SH,rest,rest,midday,1,0,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Medium,Low
+850,5125,0.735442192,,,Reef,SH,rest,rest,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Medium,Low
+987,5328,0.397435641,,25,Reef,EXP,hover,active,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Nikkie and Hanna,0.25,0.25,0.75,,,Low,Volunteer,Medium,Low
+988,5328,0.397435641,,20,Reef,SH,,,Crepuscular,1,0,0.083333333,0.00139,0.083333333,0.083333333,Nikkie and Hanna,0.25,0.25,0.75,,,Low,Volunteer,Medium,Low
+989,5328,0.397435641,,20,Reef,SH,,,Crepuscular,1,0,0.083333333,0.00278,0.083333333,0.083333333,Nikkie and Hanna,0.25,0.25,0.75,,,Low,Volunteer,Medium,Low
+592,5101,0.735442192,,18,Reef,EXP,hover,active,Crepuscular,1,0,1,0.01667,1,1,Ari and Rachel,0.833333333,0.833333333,0.166666667,,,High,Volunteer,Medium,Low
+647,5104,0.735442192,,15,Reef,EXP,rest,rest,midday,1,0,1,0.01667,1,1,Ari and Rachel,0.6,0.6,0.4,,,High,Volunteer,Medium,Low
+649,5104,0.735442192,,20,Reef,EXP,swim,active,midday,1,0,1,0.01667,1,1,Ari and Rachel,0.6,0.6,0.4,,,High,Volunteer,Medium,Low
+731,5115,0.735442192,,28,Reef,EXP,hover,active,Crepuscular,1,0,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+910,5133,0.735442192,,24,Reef,SH,hover,active,midday,1,0,1,0.01667,1,1,Leah and Jackie,0.6666667,0.6666667,0.3333333,,,High,NRM&CS,Medium,Low
+961,5139,0.735442192,,22,Reef,EXP,hunt,active,Crepuscular,1,0,1,0.01667,1,1,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+431,2457,0.733333333,25,17,Reef,SH,rest,rest,midday,1,0,1.998,0.0333,1.914666667,1.914666667,Ben Acker,0.666666667,0.666666667,0.333333333,,,,Intern,Medium,Low
+579,5100,0.735442192,,28,Reef,EXP,rest,rest,Crepuscular,1,0,3,0.05,3,3,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+794,5120,0.735442192,,24,Reef,EXP,hover,active,Crepuscular,1,0,3,0.05,3,3,Leah and Jackie,0.5,0.5,0.5,,,High,NRM&CS,Medium,Low
+159,397,0.529411765,,24,Reef,EXP,hover,active,midday,1,0,4.998,0.0833,4.998,4.998,Jess,0.5,0.5,0.5,,,High,Intern,Medium,Low
+551,2864,0.714285714,18,7,Reef,SH,rest,rest,midday,1,0,22.998,0.3833,22.998,22.998,Andy,0,0.001,1,,,,,Medium,Low
+111,275,0.931034483,35,7,Reef,SH,hover,active,Crepuscular,1,0,0,0,0,0.00000001,Zoe.Liz,0.833333333,0.833333333,0.166666667,32,0,Low,Intern,None,Low
+419,2424,0.857142857,,15,Reef,EXP,rest,rest,midday,1,0,1.002,0.0167,1.002,1.002,Anna S.,0,0.001,1,56,0,Low,Intern,None,Low
+509,2794,0.7,33,25,Reef,SH,rest,rest,midday,1,0,1.998,0.0333,1.998,1.998,Emily,0,0.001,1,50,0,Low,Intern,None,Low
+70,200,0.677419355,38,15,Reef,SH,hover,active,midday,1,0,1.998,0.0333,1.998,1.998,Catie,0,0.001,1,56,0,Low,Intern,None,Low
+611,5101,0.735442192,,,Reef,EXP,hover,active,Crepuscular,2,0,0,,0,0.00000001,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+612,5101,0.735442192,,,Reef,EXP,hover,active,Crepuscular,2,0,0,,0,0.00000001,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+591,5100,0.735442192,,20,Reef,,rest,rest,Crepuscular,2,0,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,0.6,0.6,0.4,,,High,Volunteer,High,High
+1031,5413,0.485620915,,20,Reef,SH,rest,rest,Crepuscular,2,0,0.333333333,0.00556,0.333333333,0.333333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+306,2043,0.893939394,36,22,Reef,SH,hover,active,midday,2,0,0.666,0.0111,0.666,0.666,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+690,5110,0.735442192,,15,Reef,,hover,active,midday,2,0,1,0.0167,1,1,Andy and Chuck,0.5,0.5,0.5,,,High,,High,High
+152,387,0.529411765,22,12,Reef,SH,rest,rest,midday,2,0,1.002,0.0167,1.002,1.002,Lad,0,0.001,1,10000,1000,High,NRM&CS,High,High
+256,1311,0.846153846,14,10,Reef,SH,rest,rest,midday,2,0,1.002,0.0167,1.002,1.002,Dan,0.5,0.5,0.5,300,2000,High,Dive Professional,High,High
+34,122,0.891891892,18,10,Reef,SH,rest,rest,midday,2,0,1.002,0.0167,1.002,1.002,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+350,2128,0.65,27,12,Reef,SH,hover,active,midday,2,0,1.482,0.0247,1.482,1.482,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+313,2043,0.893939394,2,20,Reef,EXP,rest,rest,midday,2,0,2.934,0.0489,1.752,1.752,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+69,198,0.677419355,5,6,Reef,SH,hover,active,midday,2,0,2.334,0.0389,2.334,2.334,Lad,0.5,0.5,0.5,10000,1000,High,NRM&CS,High,High
+658,5106,0.735442192,,25,Reef,EXP,hover,active,midday,2,0,2.5,0.0417,2.5,2.5,Fogg and Riffe,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+161,400,0.529411765,12,26,Reef,SH,hover,active,midday,2,0,3,0.05,3,3,Liz,0,0.001,1,400,200,High,NRM&CS,High,High
+287,2006,0.75,14,19,Reef,SH,rest,rest,midday,2,0,3,0.05,3,3,Ryan,0.5,0.5,0.5,1500,300,High,NRM&CS,High,High
+328,2088,0.8,27,7,Reef,SH,hover,active,midday,2,0,4.002,0.0667,4.002,4.002,Terry,0.75,0.75,0.25,1231,300,High,NRM&CS,High,High
+94,208,0.677419355,60,12,Reef,SH,rest,rest,midday,2,0,5.334,0.0889,4.452,4.452,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+657,5106,0.735442192,,25,Reef,EXP,hover,active,midday,2,0,5.5,0.0917,5.5,5.5,Fogg and Riffe,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+156,395,0.529411765,15,26,Reef,SH,rest,rest,midday,2,0,6,0.1,6,6,Liz,0,0.001,1,400,200,High,NRM&CS,High,High
+473,2616,0.733333333,48,15,Sponge,SH,rest,rest,midday,2,0,6,0.1,6,6,Carlos,0,0.001,1,1272,225,High,Volunteer,High,High
+567,2888,0.714285714,40,5,Reef,EXP,rest,rest,midday,2,0,6,0.1,6,6,Ed,0.5,0.5,0.5,,,High,Volunteer,High,High
+1037,5421,0.485620915,,25,Reef,SH,rest,rest,midday,2,0,6,0.1,6,6,Stu and Reuben,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+400,2287,0.909090909,7,20,Reef,SH,hover,active,midday,2,0,,,0,0.00000001,Alyssa,0,0.001,1,100,100,Low,Intern,Low,Low
+694,5110,0.735442192,,15,Sand,SH,hover,active,midday,2,0,0.083333333,0.0014,0.083333333,0.083333333,Kris and Kaitlin,0.2,0.2,0.8,,,Low,Volunteer,Low,Low
+974,5303,0.397435641,,25,Reef,,rest,rest,Crepuscular,2,0,0.166666667,0.00278,0.166666667,0.166666667,Mark and Wes,0,0.001,1,,,Low,Volunteer,Low,Low
+691,5110,0.735442192,,20,Sand,EXP,hover,active,midday,2,0,1,0.0167,1,1,Kris and Kaitlin,0.2,0.2,0.8,,,Low,Volunteer,Low,Low
+692,5110,0.735442192,,25,Sand,EXP,hover,active,midday,2,0,1,0.0167,1,1,Kris and Kaitlin,0.2,0.2,0.8,,,Low,Volunteer,Low,Low
+762,5118,0.735442192,,25,Reef,EXP,hover,active,midday,2,0,1,0.01667,1,1,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+977,5314,0.397435641,,25,Reef,SH,rest,rest,Crepuscular,2,0,1,0.01667,1,1,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+1090,5440,0.485620915,,5,Reef,EXP,hover,active,midday,2,0,1,0.01667,1,1,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+345,2127,0.65,35.6,45,Reef,EXP,hover,active,midday,2,0,1.002,0.0167,1.002,1.002,Ana,0.75,0.75,0.25,260,0,Low,Intern,Low,Low
+486,2680,0.857142857,5,20,Reef,SH,hover,active,midday,2,0,1.002,0.0167,1.002,1.002,Jack Fishman,0,0.001,1,400,2,Low,Intern,Low,Low
+945,5138,0.735442192,,22,Reef,SH,hover,active,Crepuscular,2,0,2,0.03333,2,2,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+681,5109,0.735442192,,15,Reef,EXP,rest,rest,midday,2,0,2,0.0333,2,2,Hall and Wicksten,0,0.001,1,,,Low,Volunteer,Low,Low
+659,5106,0.735442192,,20,Reef,EXP,hunt,active,midday,2,0,2,0.0333,2,2,Kris and Kaitlin,0,0.001,1,,,Low,Volunteer,Low,Low
+689,5110,0.735442192,,25,Sand,EXP,hover,active,midday,2,0,2,0.0333,2,2,Kris and Kaitlin,0.2,0.2,0.8,,,Low,Volunteer,Low,Low
+954,5139,0.735442192,,26,Reef,EXP,hover,active,Crepuscular,2,0,2,0.03333,2,2,Kris and Kaitlin,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+1089,5440,0.485620915,,30,Reef,SH,hover,active,midday,2,0,2,0.03333,2,2,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+548,2860,,20,14,Reef,SH,rest,rest,midday,2,0,3,0.05,3,3,BZ,0,0.001,1,150,0,Low,Intern,Low,Low
+641,5103,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,2,0,15,0.25,15,15,Harley and Victoria,0,0.001,1,,,Low,Volunteer,Low,Low
+787,5119,0.735442192,,27,Reef,EXP,rest,rest,midday,2,0,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+775,5119,0.735442192,,18,Reef,EXP,hover,active,midday,2,0,0.166666667,0.00278,0.166666667,0.166666667,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+355,2140,0.65,12.2,13,Reef,EXP,rest,rest,midday,2,0,0.732,0.0122,0.732,0.732,Katie,0.75,0.75,0.25,500,50,Low,NRM&CS,Medium,Low
+320,2063,0.8,10,19,Reef,EXP,hover,active,midday,2,0,1.218,0.0203,1.218,1.218,Katie,0,0.001,1,500,50,Low,NRM&CS,Medium,Low
+430,2457,0.733333333,17,17,Reef,EXP,rest,rest,midday,2,0,1.998,0.0333,1.998,1.998,Ben Acker,0.666666667,0.666666667,0.333333333,,,,Intern,Medium,Low
+247,1216,0.8,17,32,Reef,SH,rest,rest,midday,2,0,3,0.05,3,3,Rich,0,0.001,1,300,50,Low,NRM&CS,Medium,Low
+232,1116,0.809523809,11,30,Reef,SH,rest,rest,midday,2,0,4.002,0.0667,4.002,4.002,Andrew,0.6,0.6,0.4,,,,,Medium,Low
+577,5100,0.735442192,,22,Reef,EXP,rest,rest,Crepuscular,2,0,5,0.0833,5,5,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+424,2446,0.733333333,48,30,Reef,EXP,rest,rest,midday,2,0,1.002,0.0167,0.5,0.5,Anna S.,0,0.001,1,56,0,Low,Intern,None,Low
+102,257,0.931034483,35,7,Reef,SH,rest,rest,midday,2,0,4.002,0.0667,4.002,4.002,Austen.Elissa,0,0.001,1,18,0,Low,Intern,None,Low
+622,5102,0.735442192,,12,Reef,EXP,hover,active,Crepuscular,3,0,0.5,0.0083,0.416666667,0.416666667,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+1026,5412,0.485620915,,35,Reef,SH,hover,active,Crepuscular,3,0,0.5,0.00833,0.5,0.5,Kris and Grytch,0.333333333,0.333333333,0.666666667,,,High,Volunteer,High,High
+351,2131,0.65,5.7,12,Reef,SH,swim,active,midday,3,0,1.416,0.0236,1.416,1.416,Terry,0.5,0.5,0.5,1231,300,High,NRM&CS,High,High
+555,2876,0.846153846,35,10,Reef,SH,rest,rest,midday,3,0,1.998,0.0333,1.998,1.998,Carlos,0.8,0.8,0.2,1272,225,High,Volunteer,High,High
+35,122,0.891891892,35,5,Reef,SH,rest,rest,midday,3,0,1.998,0.0333,1.998,1.998,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+501,2770,0.7,15,12,Reef,SH,rest,rest,midday,3,0,10.998,0.1833,10.998,10.998,Lad,0.75,0.75,0.25,10000,1000,High,NRM&CS,High,High
+764,5118,0.735442192,,20,Reef,SH,hover,active,midday,3,0,0,0,0.25,0.25,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+365,2160,0.775,0.9,32,Reef,EXP,hover,active,midday,3,0,1.584,0.0264,1.584,1.584,Ana,0,0.001,1,260,0,Low,Intern,Low,Low
+364,2159,0.775,27.1,33,Reef,EXP,hover,active,midday,3,0,2.082,0.0347,2.082,2.082,Ana,0.5,0.5,0.5,260,0,Low,Intern,Low,Low
+483,2670,0.733333333,5,14,Reef,EXP,rest,rest,midday,3,0,2.748,0.0458,2.748,2.748,Jack Fishman,0,0.001,1,400,2,Low,Intern,Low,Low
+799,5122,0.735442192,,15,Reef,EXP,rest,rest,midday,3,0,3,0.05,3,3,Kris and Kaitlin,0,0.001,1,,,Low,Volunteer,Low,Low
+817,5124,0.735442192,,25,Reef,SH,hover,active,Crepuscular,3,0,5,0.08333,4,4,Kris and Kaitlin,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Low,Low
+695,5111,0.735442192,,25,Reef,SH,hover,active,midday,3,0,1,0.01667,1,1,Ari and Rachel,0.75,0.75,0.25,,,High,Volunteer,Medium,Low
+953,5139,0.735442192,,24,Reef,SH,hover,active,Crepuscular,3,0,3,0.05,3,3,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+360,2149,0.65,42.5,15,Reef,SH,rest,rest,midday,3,0,7.998,0.1333,7.998,7.998,Katie,0.666666667,0.666666667,0.333333333,500,50,Low,NRM&CS,Medium,Low
+67,197,0.677419355,9,9,Reef,EXP,hover,active,midday,3,0,12,0.2,12,12,Mitch,0,0.001,1,,,,Dive Professional,Medium,Low
+330,2095,0.923076923,28.2,8,Reef,SH,hover,active,midday,4,0,1.164,0.0194,1.164,1.164,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+79,207,0.677419355,51,13,Reef,SH,rest,rest,midday,4,0,4.002,0.0667,4.002,4.002,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+408,2356,0.625,0,9,Reef,EXP,rest,rest,midday,4,0,4.998,0.0833,4.998,4.998,Liz,0.5,0.5,0.5,400,200,High,NRM&CS,High,High
+255,1309,0.846153846,10,30,Reef,SH,hover,active,midday,4,0,9,0.15,9,9,Robert,0,0.001,1,,,,NRM&CS,High,High
+358,2145,0.65,1,19,Sand,EXP,rest,rest,midday,4,0,1.398,0.0233,1.398,1.398,Katie,0,0.001,1,500,50,Low,NRM&CS,Medium,Low
+180,1001,,27,27,Reef,EXP,rest,rest,midday,5,0,4.998,0.0833,4.998,4.998,Chris,0,0.001,1,1000,1000,High,Dive Professional,High,High
+416,2403,,35,6,Reef,SH,rest,rest,midday,5,0,4.998,0.0833,4.998,4.998,Alyssa,0,0.001,1,100,100,Low,Intern,Low,Low
+426,2453,0.733333333,12,13,Reef,SH,rest,rest,midday,5,0,4.002,0.0667,4.002,4.002,Ben Acker,0,0.001,1,,,,Intern,Medium,Low
+212,1013,0.90625,10,12,Reef,SH,swim,active,midday,8,0,7.002,0.1167,7.002,7.002,Colin,0,0.001,1,250,10,Low,Intern,Low,Low
+131,298,0.555555556,62,15,Reef,SH,rest,rest,midday,,0,3,0.05,3,3,Lad,0.5,0.5,0.5,10000,1000,High,NRM&CS,High,High
+132,298,0.555555556,62,15,Reef,SH,rest,rest,midday,,0,3,0.05,3,3,Lad,0.5,0.5,0.5,10000,1000,High,NRM&CS,High,High
+98,249,0.931034483,0,25,Reef,EXP,hover,active,midday,1,1,0,0,0,0.00000001,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+640,5102,0.735442192,,27,Reef,EXP,swim,active,Crepuscular,1,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+706,5112,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+708,5112,0.735442192,,15,Reef,EXP,swim,active,Crepuscular,1,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+709,5112,0.735442192,,13,Reef,SH,,,Crepuscular,1,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+710,5112,0.735442192,,20,Reef,SH,,,Crepuscular,1,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+711,5112,0.735442192,,20,Reef,,,,Crepuscular,1,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+712,5112,0.735442192,,25,Reef,,,,Crepuscular,1,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+636,5102,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.033333333,0.0006,0.033333333,0.033333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+637,5102,0.735442192,,30,Reef,EXP,hunt,active,Crepuscular,1,1,0.033333333,0.0006,0.033333333,0.033333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+638,5102,0.735442192,,27,Reef,EXP,rest,rest,Crepuscular,1,1,0.033333333,0.0006,0.033333333,0.033333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+679,5108,0.735442192,,20,Reef,EXP,swim,active,midday,1,1,0.033333333,0.0006,0.033333333,0.033333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+680,5108,0.735442192,,20,Reef,EXP,swim,active,midday,1,1,0.033333333,0.0006,0.033333333,0.033333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+831,5124,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,1,0.033333333,0.00056,0.033333333,0.033333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+832,5124,0.735442192,,24.9,Reef,EXP,swim,active,Crepuscular,1,1,0.033333333,0.00056,0.033333333,0.033333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+829,5124,0.735442192,,29,Reef,EXP,hover,active,Crepuscular,1,1,0.05,0.00083,0.05,0.05,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+830,5124,0.735442192,,38.8,Reef,EXP,hunt,active,Crepuscular,1,1,0.05,0.00083,0.05,0.05,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+678,5108,0.735442192,,20,Reef,EXP,hunt,active,midday,1,1,0.066666667,0.0011,0.066666667,0.066666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+751,5116,0.735442192,,22,Reef,EXP,hunt,active,midday,1,1,0.066666667,0.00111,0.066666667,0.066666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+752,5116,0.735442192,,25.5,Reef,EXP,,,midday,1,1,0.066666667,0.00111,0.066666667,0.066666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+816,5123,0.735442192,,20,Reef,EXP,hover,active,midday,1,1,0.066666667,0.00111,0.066666667,0.066666667,Fogg and Riffe,0.8,0.8,0.2,,,High,NRM&CS,High,High
+828,5124,0.735442192,,26.4,Reef,EXP,rest,rest,Crepuscular,1,1,0.066666667,0.00111,0.066666667,0.066666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+417,2412,0.857142857,15,12,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+418,2416,0.857142857,7,12,Reef,SH,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+434,2457,0.733333333,25,18,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Liz,0.666666667,0.666666667,0.333333333,400,200,High,NRM&CS,High,High
+115,287,0.931034483,4,16,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+116,288,0.931034483,0,12,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+119,293,0.931034483,19,15,Reef,EXP,hover,active,Crepuscular,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+120,293,0.931034483,19,18,Reef,EXP,hover,active,Crepuscular,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+121,294,0.931034483,42,11,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+123,296,0.931034483,12,13,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+125,296,0.931034483,12,10,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+126,296,0.931034483,12,15,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+386,2270,0.909090909,15,35,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+389,2280,0.909090909,40,40,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+464,2571,0.714285714,4,35,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+466,2571,0.714285714,5,45,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+493,2754,0.857142857,29,25,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+494,2754,0.857142857,50,25,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+495,2754,0.857142857,29,25,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+496,2754,0.857142857,29,22,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+514,2805,0.7,33,25,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+515,2805,0.7,33,22,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+556,2876,0.846153846,36,25,Reef,SH,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,0.8,0.8,0.2,1272,225,High,Volunteer,High,High
+557,2876,0.846153846,6,30,Reef,SH,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,0.8,0.8,0.2,1272,225,High,Volunteer,High,High
+558,2876,0.846153846,6,35,Reef,SH,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,0.8,0.8,0.2,1272,225,High,Volunteer,High,High
+559,2876,0.846153846,4,30,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,0.8,0.8,0.2,1272,225,High,Volunteer,High,High
+560,2877,0.846153846,40,12,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,0.5,0.5,0.5,1272,225,High,Volunteer,High,High
+571,2904,0.714285714,11,17,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+199,1010,0.90625,25,27,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Chris,0.75,0.75,0.25,1000,1000,High,Dive Professional,High,High
+258,1316,0.846153846,43,11,Reef,SH,rest,rest,midday,1,1,0.083333333,0,0.083333333,0.083333333,Chris,1,0.99999,0,1000,1000,High,Dive Professional,High,High
+259,1316,0.846153846,30,12,Reef,EXP,rest,rest,midday,1,1,0.083333333,0.05,0.083333333,0.083333333,Chris,1,0.99999,0,1000,1000,High,Dive Professional,High,High
+260,1316,0.846153846,0,12,Reef,EXP,rest,rest,midday,1,1,0.083333333,0,0.083333333,0.083333333,Chris,1,0.99999,0,1000,1000,High,Dive Professional,High,High
+500,2770,0.7,15,10,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Lad,0.75,0.75,0.25,10000,1000,High,NRM&CS,High,High
+528,2816,0.636363636,25,35,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Lad,0.333333333,0.333333333,0.666666667,10000,1000,High,NRM&CS,High,High
+242,1209,0.8,0,15,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+243,1209,0.8,0,30,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+248,1303,0.846153846,14,24,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+261,1403,1,12,22,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+590,5100,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,0.6,0.6,0.4,,,High,Volunteer,High,High
+652,5104,0.735442192,,15,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+654,5104,0.735442192,,10,Reef,,,,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+693,5110,0.735442192,,20,Reef,,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,0.5,0.5,0.5,,,High,,High,High
+722,5114,0.735442192,,10,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+723,5114,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+724,5114,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+725,5114,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+726,5114,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+755,5117,0.735442192,,15,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+756,5117,0.735442192,,20,Reef,EXP,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+809,5123,0.735442192,,15,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+858,5126,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+921,5135,0.735442192,,15,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+922,5135,0.735442192,,10,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+923,5135,0.735442192,,15,Reef,EXP,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+924,5135,0.735442192,,15,Reef,SH,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+925,5135,0.735442192,,20,Reef,SH,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+967,5139,0.735442192,,20,Reef,SH,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+968,5139,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+969,5139,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+970,5139,0.735442192,,15,Reef,SH,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+971,5139,0.735442192,,20,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+1083,5436,0.485620915,,32,Reef,SH,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+177,464,0.775,11,28,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Ed,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+990,5401,0.485620915,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.8,0.8,0.2,,,High,NRM&CS,High,High
+991,5401,0.485620915,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.8,0.8,0.2,,,High,NRM&CS,High,High
+992,5401,0.485620915,,15,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.8,0.8,0.2,,,High,NRM&CS,High,High
+993,5401,0.485620915,,25,Reef,SH,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.8,0.8,0.2,,,High,NRM&CS,High,High
+997,5407,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+998,5407,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+999,5407,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1000,5407,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1001,5407,0.485620915,,20,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1002,5407,0.485620915,,20,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1003,5407,0.485620915,,20,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1004,5407,0.485620915,,25,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1005,5407,0.485620915,,30,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1006,5407,0.485620915,,35,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1007,5407,0.485620915,,25,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1033,5413,0.485620915,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1034,5413,0.485620915,,15,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1050,5427,0.485620915,,35,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1051,5427,0.485620915,,25,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1052,5427,0.485620915,,30,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1054,5427,0.485620915,,25,Reef,SH,,,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1055,5427,0.485620915,,25,Reef,SH,,,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1079,5431,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1080,5431,0.485620915,,38,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1081,5431,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1084,5437,0.485620915,,35,Reef,SH,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1085,5437,0.485620915,,20,Reef,EXP,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1086,5437,0.485620915,,25,Reef,EXP,rest,rest,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1087,5437,0.485620915,,25,Reef,SH,rest,rest,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1088,5437,0.485620915,,11,Reef,EXP,rest,rest,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+1095,5441,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Rachel,1,0.99999,0,,,High,NRM&CS,High,High
+748,5116,0.735442192,,23.7,Reef,EXP,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+749,5116,0.735442192,,26,Reef,EXP,swim,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+750,5116,0.735442192,,22.8,Reef,EXP,,,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+812,5123,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,0.8,0.8,0.2,,,High,NRM&CS,High,High
+814,5123,0.735442192,,35,Reef,SH,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,0.8,0.8,0.2,,,High,NRM&CS,High,High
+815,5123,0.735442192,,35,Reef,EXP,swim,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,0.8,0.8,0.2,,,High,NRM&CS,High,High
+827,5124,0.735442192,,27.2,Reef,EXP,hunt,active,Crepuscular,1,1,0.133333333,0.00222,0.083333333,0.083333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+885,5128,0.735442192,,23.8,Reef,EXP,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,0.75,0.75,0.25,,,High,NRM&CS,High,High
+886,5128,0.735442192,,23.5,Reef,EXP,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,0.75,0.75,0.25,,,High,NRM&CS,High,High
+655,5105,0.735442192,,27,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,1,0.99999,0,,,High,Volunteer,High,High
+656,5105,0.735442192,,14,Reef,EXP,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,1,0.99999,0,,,High,Volunteer,High,High
+682,5109,0.735442192,,22,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,1,0.99999,0,,,High,Volunteer,High,High
+683,5109,0.735442192,,12,Reef,,hunt,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,1,0.99999,0,,,High,Volunteer,High,High
+684,5109,0.735442192,,25,Reef,,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,1,0.99999,0,,,High,Volunteer,High,High
+685,5109,0.735442192,,28,Reef,,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,1,0.99999,0,,,High,Volunteer,High,High
+741,5115,0.735442192,,25,Reef,,hover,active,Crepuscular,1,1,0,,0.083333333,0.083333333,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+742,5115,0.735442192,,25,Reef,,,,Crepuscular,1,1,0,,0.083333333,0.083333333,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+790,5119,0.735442192,,27,Reef,,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.8,0.8,0.2,,,High,Volunteer,High,High
+791,5119,0.735442192,,27,Reef,,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.8,0.8,0.2,,,High,Volunteer,High,High
+859,5126,0.735442192,,20,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+860,5126,0.735442192,,30,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+893,5130,0.735442192,,25,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.714285714,0.714285714,0.285714286,,,High,Volunteer,High,High
+894,5130,0.735442192,,40,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.714285714,0.714285714,0.285714286,,,High,Volunteer,High,High
+895,5130,0.735442192,,42,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.714285714,0.714285714,0.285714286,,,High,Volunteer,High,High
+216,1104,0.809523809,25,10,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Greg,1,0.99999,0,,,,,High,High
+628,5102,0.735442192,,10,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+630,5102,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+631,5102,0.735442192,,8,Reef,SH,,,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+703,5112,0.735442192,,18,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+793,5119,0.735442192,,16,Reef,EXP,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+882,5127,0.735442192,,35,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+883,5127,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+906,5132,0.735442192,,15,Reef,SH,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+244,1211,0.8,27,23,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,John ,1,0.99999,0,,,,,High,High
+995,5402,0.485620915,,24,Reef,SH,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Kara and Holden,1,0.99999,0,,,High,NRM&CS,High,High
+275,1453,0.858974359,75,13,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Liz T.,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,High,High
+13,119,0.891891892,32,15,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Robert,1,0.99999,0,,,,NRM&CS,High,High
+14,119,0.891891892,35,15,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Robert,1,0.99999,0,,,,NRM&CS,High,High
+15,119,0.891891892,35,20,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Robert,1,0.99999,0,,,,NRM&CS,High,High
+239,1205,0.8,50,25,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Robert,1,0.99999,0,,,,NRM&CS,High,High
+240,1205,0.8,40,30,Reef,SH,swim,active,midday,1,1,0,0,0.083333333,0.083333333,Robert,1,0.99999,0,,,,NRM&CS,High,High
+28,122,0.891891892,0,5,Reef,EXP,swim,active,midday,1,1,0,0,0.083333333,0.083333333,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+29,122,0.891891892,,7,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+30,122,0.891891892,,7,Reef,EXP,hover,active,Crepuscular,1,1,0,0,0.083333333,0.083333333,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+32,122,0.891891892,15,15,Reef,EXP,rest,rest,Crepuscular,1,1,0,0,0.083333333,0.083333333,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+33,122,0.891891892,18,15,Reef,SH,rest,rest,Crepuscular,1,1,0,0,0.083333333,0.083333333,Roger,0.555555556,0.555555556,0.444444444,,,High,,High,High
+37,123,0.891891892,24,17,Sponge,EXP,rest,rest,Crepuscular,1,1,0,0,0.083333333,0.083333333,Roger,1,0.99999,0,,,High,,High,High
+38,163,1,17,8,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+39,163,1,16,10,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+40,163,1,28,11,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+41,163,1,60,11,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+42,163,1,27,15,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+43,163,1,38,20,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+44,163,1,,22,Sponge,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+57,170,1,24.5,24,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+280,1454,0.858974359,35,10,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Steve Schalk,0.75,0.75,0.25,,,High,NRM&CS,High,High
+281,1454,0.858974359,16,18,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Steve Schalk,0.75,0.75,0.25,,,High,NRM&CS,High,High
+252,1304,0.846153846,8,22,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Tim,1,0.99999,0,,,,,High,High
+253,1304,0.846153846,7,30,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Tim,1,0.99999,0,,,,,High,High
+254,1308,0.846153846,36,30,Sand,EXP,swim,active,midday,1,1,0,0,0.083333333,0.083333333,Tim,1,0.99999,0,,,,,High,High
+183,1003,0.90625,6,27,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Tony,0.857142857,0.857142857,0.142857143,,,,Dive Professional,High,High
+213,1014,0.90625,3,12,Reef,EXP,hunt,active,midday,1,1,0,0,0.083333333,0.083333333,Tony,1,0.99999,0,,,,Dive Professional,High,High
+912,5134,0.735442192,,20,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+913,5134,0.735442192,,35,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+914,5134,0.735442192,,20,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+915,5134,0.735442192,,30,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+916,5134,0.735442192,,30,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+917,5134,0.735442192,,20,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+918,5134,0.735442192,,15,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+919,5134,0.735442192,,25,Reef,,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Travis and Alex,1,0.99999,0,,,High,Volunteer,High,High
+776,5119,0.735442192,,20,Reef,,rest,rest,midday,1,1,0.166666667,0.00278,0.083333334,0.083333334,Grayson and Travis,0.8,0.8,0.2,,,High,Volunteer,High,High
+777,5119,0.735442192,,25,Reef,,rest,rest,midday,1,1,0.166666667,0.00278,0.083333334,0.083333334,Grayson and Travis,0.8,0.8,0.2,,,High,Volunteer,High,High
+1093,5440,0.485620915,,40,Reef,SH,swim,active,midday,1,1,0.1,0.00167,0.1,0.1,Kara and Holden,0.4,0.4,0.6,,,High,NRM&CS,High,High
+66,189,0.677419355,23,13,Reef,EXP,hover,active,midday,1,1,0.114,0.0019,0.114,0.114,Steve Schalk,1,0.99999,0,,,High,NRM&CS,High,High
+624,5102,0.735442192,,26,Reef,EXP,rest,rest,Crepuscular,1,1,0.116666667,0.0019,0.116666667,0.116666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+625,5102,0.735442192,,23,Reef,EXP,rest,rest,Crepuscular,1,1,0.116666667,0.0019,0.116666667,0.116666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+747,5116,0.735442192,,21.6,Reef,EXP,hover,active,midday,1,1,0.116666667,0.00194,0.116666667,0.116666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+746,5116,0.735442192,,24.8,Reef,EXP,swim,active,midday,1,1,0.216666667,0.00361,0.133333334,0.133333334,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+623,5102,0.735442192,,29,Reef,EXP,hunt,active,Crepuscular,1,1,0.166666667,0.0028,0.166666667,0.166666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+701,5112,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.166666667,0.0028,0.166666667,0.166666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+1017,5410,0.485620915,,28,Reef,EXP,hover,active,Crepuscular,1,1,0.166666667,0.00278,0.166666667,0.166666667,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1018,5410,0.485620915,,41,Reef,EXP,hover,active,Crepuscular,1,1,0.166666667,0.00278,0.166666667,0.166666667,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1077,5431,0.485620915,,18,Reef,EXP,hover,active,Crepuscular,1,1,0.166666667,0.00278,0.166666667,0.166666667,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1078,5431,0.485620915,,33,Reef,EXP,swim,active,Crepuscular,1,1,0.166666667,0.00278,0.166666667,0.166666667,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+191,1006,0.90625,10,7,Reef,EXP,rest,rest,midday,1,1,0.198,0.0033,0.198,0.198,John,1,0.99999,0,,,,,High,High
+72,206,0.677419355,16,15,Reef,SH,rest,rest,midday,1,1,1.086,0.0181,0.204,0.204,Steve Schalk,1,0.99999,0,,,High,NRM&CS,High,High
+1022,5411,0.485620915,,35,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+600,5101,0.735442192,,13,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.0042,0.25,0.25,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+601,5101,0.735442192,,13,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.0042,0.25,0.25,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+1015,5410,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1016,5410,0.485620915,,27,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1032,5413,0.485620915,,27,Reef,,,,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1063,5428,0.485620915,,24,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1064,5428,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1065,5428,0.485620915,,27,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1066,5428,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1067,5428,0.485620915,,40,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1076,5431,0.485620915,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.25,0.00417,0.25,0.25,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+302,2043,0.893939394,29,,Reef,EXP,rest,rest,midday,1,1,0.282,0.0047,0.282,0.282,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+329,2093,0.8,45.3,30,Reef,EXP,hover,active,midday,1,1,0.3,0.005,0.3,0.3,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+488,2703,0.857142857,11,22,Reef,EXP,hover,active,midday,1,1,0.33,0.0055,0.33,0.33,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+598,5101,0.735442192,,12,Reef,EXP,hover,active,Crepuscular,1,1,0.33,0.0055,0.33,0.33,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+599,5101,0.735442192,,30,Reef,,hunt,active,Crepuscular,1,1,0.33,0.0055,0.33,0.33,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+455,2561,1,3,36,Reef,EXP,rest,rest,midday,1,1,0.33,0.0055,0.33,0.33,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+456,2561,1,44,38,Reef,EXP,rest,rest,midday,1,1,0.33,0.0055,0.33,0.33,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+459,2567,1,40,39,Reef,EXP,hover,active,midday,1,1,0.33,0.0055,0.33,0.33,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+1097,5444,0.485620915,,21,Reef,EXP,hover,active,Crepuscular,1,1,0.333333333,0.00556,0.333333333,0.333333333,Curtis and Wendy,1,0.99999,0,,,High,Dive Professional,High,High
+597,5101,0.735442192,,12,Reef,EXP,hover,active,Crepuscular,1,1,0.333333333,0.0056,0.333333333,0.333333333,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+740,5115,0.735442192,,23,Reef,,,,Crepuscular,1,1,0.333333333,0.0056,0.333333333,0.333333333,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+1013,5410,0.485620915,,23,Reef,EXP,hunt,active,Crepuscular,1,1,0.333333333,0.00556,0.333333333,0.333333333,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1014,5410,0.485620915,,25,Reef,EXP,hunt,active,Crepuscular,1,1,0.333333333,0.00556,0.333333333,0.333333333,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1062,5428,0.485620915,,23,Reef,EXP,hover,active,Crepuscular,1,1,0.333333333,0.00556,0.333333333,0.333333333,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+300,2018,0.857142857,50,15,Reef,EXP,hover,active,midday,1,1,0.336,0.0056,0.336,0.336,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+492,2739,1,42,26,Reef,EXP,rest,rest,midday,1,1,0.336,0.0056,0.336,0.336,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+291,2010,0.857142857,45,35,Sponge,EXP,hover,active,midday,1,1,0.348,0.0058,0.348,0.348,Ryan,0.6,0.6,0.4,1500,300,High,NRM&CS,High,High
+296,2017,0.857142857,25,14,Reef,SH,rest,rest,midday,1,1,0.366,0.0061,0.366,0.366,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+460,2567,1,50,34,Reef,SH,rest,rest,midday,1,1,0.402,0.0067,0.402,0.402,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+596,5101,0.735442192,,13,Reef,,rest,rest,Crepuscular,1,1,0.416666667,0.0069,0.416666667,0.416666667,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+1041,5424,0.485620915,,29,Reef,EXP,hover,active,midday,1,1,0.416666667,0.00694,0.416666667,0.416666667,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1091,5440,0.485620915,,33,Reef,EXP,hover,active,midday,1,1,0.75,0.0125,0.416666667,0.416666667,Kara and Holden,0.4,0.4,0.6,,,High,NRM&CS,High,High
+347,2128,0.65,39,30,Reef,SH,hover,active,midday,1,1,0.432,0.0072,0.432,0.432,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+297,2017,0.857142857,32,15,Reef,SH,rest,rest,midday,1,1,0.468,0.0078,0.468,0.468,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+439,2493,0.714285714,3,15,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+440,2493,0.714285714,3,15,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+375,2174,0.775,10.9,27,Reef,SH,hover,active,midday,1,1,0.498,0.0083,0.498,0.498,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+303,2043,,50,,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+325,2088,0.8,5,38,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Terry,0.75,0.75,0.25,1231,300,High,NRM&CS,High,High
+490,2713,1,4,32,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Ed,1,0.99999,0,,,High,Volunteer,High,High
+453,2561,1,6,30,Reef,EXP,hunt,active,midday,1,1,0.498,0.0083,0.498,0.498,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+458,2561,1,6,36,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+84,208,0.677419355,78,12,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+387,2270,0.909090909,23,25,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,0.5,0.5,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+388,2270,0.909090909,23,30,Reef,SH,hover,active,midday,1,1,1.002,0.0167,0.5,0.5,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+1021,5411,0.485620915,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.5,0.00833,0.5,0.5,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+594,5101,0.735442192,,13,Reef,EXP,hover,active,Crepuscular,1,1,0.5,0.0083,0.5,0.5,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+739,5115,0.735442192,,26,Reef,,,,Crepuscular,1,1,0.5,0.0083,0.5,0.5,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+677,5108,0.735442192,,21,Reef,EXP,swim,active,midday,1,1,0.5,0.0083,0.5,0.5,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+1012,5410,0.485620915,,29,Reef,EXP,hover,active,Crepuscular,1,1,0.5,0.00833,0.5,0.5,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1060,5428,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.5,0.00833,0.5,0.5,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+327,2088,0.8,5,25,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,0.504,0.504,Terry,0.75,0.75,0.25,1231,300,High,NRM&CS,High,High
+304,2043,0.893939394,3,25,Reef,EXP,rest,rest,midday,1,1,0.516,0.0086,0.516,0.516,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+305,2043,0.893939394,36,,Reef,SH,rest,rest,midday,1,1,0.534,0.0089,0.534,0.534,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+448,2524,0.714285714,28,35,Reef,SH,rest,rest,midday,1,1,0.552,0.0092,0.552,0.552,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+390,2280,0.909090909,40,26,Reef,SH,rest,rest,midday,1,1,0.552,0.0092,0.552,0.552,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+337,2112,0.923076923,4.5,38,Reef,EXP,rest,rest,midday,1,1,0.552,0.0092,0.552,0.552,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+288,2009,0.857142857,49.1,28,Reef,SH,rest,rest,midday,1,1,0.582,0.0097,0.582,0.582,Greg,1,0.99999,0,,,,,High,High
+85,208,0.677419355,37,23,Reef,SH,rest,rest,midday,1,1,0.582,0.0097,0.582,0.582,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+137,327,0.8,37,30,Reef,SH,hover,active,midday,1,1,0.6,0.01,0.6,0.6,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+391,2280,0.909090909,40,24,Reef,SH,rest,rest,midday,1,1,0.618,0.0103,0.618,0.618,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+407,2356,0.625,12,10,Reef,EXP,rest,rest,midday,1,1,0.636,0.0106,0.636,0.636,Liz,0.5,0.5,0.5,400,200,High,NRM&CS,High,High
+377,2174,0.775,7.4,17,Reef,EXP,hover,active,midday,1,1,0.666,0.0111,0.666,0.666,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+289,2009,0.857142857,1,20,Sponge,EXP,hover,active,midday,1,1,0.666,0.0111,0.666,0.666,Greg,1,0.99999,0,,,,,High,High
+86,208,0.677419355,10,11,Reef,SH,rest,rest,midday,1,1,0.666,0.0111,0.666,0.666,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+87,208,0.677419355,58,16,Reef,SH,rest,rest,midday,1,1,0.666,0.0111,0.666,0.666,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+322,2075,0.8,18.8,8,Reef,SH,hover,active,midday,1,1,0.684,0.0114,0.684,0.684,Ryan,1,0.99999,0,1500,300,High,NRM&CS,High,High
+438,2484,0.857142857,34,26,Reef,SH,rest,rest,midday,1,1,0.702,0.0117,0.702,0.702,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+338,2112,0.923076923,3.3,35,Reef,SH,rest,rest,midday,1,1,0.714,0.0119,0.714,0.714,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+348,2128,0.65,27,17,Reef,EXP,swim,active,midday,1,1,0.714,0.0119,0.714,0.714,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+738,5115,0.735442192,,28,Reef,,hover,active,Crepuscular,1,1,0.75,0.0125,0.75,0.75,Grayson and Travis,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+1011,5410,0.485620915,,27,Reef,SH,rest,rest,Crepuscular,1,1,0.75,0.0125,0.75,0.75,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1040,5424,0.485620915,,20,Reef,SH,hover,active,midday,1,1,0.75,0.0125,0.75,0.75,Kara and Holden,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+1030,5413,0.485620915,,25,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,0.75,0.75,Kris and Grytch,0.333333333,0.333333333,0.666666667,,,High,Volunteer,High,High
+314,2059,0.677419355,4,25,Reef,SH,rest,rest,midday,1,1,0.786,0.0131,0.786,0.786,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+285,2005,0.75,4,24,Reef,SH,rest,rest,midday,1,1,0.798,0.0133,0.798,0.798,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+454,2561,1,6,39,Reef,EXP,hunt,active,midday,1,1,0.798,0.0133,0.798,0.798,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+292,2010,0.857142857,46,15,Reef,SH,rest,rest,midday,1,1,0.816,0.0136,0.816,0.816,Ryan,0.6,0.6,0.4,1500,300,High,NRM&CS,High,High
+308,2043,0.893939394,48,38,Reef,EXP,hover,active,midday,1,1,0.816,0.0136,0.816,0.816,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+151,386,0.529411765,1,23,Reef,SH,rest,rest,midday,1,1,0.834,0.0139,0.834,0.834,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+315,2059,0.677419355,25,28,Reef,EXP,swim,active,midday,1,1,0.864,0.0144,0.864,0.864,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+301,2022,0.857142857,26,17,Reef,SH,hover,active,midday,1,1,0.882,0.0147,0.882,0.882,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+71,206,0.677419355,16,15,Reef,EXP,rest,rest,midday,1,1,0.882,0.0147,0.882,0.882,Steve Schalk,1,0.99999,0,,,High,NRM&CS,High,High
+88,208,0.677419355,60,16,Reef,SH,rest,rest,midday,1,1,0.882,0.0147,0.882,0.882,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+857,5126,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,0.916666667,0.916666667,Andy and Chuck,1,0.99999,0,,,High,,High,High
+621,5102,0.735442192,,20,Reef,,,,Crepuscular,1,1,1,0.0167,0.916666667,0.916666667,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+276,1453,0.858974359,75,15,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,0.918666667,0.918666667,Liz T.,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,High,High
+326,2088,0.8,1,15,Reef,EXP,rest,rest,midday,1,1,0.936,0.0156,0.936,0.936,Terry,0.75,0.75,0.25,1231,300,High,NRM&CS,High,High
+257,1311,0.846153846,14,17,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,0.996,0.996,Dan,0.5,0.5,0.5,300,2000,High,Dive Professional,High,High
+114,285,,16.5,10,Reef,EXP,hover,active,midday,1,1,1,0.167,1,1,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+808,5123,0.735442192,,25,Reef,SH,rest,rest,midday,1,1,1,0.01667,1,1,Andy and Chuck,1,0.99999,0,,,High,,High,High
+888,5130,0.735442192,,20,Reef,EXP,hover,active,midday,1,1,1,0.01667,1,1,Andy and Chuck,1,0.99999,0,,,High,,High,High
+1046,5426,0.485620915,,,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+1047,5426,0.485620915,,,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+593,5101,0.735442192,,13,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+615,5102,0.735442192,,23,Reef,,,,Crepuscular,1,1,1,0.0167,1,1,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+617,5102,0.735442192,,21,Reef,,,,Crepuscular,1,1,1,0.0167,1,1,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+619,5102,0.735442192,,18,Reef,,,,Crepuscular,1,1,1,0.0167,1,1,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+620,5102,0.735442192,,17,Reef,,,,Crepuscular,1,1,1,0.0167,1,1,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+651,5104,0.735442192,,20,Reef,EXP,hunt,active,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+670,5108,0.735442192,,30,Reef,EXP,hover,active,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+671,5108,0.735442192,,12,Reef,SH,rest,rest,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+672,5108,0.735442192,,20,Reef,EXP,swim,active,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+673,5108,0.735442192,,20,Reef,SH,swim,active,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+674,5108,0.735442192,,18,Reef,EXP,swim,active,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+675,5108,0.735442192,,21,Reef,SH,,,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+676,5108,0.735442192,,26,Reef,,,,midday,1,1,1,0.0167,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+770,5119,0.735442192,,15,Reef,EXP,hunt,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+771,5119,0.735442192,,20,Reef,EXP,hunt,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+772,5119,0.735442192,,15,Reef,EXP,hunt,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+773,5119,0.735442192,,15,Reef,EXP,hunt ,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+774,5119,0.735442192,,20,Reef,SH,swim,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+803,5122,0.735442192,,20,Reef,EXP,swim,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+805,5122,0.735442192,,19,Reef,SH,swim,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+876,5127,0.735442192,,18,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+877,5127,0.735442192,,18,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+889,5130,0.735442192,,25,Reef,EXP,hunt,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+890,5130,0.735442192,,34,Reef,EXP,hunt,active,midday,1,1,3,0.05,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+902,5132,0.735442192,,25,Reef,SH,rest,rest,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+903,5132,0.735442192,,30,Reef,SH,rest,rest,midday,1,1,2,0.03333,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+904,5132,0.735442192,,25,Reef,SH,rest,rest,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+905,5132,0.735442192,,35,Reef,SH,swim,active,midday,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+939,5136,0.735442192,,30,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+940,5136,0.735442192,,30,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+941,5136,0.735442192,,35,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+942,5136,0.735442192,,35,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+943,5136,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,1,1,1,0.01667,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+944,5136,0.735442192,,40,Reef,EXP,swim,active,Crepuscular,1,1,2,0.03333,1,1,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+1044,5425,0.485620915,,34,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Kris and Grytch,0.333333333,0.333333333,0.666666667,,,High,Volunteer,High,High
+46,163,1,38,22,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1,1,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+50,163,1,39,19,Reef,EXP,hover,active,midday,1,1,1.998,0.0333,1,1,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+142,362,0.8,24,29,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+148,373,0.8,3,16,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+153,394,0.529411765,5,18,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+162,403,0.529411765,39,20,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+425,2449,0.733333333,34,25,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+429,2457,0.733333333,4,43,Reef,SH,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Liz,0.666666667,0.666666667,0.333333333,400,200,High,NRM&CS,High,High
+97,248,0.931034483,29.6,12,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+122,294,0.931034483,37,12,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+171,460,0.529411765,0,26,Sand,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+172,460,0.529411765,0,27,Sand,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+436,2483,0.857142857,3,20,Sponge,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+465,2571,0.714285714,5,40,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+472,2615,0.733333333,1,16,Sponge,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Carlos,0.5,0.5,0.5,1272,225,High,Volunteer,High,High
+286,2006,0.75,13,38,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Ryan,0.5,0.5,0.5,1500,300,High,NRM&CS,High,High
+200,1010,0.90625,25,26,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Chris,0.75,0.75,0.25,1000,1000,High,Dive Professional,High,High
+201,1010,0.90625,36,35,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Chris,0.75,0.75,0.25,1000,1000,High,Dive Professional,High,High
+268,1411,1,2,20,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Chris,1,0.99999,0,1000,1000,High,Dive Professional,High,High
+269,1411,1,4,25,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Chris,1,0.99999,0,1000,1000,High,Dive Professional,High,High
+508,2788,0.7,21,15,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Lad,1,0.99999,0,10000,1000,High,NRM&CS,High,High
+527,2816,0.636363636,40,38,Reef,EXP,hunt,active,midday,1,1,1.002,0.0167,1.002,1.002,Lad,0.333333333,0.333333333,0.666666667,10000,1000,High,NRM&CS,High,High
+181,1002,0.90625,17,15,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+173,463,0.775,45,40,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Ed,1,0.99999,0,,,High,Volunteer,High,High
+178,464,0.775,33,39,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Ed,0.666666667,0.666666667,0.333333333,,,High,Volunteer,High,High
+383,2191,1,20,33,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Jeremy,1,0.99999,0,,,High,Dive Professional,High,High
+384,2193,1,38,11,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Jeremy,1,0.99999,0,,,High,Dive Professional,High,High
+202,1011,0.90625,,19,Reef,SH,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,John,1,0.99999,0,,,,,High,High
+203,1011,0.90625,,24,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,John,1,0.99999,0,,,,,High,High
+208,1012,0.90625,10,30,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Norm,1,0.99999,0,,,,,High,High
+16,119,0.891891892,32,6,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Robert,1,0.99999,0,,,,NRM&CS,High,High
+17,119,0.891891892,35,22,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Robert,1,0.99999,0,,,,NRM&CS,High,High
+228,1112,0.809523809,45,20,Reef,SH,hover,active,Crepuscular,1,1,1.002,0.0167,1.002,1.002,Robert,1,0.99999,0,,,,NRM&CS,High,High
+45,163,1,38,17,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+58,170,1,19.8,18,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+89,208,0.677419355,37,13,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+184,1003,0.90625,38,21,Reef,SH,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Tony,0.857142857,0.857142857,0.142857143,,,,Dive Professional,High,High
+214,1014,0.90625,3,15,Reef,EXP,hunt,active,midday,1,1,1.002,0.0167,1.002,1.002,Tony,1,0.99999,0,,,,Dive Professional,High,High
+215,1015,0.90625,4,27,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Tony,1,0.99999,0,,,,Dive Professional,High,High
+309,2043,0.893939394,30,20,Reef,EXP,hover,active,midday,1,1,1.134,0.0189,1.134,1.134,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+331,2095,0.923076923,24,40,Reef,SH,rest,rest,midday,1,1,1.2,0.02,1.2,1.2,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+316,2059,0.677419355,21,40,Reef,SH,rest,rest,midday,1,1,1.332,0.0222,1.332,1.332,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+93,208,0.677419355,15,15,Reef,SH,hover,active,midday,1,1,3.498,0.0583,1.332,1.332,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+149,379,,33,35,Reef,SH,rest,rest,midday,1,1,1.5,0.025,1.5,1.5,Ed,0.5,0.5,0.5,,,High,Volunteer,High,High
+311,2043,0.893939394,30,30,Reef,SH,rest,rest,midday,1,1,1.566,0.0261,1.566,1.566,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+312,2043,0.893939394,50,25,Reef,EXP,hover,active,midday,1,1,1.584,0.0264,1.584,1.584,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+76,207,0.677419355,8,25,Reef,SH,rest,rest,midday,1,1,1.752,0.0292,1.752,1.752,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+333,2095,0.923076923,24,35,Reef,SH,rest,rest,midday,1,1,1.836,0.0306,1.836,1.836,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+77,207,0.677419355,8,8,Reef,EXP,rest,rest,midday,1,1,1.914,0.0319,1.914,1.914,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+875,5127,0.735442192,,40,Reef,EXP,,,Crepuscular,1,1,2,0.03333,1.916666667,1.916666667,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+317,2059,0.677419355,8,42,Reef,SH,rest,rest,midday,1,1,1.932,0.0322,1.932,1.932,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+352,2131,0.65,10.3,20,Reef,SH,rest,rest,midday,1,1,1.95,0.0325,1.95,1.95,Terry,0.5,0.5,0.5,1231,300,High,NRM&CS,High,High
+143,362,0.8,24,17,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+160,399,0.529411765,44,14,Reef,EXP,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+270,1417,0.858974359,13,33,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+432,2457,0.733333333,4,38,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Liz,0.666666667,0.666666667,0.333333333,400,200,High,NRM&CS,High,High
+130,298,0.555555556,7,16,Sand,EXP,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Lad,0.5,0.5,0.5,10000,1000,High,NRM&CS,High,High
+535,2826,0.636363636,26,30,Reef,EXP,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,Lad,1,0.99999,0,10000,1000,High,NRM&CS,High,High
+182,1002,0.90625,17,15,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+249,1303,0.846153846,0,10,Reef,EXP,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+204,1011,0.90625,,11,Reef,EXP,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,John,1,0.99999,0,,,,,High,High
+224,1110,0.809523809,5,30,Reef,SH,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,John,1,0.99999,0,,,,,High,High
+209,1012,0.90625,10,20,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Norm,1,0.99999,0,,,,,High,High
+196,1009,0.90625,34,21,Reef,EXP,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Robert,1,0.99999,0,,,,NRM&CS,High,High
+197,1009,0.90625,43,35,Reef,EXP,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Robert,1,0.99999,0,,,,NRM&CS,High,High
+47,163,1,28,9,Reef,EXP,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+49,163,1,,15,Sand,EXP,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+190,1005,0.90625,50,11,Reef,EXP,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,Steve BI,1,0.99999,0,,,High,Dive Professional,High,High
+185,1003,0.90625,12,34,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Tony,0.857142857,0.857142857,0.142857143,,,,Dive Professional,High,High
+613,5102,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,2,0.0333,2,2,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+645,5104,0.735442192,,18,Reef,SH,rest,rest,midday,1,1,2,0.0333,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+669,5108,0.735442192,,25,Reef,EXP,swim,active,midday,1,1,2,0.0333,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+699,5112,0.735442192,,20,Reef,EXP,hunt,active,Crepuscular,1,1,2,0.0333,2,2,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+700,5112,0.735442192,,17,Reef,EXP,hunt,active,Crepuscular,1,1,2,0.0333,2,2,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+768,5119,0.735442192,,12,Reef,SH,swim,active,midday,1,1,2,0.03333,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+800,5122,0.735442192,,20,Reef,EXP,hunt,active,midday,1,1,2,0.03333,2,2,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+872,5127,0.735442192,,21,Reef,EXP,swim,active,Crepuscular,1,1,2,0.03333,2,2,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+873,5127,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,1,1,4,0.06667,2,2,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+899,5132,0.735442192,,30,Reef,SH,rest,rest,midday,1,1,3,0.05,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+900,5132,0.735442192,,20,Reef,SH,rest,rest,midday,1,1,2,0.03333,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+901,5132,0.735442192,,35,Reef,SH,rest,rest,midday,1,1,2,0.03333,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+225,1110,0.809523809,5,30,Reef,SH,rest,rest,midday,1,1,4.002,0.0667,2.004,2.004,John,1,0.99999,0,,,,,High,High
+90,208,0.677419355,15,17,Reef,SH,hover,active,midday,1,1,2.166,0.0361,2.166,2.166,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+250,1303,0.846153846,19,15,Reef,SH,rest,rest,midday,1,1,3,0.05,2.916666667,2.916666667,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+871,5127,0.735442192,,25,Reef,EXP,,,Crepuscular,1,1,3,0.05,2.916666667,2.916666667,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+145,364,0.8,5,27,Reef,SH,rest,rest,midday,1,1,12,0.2,3,3,Liz,0.5,0.5,0.5,400,200,High,NRM&CS,High,High
+499,2770,0.7,32,10,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Lad,0.75,0.75,0.25,10000,1000,High,NRM&CS,High,High
+506,2778,0.7,30,20,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Lad,1,0.99999,0,10000,1000,High,NRM&CS,High,High
+578,5100,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,3,0.05,3,3,Andy and Chuck,0.6,0.6,0.4,,,High,Volunteer,High,High
+668,5108,0.735442192,,40,Reef,SH,swim,active,midday,1,1,3,0.05,3,3,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+205,1011,0.90625,,17,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,John,1,0.99999,0,,,,,High,High
+18,119,0.891891892,10,12,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Robert,1,0.99999,0,,,,NRM&CS,High,High
+193,1007,,10,34,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Robert,1,0.99999,0,,,,NRM&CS,High,High
+229,1112,0.809523809,45,23,Reef,SH,hover,active,Crepuscular,1,1,4.002,0.0667,3,3,Robert,1,0.99999,0,,,,NRM&CS,High,High
+186,1003,0.90625,12,12,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Tony,0.857142857,0.857142857,0.142857143,,,,Dive Professional,High,High
+187,1003,0.90625,13,31,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Tony,0.857142857,0.857142857,0.142857143,,,,Dive Professional,High,High
+188,1003,0.90625,13,32,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Tony,0.857142857,0.857142857,0.142857143,,,,Dive Professional,High,High
+870,5127,0.735442192,,20,Reef,EXP,hunt,active,Crepuscular,1,1,7,0.11667,4,4,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+194,1007,,0,18,Reef,EXP,hover,active,midday,1,1,4.002,0.0667,4.002,4.002,Chris,1,0.99999,0,1000,1000,High,Dive Professional,High,High
+531,2820,0.636363636,4,46,Reef,EXP,rest,rest,midday,1,1,4.002,0.0667,4.002,4.002,Lad,1,0.99999,0,10000,1000,High,NRM&CS,High,High
+340,2112,0.923076923,3.5,38,Reef,SH,hover,active,midday,1,1,4.734,0.0789,4.734,4.734,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+80,207,0.677419355,24,24,Reef,SH,rest,rest,midday,1,1,6,0.1,6,6,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+206,1011,0.90625,,15,Reef,EXP,hover,active,midday,1,1,7.002,0.1167,7.002,7.002,John,1,0.99999,0,,,,,High,High
+207,1011,0.90625,,17,Reef,EXP,hover,active,midday,1,1,7.002,0.1167,7.002,7.002,John,1,0.99999,0,,,,,High,High
+210,1012,0.90625,10,28,Reef,EXP,hover,active,midday,1,1,7.002,0.1167,7.002,7.002,Norm,1,0.99999,0,,,,,High,High
+534,2826,0.636363636,26,28,Reef,EXP,hover,active,midday,1,1,9,0.15,9,9,Lad,1,0.99999,0,10000,1000,High,NRM&CS,High,High
+211,1012,0.90625,1,20,Reef,EXP,rest,rest,midday,1,1,10.998,0.1833,10.998,10.998,Norm,1,0.99999,0,,,,,High,High
+475,2643,0.733333333,8,15,Reef,SH,hover,active,midday,1,1,0,0,0,0.00000001,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+449,2534,0.714285714,2,20,Sponge,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,BZ,1,0.99999,0,150,0,Low,Intern,Low,Low
+59,173,1,38.8,13,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Lindsay,1,0.99999,0,500,0,Low,Volunteer,Low,Low
+476,2644,0.733333333,33,12,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+478,2645,0.733333333,32,13,Sand,EXP,hover,active,Crepuscular,1,1,0,0,0.083333333,0.083333333,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+479,2645,0.733333333,36,33,Reef,SH,rest,rest,Crepuscular,1,1,0,0,0.083333333,0.083333333,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+480,2645,0.733333333,30,9,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+262,1405,1,25,28,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Colin,1,0.99999,0,250,10,Low,Intern,Low,Low
+134,299,0.555555556,14,30,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Keri,1,0.99999,0,150,10,Low,Intern,Low,Low
+51,164,1,13,20,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+392,2282,0.909090909,0,27,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+393,2282,0.909090909,0,28,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+395,2282,0.909090909,0,,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+403,2344,0.625,15,20,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+422,2445,0.733333333,29,16,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+423,2445,0.733333333,48,30,Reef,EXP,swim,active,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+572,2905,0.846153846,3,28,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+573,2905,0.846153846,23,24,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+574,2905,0.846153846,30,23,Reef,EXP,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+607,5101,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+608,5101,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+609,5101,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+727,5114,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Bryan and Anna,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+797,5121,0.735442192,,20,Reef,SH,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Hall and Wicksten,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Low,Low
+1028,5412,0.485620915,,29,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+1029,5412,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+1045,5425,0.485620915,,,Reef,,,,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+978,5314,0.397435641,,32,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+979,5314,0.397435641,,30,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+980,5314,0.397435641,,30,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+981,5314,0.397435641,,36,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+982,5314,0.397435641,,30,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mark and Wes,0.416666667,0.416666667,0.583333333,,,Low,Volunteer,Low,Low
+1072,5429,0.485620915,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+1094,5440,0.485620915,,20,Reef,SH,rest,rest,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mike and Amanda,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+721,5114,0.735442192,,21,Reef,SH,rest,rest,Crepuscular,1,1,0.116666667,0.0019,0.116666667,0.116666667,Bryan and Anna,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+401,2311,0.625,,24,Reef,SH,rest,rest,midday,1,1,0.252,0.0042,0.252,0.252,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+881,5127,0.735442192,,22,Reef,EXP,rest,rest,Crepuscular,1,1,0.283333333,0.00472,0.283333333,0.283333333,Bryan and Anna,1,0.99999,0,,,Low,Volunteer,Low,Low
+484,2671,0.733333333,55,22,Reef,SH,hover,active,midday,1,1,0.33,0.0055,0.33,0.33,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+363,2159,0.775,40.7,23,Reef,SH,hover,active,midday,1,1,0.498,0.0083,0.498,0.498,Ana,0.5,0.5,0.5,260,0,Low,Intern,Low,Low
+470,2607,0.714285714,15,25,Reef,SH,hover,active,midday,1,1,0.498,0.0083,0.498,0.498,Kristen,1,0.99999,0,400,0,Low,Intern,Low,Low
+61,174,1,31,14,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+62,174,1,10,20,Reef,SH,rest,rest,midday,1,1,0.498,0.0083,0.498,0.498,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+880,5127,0.735442192,,24,Reef,EXP,hover,active,Crepuscular,1,1,0.5,0.00833,0.5,0.5,Bryan and Anna,1,0.99999,0,,,Low,Volunteer,Low,Low
+324,2076,0.8,10.6,27,Sponge,EXP,hover,active,midday,1,1,0.582,0.0097,0.582,0.582,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+409,2372,1,3.5,5,Reef,SH,rest,rest,midday,1,1,0.618,0.0103,0.618,0.618,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+463,2568,1,34,17,Reef,EXP,hover,active,midday,1,1,0.66,0.011,0.66,0.66,Kristen,1,0.99999,0,400,0,Low,Intern,Low,Low
+366,2164,0.775,41.7,33,Reef,EXP,rest,rest,midday,1,1,0.702,0.0117,0.702,0.702,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+141,355,1,39,23,Reef,SH,rest,rest,midday,1,1,0.75,0.0125,0.75,0.75,Keri,1,0.99999,0,150,10,Low,Intern,Low,Low
+63,174,1,31,20,Reef,SH,rest,rest,midday,1,1,0.75,0.0125,0.75,0.75,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+443,2505,0.714285714,11,17,Reef,EXP,rest,rest,midday,1,1,0.798,0.0133,0.798,0.798,BZ,1,0.99999,0,150,0,Low,Intern,Low,Low
+412,2390,1,42,37,Sand,EXP,swim,active,midday,1,1,0.798,0.0133,0.798,0.798,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+948,5138,0.735442192,,24,Reef,EXP,hover,active,Crepuscular,1,1,0.833333333,0.01389,0.833333333,0.833333333,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+949,5138,0.735442192,,26,Reef,SH,hover,active,Crepuscular,1,1,0.833333333,0.01389,0.833333333,0.833333333,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+950,5138,0.735442192,,24,Reef,EXP,hunt,active,Crepuscular,1,1,0.833333333,0.01389,0.833333333,0.833333333,Bryan and Anna,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+911,5133,0.735442192,,25,Reef,EXP,hover,active,midday,1,1,0.833333333,0.01389,0.833333333,0.833333333,Hall and Wicksten,1,0.99999,0,,,Low,Volunteer,Low,Low
+951,5138,0.735442192,,10,Reef,EXP,swim,active,Crepuscular,1,1,0.833333333,0.01389,0.833333333,0.833333333,Hall and Wicksten,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+952,5138,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,1,1,0.833333333,0.01389,0.833333333,0.833333333,Hall and Wicksten,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+371,2167,0.775,37.6,26,Reef,SH,hover,active,midday,1,1,2.184,0.0364,0.948,0.948,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+947,5138,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,1,1,1,0.01667,1,1,Hall and Wicksten,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+1073,5430,0.485620915,,15,Reef,SH,rest,rest,Crepuscular,1,1,1,0.01667,1,1,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+761,5118,0.735442192,,20,Reef,EXP,hover,active,midday,1,1,1,0.01667,1,1,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+824,5124,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Kris and Kaitlin,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Low,Low
+825,5124,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Kris and Kaitlin,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Low,Low
+963,5139,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,2,0.03333,1,1,Kris and Kaitlin,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+343,2127,0.65,35.8,30,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Ana,0.75,0.75,0.25,260,0,Low,Intern,Low,Low
+344,2127,0.65,38.6,35,Reef,SH,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Ana,0.75,0.75,0.25,260,0,Low,Intern,Low,Low
+549,2862,0.846153846,7,10,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,BZ,1,0.99999,0,150,0,Low,Intern,Low,Low
+550,2862,0.846153846,36,25,Sponge,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,BZ,1,0.99999,0,150,0,Low,Intern,Low,Low
+60,173,1,14,16,Reef,SH,swim,active,midday,1,1,1.002,0.0167,1.002,1.002,Lindsay,1,0.99999,0,500,0,Low,Volunteer,Low,Low
+477,2644,0.733333333,33,12,Reef,SH,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+485,2671,0.733333333,61,10,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+237,1203,0.8,5,33,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Colin,1,0.99999,0,250,10,Low,Intern,Low,Low
+245,1212,0.8,50,30,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Colin,1,0.99999,0,250,10,Low,Intern,Low,Low
+263,1406,1,15,30,Sand,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Colin,1,0.99999,0,250,10,Low,Intern,Low,Low
+264,1406,1,5,30,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Colin,1,0.99999,0,250,10,Low,Intern,Low,Low
+52,164,1,27,10,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+54,164,1,15.5,22,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+55,164,1,13,23,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+64,174,1,15,18,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+427,2454,0.733333333,10,15,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Amy,1,0.99999,0,85,50,Low,Intern,Low,Low
+336,2108,0.923076923,17,38,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+397,2282,0.909090909,5,40,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+174,463,0.775,24,30,Reef,SH,rest,rest,midday,1,1,1.164,0.0194,1.164,1.164,Elissa,1,0.99999,0,70,50,Low,Volunteer,Low,Low
+410,2372,1,48,38,Reef,SH,rest,rest,midday,1,1,1.218,0.0203,1.218,1.218,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+369,2167,0.775,37.6,32,Reef,SH,hover,active,midday,1,1,1.236,0.0206,1.236,1.236,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+175,463,0.775,7,40,Reef,SH,rest,rest,midday,1,1,1.332,0.0222,1.332,1.332,Elissa,1,0.99999,0,70,50,Low,Volunteer,Low,Low
+373,2168,0.775,12.6,15,Sponge,SH,hover,active,midday,1,1,1.482,0.0247,1.482,1.482,Kristian,0.666666667,0.666666667,0.333333333,60,50,Low,Intern,Low,Low
+442,2497,0.714285714,45,34,Reef,EXP,rest,rest,midday,1,1,1.5,0.025,1.5,1.5,BZ,0.5,0.5,0.5,150,0,Low,Intern,Low,Low
+482,2669,0.733333333,59,11,Reef,SH,rest,rest,midday,1,1,1.5,0.025,1.5,1.5,Jack Fishman,1,0.99999,0,400,2,Low,Intern,Low,Low
+370,2167,0.775,2.5,35,Reef,SH,hover,active,midday,1,1,1.518,0.0253,1.518,1.518,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+413,2390,1,42,41,Sand,SH,hover,active,midday,1,1,1.602,0.0267,1.602,1.602,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+461,2568,1,49,17,Reef,EXP,hover,active,midday,1,1,1.752,0.0292,1.752,1.752,Kristen,1,0.99999,0,400,0,Low,Intern,Low,Low
+451,2536,0.714285714,3,20,Reef,EXP,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,BZ,0.666666667,0.666666667,0.333333333,150,0,Low,Intern,Low,Low
+404,2346,0.625,15,23,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+714,5114,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,4,0.0667,2,2,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+760,5118,0.735442192,,20,Reef,EXP,hover,active,midday,1,1,2,0.03333,2,2,Kris and Kaitlin,0.25,0.25,0.75,,,Low,Volunteer,Low,Low
+908,5133,0.735442192,,15,Reef,SH,hover,active,midday,1,1,2,0.03333,2,2,Kris and Kaitlin,1,0.99999,0,,,Low,Volunteer,Low,Low
+955,5139,0.735442192,,15,Reef,EXP,hover,active,Crepuscular,1,1,2,0.03333,2,2,Kris and Kaitlin,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+642,5103,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,1,1,4,0.0667,4,4,Kris and Kaitlin,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+462,2568,1,35,40,Reef,EXP,hover,active,midday,1,1,7.002,0.1167,7.002,7.002,Kristen,1,0.99999,0,400,0,Low,Intern,Low,Low
+399,2282,0.909090909,46,,Reef,EXP,hover,active,midday,1,1,10.002,0.1667,10.002,10.002,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+230,1113,0.809523809,39,24,Reef,EXP,rest,rest,midday,1,1,10.998,0.1833,10.998,10.998,Colin,0.5,0.5,0.5,250,10,Low,Intern,Low,Low
+411,2372,1,12.6,39,Reef,SH,rest,rest,midday,1,1,19.014,0.3169,19.014,19.014,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+226,1111,0.809523809,18,35,Reef,EXP,hover,active,Crepuscular,1,1,0,0,0.083333333,0.083333333,Rich,1,0.99999,0,300,50,Low,NRM&CS,Medium,Low
+265,1410,1,3,22,Reef,SH,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+266,1410,1,5,32,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+267,1410,1,5,34,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+362,2149,0.65,5.7,30,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Katie,0.666666667,0.666666667,0.333333333,500,50,Low,NRM&CS,Medium,Low
+217,1105,0.809523809,9,40,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Andrew,1,0.99999,0,,,,,Medium,Low
+218,1109,0.809523809,50,30,Reef,SH,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Andrew,0.833333333,0.833333333,0.166666667,,,,,Medium,Low
+220,1109,0.809523809,32,38,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Andrew,0.833333333,0.833333333,0.166666667,,,,,Medium,Low
+221,1109,0.809523809,5,38,Reef,EXP,hover,active,midday,1,1,0,0,0.083333333,0.083333333,Andrew,0.833333333,0.833333333,0.166666667,,,,,Medium,Low
+602,5101,0.735442192,,17,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.833333333,0.833333333,0.166666667,,,High,Volunteer,Medium,Low
+603,5101,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.833333333,0.833333333,0.166666667,,,High,Volunteer,Medium,Low
+604,5101,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.833333333,0.833333333,0.166666667,,,High,Volunteer,Medium,Low
+605,5101,0.735442192,,25,Reef,EXP,rest,rest,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.833333333,0.833333333,0.166666667,,,High,Volunteer,Medium,Low
+606,5101,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.833333333,0.833333333,0.166666667,,,High,Volunteer,Medium,Low
+696,5111,0.735442192,,35,Reef,EXP,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.75,0.75,0.25,,,High,Volunteer,Medium,Low
+697,5111,0.735442192,,28,Reef,EXP,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.75,0.75,0.25,,,High,Volunteer,Medium,Low
+698,5111,0.735442192,,20,Reef,EXP,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.75,0.75,0.25,,,High,Volunteer,Medium,Low
+778,5119,0.735442192,,38,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+779,5119,0.735442192,,30,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+780,5119,0.735442192,,25,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+781,5119,0.735442192,,25,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+782,5119,0.735442192,,25,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+783,5119,0.735442192,,24,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+784,5119,0.735442192,,32,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+785,5119,0.735442192,,28,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+786,5119,0.735442192,,24,Reef,EXP,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+788,5119,0.735442192,,28,Reef,SH,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+789,5119,0.735442192,,22,Reef,SH,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+833,5125,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+834,5125,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+835,5125,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+837,5125,0.735442192,,25,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+838,5125,0.735442192,,24,Reef,EXP,hunt,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+839,5125,0.735442192,,22,Reef,EXP,rest,rest,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+840,5125,0.735442192,,35,Reef,SH,rest,rest,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+841,5125,0.735442192,,22,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+843,5125,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+844,5125,0.735442192,,35,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+845,5125,0.735442192,,32,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+846,5125,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+847,5125,0.735442192,,30,Reef,EXP,swim,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,0.764705882,0.764705882,0.235294118,,,High,Volunteer,Medium,Low
+926,5135,0.735442192,,40,Reef,SH,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+927,5135,0.735442192,,24,Reef,SH,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+928,5135,0.735442192,,30,Reef,SH,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+929,5135,0.735442192,,35,Reef,SH,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+930,5135,0.735442192,,25,Reef,SH,hover,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+931,5135,0.735442192,,29,Reef,SH,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+932,5135,0.735442192,,25,Reef,SH,rest,rest,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+934,5135,0.735442192,,23,Reef,SH,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+935,5135,0.735442192,,30,Reef,EXP,swim,active,midday,1,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+138,352,0.8,16,24,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Ben,1,0.99999,0,,,Low,Intern,Medium,Low
+3,118,0.891891892,1,18,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+4,118,0.891891892,34,25,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+5,118,0.891891892,28,30,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+633,5102,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.5,0.5,0.5,,,Low,Volunteer,Medium,Low
+758,5117,0.735442192,,20,Reef,EXP,hover,active,midday,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Medium,Low
+848,5125,0.735442192,,34,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Medium,Low
+849,5125,0.735442192,,32,Reef,EXP,hover,active,Crepuscular,1,1,0.083333333,0.00139,0.083333333,0.083333333,Mike and Grytch,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Medium,Low
+273,1450,0.858974359,35,15,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Trudy,1,0.99999,0,,,High,NRM&CS,Medium,Low
+68,198,0.677419355,5,32,Reef,EXP,hover,active,midday,1,1,0.336,0.0056,0.336,0.336,Mitch,0.5,0.5,0.5,,,,Dive Professional,Medium,Low
+354,2140,0.65,12,15,Reef,EXP,rest,rest,midday,1,1,0.432,0.0072,0.432,0.432,Katie,0.75,0.75,0.25,500,50,Low,NRM&CS,Medium,Low
+415,2392,1,1,40,Reef,SH,rest,rest,midday,1,1,0.534,0.0089,0.534,0.534,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+965,5139,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,0.916666667,0.916666667,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+966,5139,0.735442192,,35,Reef,,,,Crepuscular,1,1,1,0.01667,0.916666667,0.916666667,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+646,5104,0.735442192,,25,Reef,EXP,rest,rest,midday,1,1,1,0.01667,1,1,Ari and Rachel,0.6,0.6,0.4,,,High,Volunteer,Medium,Low
+648,5104,0.735442192,,20,Reef,EXP,rest,rest,midday,1,1,1,0.01667,1,1,Ari and Rachel,0.6,0.6,0.4,,,High,Volunteer,Medium,Low
+650,5104,0.735442192,,20,Reef,EXP,swim,active,midday,1,1,1,0.01667,1,1,Ari and Rachel,0.6,0.6,0.4,,,High,Volunteer,Medium,Low
+769,5119,0.735442192,,28,Reef,EXP,hover,active,midday,1,1,1,0.01667,1,1,Ari and Rachel,0.857142857,0.857142857,0.142857143,,,High,Volunteer,Medium,Low
+1008,5410,0.485620915,,29,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Curtis and Amy,0.333333333,0.333333333,0.666666667,,,High,Dive Professional,Medium,Low
+1009,5410,0.485620915,,30,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Curtis and Amy,0.333333333,0.333333333,0.666666667,,,High,Dive Professional,Medium,Low
+1010,5410,0.485620915,,35,Reef,SH,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Curtis and Amy,0.333333333,0.333333333,0.666666667,,,High,Dive Professional,Medium,Low
+584,5100,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+585,5100,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+586,5100,0.735442192,,28,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+587,5100,0.735442192,,24,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+588,5100,0.735442192,,35,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+589,5100,0.735442192,,32,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+730,5115,0.735442192,,24,Reef,SH,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+732,5115,0.735442192,,26,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+733,5115,0.735442192,,24,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+734,5115,0.735442192,,29,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+735,5115,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+736,5115,0.735442192,,28,Reef,EXP,hover,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+737,5115,0.735442192,,26,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.0167,1,1,Leah and Jackie,0.875,0.875,0.125,,,High,NRM&CS,Medium,Low
+820,5124,0.735442192,,26,Reef,EXP,hover,active,Crepuscular,1,1,3,0.05,1,1,Leah and Jackie,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,Medium,Low
+821,5124,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Leah and Jackie,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,Medium,Low
+822,5124,0.735442192,,24,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Leah and Jackie,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,Medium,Low
+909,5133,0.735442192,,24,Reef,SH,hover,active,midday,1,1,1,0.01667,1,1,Leah and Jackie,0.6666667,0.6666667,0.3333333,,,High,NRM&CS,Medium,Low
+956,5139,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+958,5139,0.735442192,,27,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+959,5139,0.735442192,,24,Reef,EXP,hover,active,Crepuscular,1,1,1,0.01667,1,1,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+960,5139,0.735442192,,24,Reef,EXP,hunt,active,Crepuscular,1,1,1,0.01667,1,1,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+962,5139,0.735442192,,34,Reef,,,,Crepuscular,1,1,1,0.01667,1,1,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+662,5107,0.735442192,,15,Reef,EXP,hover,active,midday,1,1,1,0.0167,1,1,Mike and Grytch,1,0.99999,0,,,High,Volunteer,Medium,Low
+334,2096,0.923076923,3,15,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+1,115,0.891891892,10,17,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+2,115,0.891891892,26,17,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+7,118,0.891891892,34,10,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+8,118,0.891891892,44,12,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+9,118,0.891891892,2,17,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+10,118,0.891891892,18,19,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+11,118,0.891891892,18,20,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+20,121,0.891891892,1.5,16,Sand,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+21,121,0.891891892,2,20,Sand,EXP,swim,active,midday,1,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+272,1442,0.858974359,,30,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Jes,1,0.99999,0,,,Low,Intern,Medium,Low
+382,2188,,40,30,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Jes,1,0.99999,0,,,Low,Intern,Medium,Low
+158,397,0.529411765,6,21,Reef,EXP,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Jess,0.5,0.5,0.5,,,High,Intern,Medium,Low
+179,471,0.529411765,7,37,Reef,EXP,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Jess,1,0.99999,0,,,High,Intern,Medium,Low
+529,2817,0.636363636,0,23,Sand,EXP,swim,active,midday,1,1,1.002,0.0167,1.002,1.002,Trudy,1,0.99999,0,,,High,NRM&CS,Medium,Low
+357,2140,0.65,25.5,15,Reef,EXP,rest,rest,midday,1,1,2.184,0.0364,1.236,1.236,Katie,0.75,0.75,0.25,500,50,Low,NRM&CS,Medium,Low
+359,2146,0.65,60.7,23,Sand,EXP,rest,rest,midday,1,1,1.8,0.03,1.8,1.8,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+583,5100,0.735442192,,26,Reef,EXP,hover,active,Crepuscular,1,1,2,0.0333,1.916666667,1.916666667,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+335,2096,0.923076923,40.8,15,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+361,2149,0.65,20,25,Reef,EXP,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Katie,0.666666667,0.666666667,0.333333333,500,50,Low,NRM&CS,Medium,Low
+222,1109,0.809523809,1,35,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Andrew,0.833333333,0.833333333,0.166666667,,,,,Medium,Low
+24,121,0.891891892,15,18,Reef,EXP,hover,active,Crepuscular,1,1,1.998,0.0333,1.998,1.998,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+23,121,0.891891892,72,10,Reef,SH,rest,rest,midday,1,1,2,0.0333,2,2,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+25,121,0.891891892,2,19,Reef,EXP,rest,rest,midday,1,1,3,0.05,2,2,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+26,121,0.891891892,2,25,Reef,SH,rest,rest,midday,1,1,3,0.05,2,2,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+27,121,0.891891892,72,10,Reef,SH,rest,rest,midday,1,1,4,0.0667,2,2,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+582,5100,0.735442192,,29,Reef,EXP,rest,rest,Crepuscular,1,1,2,0.0333,2,2,Leah and Jackie,0.818,0.818,0.182,,,High,NRM&CS,Medium,Low
+795,5120,0.735442192,,25,Reef,EXP,hover,active,midday,1,1,2,0.03333,2,2,Leah and Jackie,0.5,0.5,0.5,,,High,NRM&CS,Medium,Low
+818,5124,0.735442192,,23,Reef,EXP,hover,active,Crepuscular,1,1,2,0.03333,2,2,Leah and Jackie,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,Medium,Low
+819,5124,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,1,1,3,0.05,2,2,Leah and Jackie,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,Medium,Low
+1075,5431,0.485620915,,,Reef,SH,hover,active,Crepuscular,1,1,3,0.05,3,3,Gia and Reuben,0.333333333,0.333333333,0.666666667,,,,Volunteer,Medium,Low
+234,1116,0.809523809,40,35,Reef,SH,rest,rest,midday,1,1,6,0.1,6,6,Andrew,0.6,0.6,0.4,,,,,Medium,Low
+920,5135,0.735442192,,15,Reef,EXP,hover,active,midday,1,1,1,0.016666667,11,11,Mike and Grytch,1,0.99999,0,,,Low,Volunteer,Medium,Low
+106,275,0.931034483,14,13,Reef,SH,rest,rest,midday,1,1,0,0,0.083333333,0.083333333,Zoe.Liz,0.833333333,0.833333333,0.166666667,32,0,Low,Intern,None,Low
+112,276,0.931034483,0,10,Reef,EXP,hover,active,Crepuscular,1,1,0,0,0.083333333,0.083333333,Zoe.Liz,1,0.99999,0,32,0,Low,Intern,None,Low
+165,434,0.775,3,30,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Ellie,1,0.99999,0,50,0,Low,Intern,None,Low
+166,434,0.775,33,34,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Ellie,1,0.99999,0,50,0,Low,Intern,None,Low
+385,2223,1,21,34,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Emily,1,0.99999,0,50,0,Low,Intern,None,Low
+541,2855,0.714285714,38,25,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Emily,1,0.99999,0,50,0,Low,Intern,None,Low
+107,275,0.931034483,14,20,Reef,SH,rest,rest,midday,1,1,1.002,0.0167,1.002,1.002,Zoe.Liz,0.833333333,0.833333333,0.166666667,32,0,Low,Intern,None,Low
+108,275,0.931034483,30,25,Reef,SH,hover,active,midday,1,1,1.002,0.0167,1.002,1.002,Zoe.Liz,0.833333333,0.833333333,0.166666667,32,0,Low,Intern,None,Low
+167,434,0.775,44,35,Reef,SH,rest,rest,midday,1,1,1.5,0.025,1.5,1.5,Ellie,1,0.99999,0,50,0,Low,Intern,None,Low
+101,254,0.931034483,45,28,Reef,SH,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,Austen.Liz,1,0.99999,0,18,0,Low,Intern,None,Low
+109,275,0.931034483,30,27,Reef,SH,hover,active,midday,1,1,3,0.05,1.998,1.998,Zoe.Liz,0.833333333,0.833333333,0.166666667,32,0,Low,Intern,None,Low
+127,297,0.931034483,78,10,Sand,EXP,hover,active,midday,1,1,1.998,0.0333,1.998,1.998,Zoe.Liz,0.666666667,0.666666667,0.333333333,32,0,Low,Intern,None,Low
+481,2659,0.733333333,1,17,Reef,SH,rest,rest,midday,1,1,1.998,0.0333,1.998,1.998,Anna S.,1,0.99999,0,56,0,Low,Intern,None,Low
+168,434,0.775,32,33,Reef,EXP,rest,rest,midday,1,1,2.502,0.0417,2.502,2.502,Ellie,1,0.99999,0,50,0,Low,Intern,None,Low
+169,434,0.775,3,40,Reef,SH,rest,rest,midday,1,1,3,0.05,3,3,Ellie,1,0.99999,0,50,0,Low,Intern,None,Low
+435,2458,0.733333333,22,40,Reef,EXP,swim,active,midday,1,1,3,0.05,3,3,Anna S.,1,0.99999,0,56,0,Low,Intern,None,Low
+99,251,0.931034483,,18,Reef,EXP,hover,active,midday,1,1,4.002,0.0667,4.002,4.002,Austen.Liz.Keri.Adam,1,0.99999,0,18,0,Low,Intern,None,Low
+104,271,0.931034483,21,35,Reef,EXP,hover,active,midday,1,1,4.002,0.0667,4.002,4.002,Zoe.Liz,1,0.99999,0,32,0,Low,Intern,None,Low
+110,275,0.931034483,14,27,Reef,SH,rest,rest,midday,1,1,6,0.1,4.998,4.998,Zoe.Liz,0.833333333,0.833333333,0.166666667,32,0,Low,Intern,None,Low
+128,297,0.555555556,56,15,Reef,EXP,swim,active,midday,1,1,4.998,0.0833,4.998,4.998,Zoe.Liz,0.666666667,0.666666667,0.333333333,32,0,Low,Intern,None,Low
+100,251,0.931034483,,17,Reef,EXP,hover,active,midday,1,1,7.998,0.1333,7.998,7.998,Austen.Liz.Keri.Adam,1,0.99999,0,18,0,Low,Intern,None,Low
+639,5102,0.735442192,,24,Reef,EXP,rest,rest,Crepuscular,2,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+707,5112,0.735442192,,20,Reef,EXP,hunt,active,Crepuscular,2,1,0.016666667,0.0003,0.016666667,0.016666667,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+635,5102,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,2,1,0.05,0.0008,0.05,0.05,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+705,5112,0.735442192,,25,Reef,EXP,swim,active,Crepuscular,2,1,0.05,0.0008,0.05,0.05,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+753,5116,0.735442192,,26.6,Reef,EXP,,,midday,2,1,0.05,0.00083,0.05,0.05,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+117,291,0.931034483,3.7,8,Reef,EXP,hover,active,midday,2,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+653,5104,0.735442192,,20,Reef,EXP,hover,active,midday,2,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+702,5112,0.735442192,,20,Reef,EXP,hover,active,Crepuscular,2,1,0.083333333,0.0014,0.083333333,0.083333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+884,5128,0.735442192,,24.5,Reef,EXP,hover,active,midday,2,1,0.083333333,0.00139,0.083333333,0.083333333,Fogg and Riffe,0.75,0.75,0.25,,,High,NRM&CS,High,High
+896,5130,0.735442192,,25,Reef,EXP,hover,active,midday,2,1,3,0.05,0.083333333,0.083333333,Grayson and Travis,0.714285714,0.714285714,0.285714286,,,High,Volunteer,High,High
+629,5102,0.735442192,,11,Reef,EXP,hover,active,Crepuscular,2,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+632,5102,0.735442192,,22,Reef,,,,Crepuscular,2,1,0.083333333,0.0014,0.083333333,0.083333333,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+12,119,0.891891892,31,15,Reef,SH,rest,rest,midday,2,1,0,0,0.083333333,0.083333333,Robert,1,0.99999,0,,,,NRM&CS,High,High
+274,1453,0.858974359,1,8,Reef,EXP,rest,rest,midday,2,1,0,0,0.166666666,0.166666666,Liz T.,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,High,High
+891,5130,0.735442192,,40,Reef,EXP,hover,active,midday,2,1,0.166666667,0.00278,0.166666667,0.166666667,Grayson and Travis,0.714285714,0.714285714,0.285714286,,,High,Volunteer,High,High
+826,5124,0.735442192,,25.6,Reef,EXP,swim,active,Crepuscular,2,1,0.35,0.00583,0.35,0.35,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+78,207,0.677419355,8,4,Reef,EXP,rest,rest,midday,2,1,2.334,0.0389,0.42,0.42,Steve Schalk,0.5,0.5,0.5,,,High,NRM&CS,High,High
+489,2713,1,20,15,Reef,EXP,rest,rest,midday,2,1,0.498,0.0083,0.498,0.498,Ed,1,0.99999,0,,,High,Volunteer,High,High
+595,5101,0.735442192,,13,Reef,EXP,hover,active,Crepuscular,2,1,0.5,0.0083,0.5,0.5,Grayson and Travis,0.818181818,0.818181818,0.181818182,,,High,Volunteer,High,High
+321,2075,0.8,37.1,24,Reef,SH,hover,active,midday,2,1,0.552,0.0092,0.552,0.552,Ryan,1,0.99999,0,1500,300,High,NRM&CS,High,High
+307,2043,0.893939394,2,,Reef,EXP,rest,rest,midday,2,1,0.666,0.0111,0.666,0.666,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+437,2484,0.857142857,36,8,Sponge,EXP,rest,rest,midday,2,1,0.75,0.0125,0.75,0.75,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+298,2017,0.857142857,48,23,Reef,SH,rest,rest,midday,2,1,0.918,0.0153,0.918,0.918,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+290,2009,0.857142857,3.1,26,Reef,SH,hover,active,midday,2,1,0.918,0.0153,0.918,0.918,Greg,1,0.99999,0,,,,,High,High
+853,5126,0.735442192,,25,Reef,EXP,hover,active,Crepuscular,2,1,1,0.01667,1,1,Andy and Chuck,1,0.99999,0,,,High,,High,High
+804,5122,0.735442192,,18,Reef,SH,swim,active,midday,2,1,1,0.01667,1,1,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+1096,5443,0.485620915,,37,Reef,EXP,hover,active,Crepuscular,2,1,1,0.01667,1,1,Kris and Grytch,1,0.99999,0,,,High,Volunteer,High,High
+277,1453,0.858974359,16,28,Reef,SH,rest,rest,midday,2,1,1.002,0.0167,1.002,1.002,Liz T.,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,High,High
+299,2017,0.857142857,12,17,Reef,SH,rest,rest,midday,2,1,1.164,0.0194,1.164,1.164,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+310,2043,0.893939394,3,,Reef,EXP,rest,rest,midday,2,1,1.182,0.0197,1.182,1.182,Terry,0.833333333,0.833333333,0.166666667,1231,300,High,NRM&CS,High,High
+491,2713,1,4,41,Reef,SH,rest,rest,midday,2,1,1.5,0.025,1.5,1.5,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+1036,5417,0.485620915,,31,Reef,SH,rest,rest,midday,2,1,1.5,0.025,1.5,1.5,Curtis and Wendy,0.333333333,0.333333333,0.666666667,,,High,Dive Professional,High,High
+457,2561,1,48,40,Reef,EXP,rest,rest,midday,2,1,1.5,0.025,1.5,1.5,Jason Vogan,1,0.99999,0,,,High,Dive Professional,High,High
+332,2095,0.923076923,15,12,Reef,SH,rest,rest,midday,2,1,1.716,0.0286,1.716,1.716,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+323,2075,0.8,26.5,25,Sand,EXP,hover,active,midday,2,1,1.818,0.0303,1.818,1.818,Ryan,1,0.99999,0,1500,300,High,NRM&CS,High,High
+271,1441,0.858974359,18,16,Reef,SH,rest,rest,midday,2,1,1.998,0.0333,1.998,1.998,Lad,1,0.99999,0,10000,1000,High,NRM&CS,High,High
+195,1008,0.90625,,23,Reef,EXP,hover,active,midday,2,1,1.998,0.0333,1.998,1.998,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+192,1007,,0,22,Reef,EXP,hover,active,midday,2,1,1.998,0.0333,1.998,1.998,Robert,1,0.99999,0,,,,NRM&CS,High,High
+580,5100,0.735442192,,12,Reef,SH,hover,active,Crepuscular,2,1,2,0.0333,2,2,Andy and Chuck,0.6,0.6,0.4,,,High,Volunteer,High,High
+801,5122,0.735442192,,24,Reef,SH,rest,rest,midday,2,1,2,0.03333,2,2,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+802,5122,0.735442192,,30,Reef,EXP,swim,active,midday,2,1,2,0.03333,2,2,Hale and Sterne,0.75,0.75,0.25,,,High,Volunteer,High,High
+874,5127,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,2,1,2,0.03333,2,2,Hale and Sterne,0.9,0.9,0.1,,,High,Volunteer,High,High
+937,5136,0.735442192,,35,Reef,EXP,hunt,active,Crepuscular,2,1,2,0.03333,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+938,5136,0.735442192,,25,Reef,EXP,hunt,active,Crepuscular,2,1,2,0.03333,2,2,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+378,2174,0.775,5.2,30,Reef,EXP,hover,active,midday,2,1,2.502,0.0417,2.502,2.502,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+73,206,0.677419355,34,16,Reef,SH,rest,rest,midday,2,1,2.502,0.0417,2.502,2.502,Steve Schalk,1,0.99999,0,,,High,NRM&CS,High,High
+92,208,0.677419355,58,18,Reef,SH,rest,rest,midday,2,1,3.414,0.0569,2.748,2.748,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+339,2112,0.923076923,4.5,30,Reef,SH,rest,rest,midday,2,1,3.582,0.0597,3.582,3.582,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+898,5132,0.735442192,,20,Reef,SH,rest,rest,midday,2,1,4,0.06667,4,4,Hale and Sterne,1,0.99999,0,,,High,Volunteer,High,High
+502,2770,0.7,15,10,Reef,SH,rest,rest,midday,2,1,4.998,0.0833,4.998,4.998,Lad,0.75,0.75,0.25,10000,1000,High,NRM&CS,High,High
+1082,5432,0.485620915,,,Reef,SH,hover,active,Crepuscular,2,1,5,0.08333,5,5,Brian and Josh,0.333333333,0.333333333,0.666666667,,,,Volunteer,High,High
+420,2428,0.857142857,38,15,Reef,SH,hover,active,midday,2,1,7.002,0.1167,7.002,7.002,Liz,1,0.99999,0,400,200,High,NRM&CS,High,High
+144,364,0.8,5,25,Reef,SH,rest,rest,midday,2,1,9,0.15,9,9,Liz,0.5,0.5,0.5,400,200,High,NRM&CS,High,High
+394,2282,0.909090909,0,33,Reef,SH,rest,rest,midday,2,1,0,0,0.166666666,0.166666666,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+575,2906,0.846153846,22,10,Reef,EXP,rest,rest,midday,2,1,0,0,0.166666666,0.166666666,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+663,5107,0.735442192,,20,Reef,EXP,hover,active,midday,2,1,0.083333333,0.0014,0.166666666,0.166666666,Harley and Victoria,0.5,0.5,0.5,,,Low,Volunteer,Low,Low
+367,2167,0.775,37.6,25,Reef,SH,rest,rest,midday,2,1,0.336,0.0056,0.336,0.336,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+368,2167,0.775,2.5,25,Reef,SH,hover,active,midday,2,1,0.486,0.0081,0.486,0.486,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+421,2445,0.733333333,25,34,Reef,EXP,hover,active,midday,2,1,1.002,0.0167,0.5,0.5,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+398,2282,0.909090909,6,,Reef,EXP,hover,active,midday,2,1,1.002,0.0167,0.752000001,0.752000001,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+879,5127,0.735442192,,26,Reef,EXP,swim,active,Crepuscular,2,1,1,0.01667,1,1,Bryan and Anna,1,0.99999,0,,,Low,Volunteer,Low,Low
+796,5121,0.735442192,,28,Reef,,,,midday,2,1,1,0.01667,1,1,Hall and Wicksten,0.666666667,0.666666667,0.333333333,,,Low,Volunteer,Low,Low
+53,164,1,28,18,Reef,EXP,hunt,active,midday,2,1,1.002,0.0167,1.002,1.002,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+56,164,1,43,23,Sponge,EXP,hunt,active,midday,2,1,1.002,0.0167,1.002,1.002,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+487,2695,0.857142857,12,16,Reef,SH,rest,rest,midday,2,1,1.5,0.025,1.5,1.5,BZ,1,0.99999,0,150,0,Low,Intern,Low,Low
+468,2586,0.714285714,40,32,Reef,SH,hover,active,midday,2,1,1.998,0.0333,1.998,1.998,BZ,1,0.99999,0,150,0,Low,Intern,Low,Low
+688,5110,0.735442192,,25,Sand,SH,hover,active,midday,2,1,2,0.0333,2,2,Kris and Kaitlin,0.2,0.2,0.8,,,Low,Volunteer,Low,Low
+716,5114,0.735442192,,5,Reef,EXP,hover,active,Crepuscular,2,1,2,0.0333,2,2,Kris and Kaitlin,0.285714286,0.285714286,0.714285714,,,Low,Volunteer,Low,Low
+452,2536,0.714285714,35,25,Sponge,EXP,hover,active,midday,2,1,3,0.05,3,3,BZ,0.666666667,0.666666667,0.333333333,150,0,Low,Intern,Low,Low
+446,2519,0.714285714,49,16,Reef,EXP,rest,rest,midday,2,1,3,0.05,3,3,BZ.Liz,1,0.99999,0,150,0,Low,Intern,Low,Low
+65,174,1,31,23,Reef,SH,rest,rest,midday,2,1,4.002,0.0667,4.002,4.002,Alex,1,0.99999,0,100,50,Low,Intern,Low,Low
+405,2346,0.625,15,30,Reef,SH,rest,rest,midday,2,1,7.998,0.1333,7.998,7.998,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+164,419,0.529411765,50,12,Sponge,SH,hover,active,midday,2,1,9,0.15,9,9,Taylor,0.5,0.5,0.5,130,0,Low,Intern,Low,Low
+219,1109,0.809523809,2,34,Reef,SH,hover,active,midday,2,1,0,0,0.083333333,0.083333333,Andrew,0.833333333,0.833333333,0.166666667,,,,,Medium,Low
+933,5135,0.735442192,,27,Reef,EXP,swim,active,midday,2,1,0.083333333,0.0014,0.083333333,0.083333333,Ari and Rachel,1,0.99999,0,,,High,Volunteer,Medium,Low
+433,2457,0.733333333,24,42,Reef,SH,rest,rest,midday,2,1,0,0,0.166666666,0.166666666,Ben Acker,0.666666667,0.666666667,0.333333333,,,,Intern,Medium,Low
+356,2140,0.65,25.7,35,Reef,EXP,rest,rest,midday,2,1,0.948,0.0158,0.948,0.948,Katie,0.75,0.75,0.25,500,50,Low,NRM&CS,Medium,Low
+957,5139,0.735442192,,26,Reef,SH,hover,active,Crepuscular,2,1,1,0.01667,1,1,Leah and Jackie,0.8,0.8,0.2,,,High,NRM&CS,Medium,Low
+552,2867,0.714285714,20,21,Reef,SH,hunt,active,midday,2,1,1.002,0.0167,1.002,1.002,Andy,1,0.99999,0,,,,,Medium,Low
+6,118,0.891891892,26,7,Reef,SH,rest,rest,midday,2,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+19,121,0.891891892,29,13,Sand,EXP,hover,active,Crepuscular,2,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+22,121,0.891891892,56,23,Reef,SH,rest,rest,midday,2,1,1.002,0.0167,1.002,1.002,Danielle,1,0.99999,0,,,Low,Intern,Medium,Low
+227,1111,0.809523809,32,20,Reef,EXP,swim,active,midday,2,1,1.998,0.0333,1.998,1.998,Rich,1,0.99999,0,300,50,Low,NRM&CS,Medium,Low
+754,5117,0.735442192,,24,Reef,EXP,swim,active,midday,2,1,2,0.03333,2,2,Leah and Jackie,1,0.99999,0,,,High,NRM&CS,Medium,Low
+907,5133,0.735442192,,23,Reef,SH,hover,active,midday,2,1,2,0.03333,2,2,Leah and Jackie,0.6666667,0.6666667,0.3333333,,,High,NRM&CS,Medium,Low
+170,453,0.775,25,17,Reef,SH,rest,rest,midday,2,1,3,0.05,3,3,Jess,1,0.99999,0,,,High,Intern,Medium,Low
+379,2175,0.775,1.5,37,Sand,EXP,swim,active,midday,2,1,5.664,0.0944,5.664,5.664,Katie,1,0.99999,0,500,50,Low,NRM&CS,Medium,Low
+118,291,0.931034483,3.7,12,Reef,EXP,hover,active,midday,3,1,0,0,0.083333333,0.083333333,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+660,5106,0.735442192,,35,Reef,SH,rest,rest,midday,3,1,0.149253731,0.0025,0.149253731,0.149253731,Fogg and Riffe,0.333333333,0.333333333,0.666666667,,,High,NRM&CS,High,High
+342,2117,0.923076923,9.7,12,Sponge,EXP,swim,active,midday,3,1,0.6,0.01,0.6,0.6,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+618,5102,0.735442192,,20,Reef,,,,Crepuscular,3,1,1,0.0167,1,1,Hale and Sterne,0.786,0.786,0.214,,,High,Volunteer,High,High
+349,2128,0.65,19.5,27,Reef,SH,hover,active,midday,3,1,1.386,0.0231,1.386,1.386,Shelby,0.75,0.75,0.25,1000,300,High,NRM&CS,High,High
+284,2001,0.75,23,12,Reef,EXP,rest,rest,midday,3,1,1.998,0.0333,1.998,1.998,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+279,1453,0.858974359,2,13,Reef,SH,rest,rest,midday,3,1,1.998,0.0333,1.998,1.998,Liz T.,0.833333333,0.833333333,0.166666667,,,High,NRM&CS,High,High
+282,1454,0.858974359,16,10,Reef,SH,rest,rest,midday,3,1,1.998,0.0333,1.998,1.998,Steve Schalk,0.75,0.75,0.25,,,High,NRM&CS,High,High
+74,206,0.677419355,34,23,Reef,SH,rest,rest,midday,3,1,4.884,0.0814,2.382,2.382,Steve Schalk,1,0.99999,0,,,High,NRM&CS,High,High
+95,208,0.677419355,15,16,Reef,SH,hover,active,midday,3,1,5.664,0.0944,5.664,5.664,Steve Schalk,0.769230769,0.769230769,0.230769231,,,High,NRM&CS,High,High
+341,2112,0.923076923,4.5,30,Reef,SH,rest,rest,midday,3,1,6.186,0.1031,6.186,6.186,Shelby,1,0.99999,0,1000,300,High,NRM&CS,High,High
+1027,5412,0.485620915,,29,Reef,EXP,hover,active,Crepuscular,3,1,0.083333333,0.00139,0.083333333,0.083333333,Jason and Gaduken,0.333333333,0.333333333,0.666666667,,,Low,Volunteer,Low,Low
+396,2282,0.909090909,6,,Reef,EXP,hover,active,midday,3,1,0,0,0.249999999,0.249999999,Alyssa,1,0.99999,0,100,100,Low,Intern,Low,Low
+414,2390,1,49,13,Sponge,EXP,hover,active,midday,3,1,1.632,0.0272,1.632,1.632,Kristian,1,0.99999,0,60,50,Low,Intern,Low,Low
+238,1203,0.8,5,28,Reef,EXP,hover,active,midday,3,1,1.998,0.0333,1.998,1.998,Colin,1,0.99999,0,250,10,Low,Intern,Low,Low
+946,5138,0.735442192,,20,Reef,EXP,swim,active,Crepuscular,3,1,2,0.03333,2,2,Hall and Wicksten,0.75,0.75,0.25,,,Low,Volunteer,Low,Low
+936,5136,0.735442192,,20,Reef,SH,hover,active,Crepuscular,3,1,3,0.05,3,3,Harley and Victoria,1,0.99999,0,,,Low,Volunteer,Low,Low
+374,2168,0.775,12.5,38,Reef,EXP,swim,active,midday,3,1,27,0.45,27,27,Kristian,0.666666667,0.666666667,0.333333333,60,50,Low,Intern,Low,Low
+139,352,0.8,6,27,Reef,EXP,rest,rest,midday,3,1,1.998,0.0333,1.998,1.998,Ben,1,0.99999,0,,,Low,Intern,Medium,Low
+140,354,1,47,34,Reef,EXP,hover,active,midday,3,1,3,0.05,3,3,Ben,1,0.99999,0,,,Low,Intern,Medium,Low
+233,1116,0.809523809,46,30,Reef,SH,rest,rest,midday,3,1,4.002,0.0667,4.002,4.002,Andrew,0.6,0.6,0.4,,,,,Medium,Low
+530,2820,0.636363636,4,28,Reef,EXP,hover,active,midday,3,1,1.998,0.0333,1.998,1.998,Emily,1,0.99999,0,50,0,Low,Intern,None,Low
+570,2898,0.714285714,11,11,Reef,EXP,rest,rest,midday,4,1,1.998,0.0333,1.998,1.998,Carlos,1,0.99999,0,1272,225,High,Volunteer,High,High
+48,163,1,18,12,Reef,EXP,hover,active,midday,4,1,1.998,0.0333,1.998,1.998,Steve,1,0.99999,0,,,High,Dive Professional,High,High
+124,296,0.897435897,16,10,Reef,SH,rest,rest,midday,4,1,6,0.1,6,6,Allison,1,0.99999,0,1200,224,High,Volunteer,High,High
+251,1303,0.846153846,14,14,Reef,EXP,rest,rest,midday,4,1,7.998,0.1333,7.998,7.998,Dan,1,0.99999,0,300,2000,High,Dive Professional,High,High
+346,2127,0.65,49.5,18,Reef,EXP,hover,active,midday,4,1,1.968,0.0328,1.968,1.968,Ana,0.75,0.75,0.25,260,0,Low,Intern,Low,Low
+445,2511,0.714285714,46,22,Sponge,EXP,rest,rest,midday,4,1,2.25,0.0375,2.25,2.25,BZ.Liz,1,0.99999,0,150,0,Low,Intern,Low,Low
+428,2454,0.733333333,15,45,Reef,EXP,hover,active,midday,4,1,4.998,0.0833,4.998,4.998,Amy,1,0.99999,0,85,50,Low,Intern,Low,Low
+103,259,0.931034483,15,14,Sand,EXP,hover,active,midday,4,1,1.998,0.0333,1.998,1.998,Austen.Elissa,1,0.99999,0,18,0,Low,Intern,None,Low
+105,271,0.931034483,0,12,Reef,SH,rest,rest,midday,4,1,5,0.083333333,5,5,Zoe.Liz,1,0.99999,0,32,0,Low,Intern,None,Low
+295,2010,0.857142857,50,35,Reef,SH,rest,rest,midday,5,1,3.264,0.0544,3.264,3.264,Ryan,0.6,0.6,0.4,1500,300,High,NRM&CS,High,High
+113,276,0.931034483,0,10,Reef,SH,rest,rest,Crepuscular,5,1,4.998,0.0833,4.914666667,4.914666667,Zoe.Liz,1,0.99999,0,32,0,Low,Intern,None,Low
+236,1116,0.809523809,16,20,Reef,SH,rest,rest,midday,7,1,15,0.25,15,15,Andrew,0.6,0.6,0.4,,,,,Medium,Low
+75,206,0.677419355,34,13,Reef,SH,rest,rest,midday,10,1,15.498,0.2583,15.498,15.498,Steve Schalk,1,0.99999,0,,,High,NRM&CS,High,High
+133,298,0.555555556,62,34,Reef,SH,rest,rest,midday,11,1,3,0.05,3,3,Lad,0.5,0.5,0.5,10000,1000,High,NRM&CS,High,High
+810,5123,0.735442192,,25,Reef,EXP,hover,active,midday,,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+811,5123,0.735442192,,25,Reef,EXP,hover,active,midday,,1,0.083333333,0.0014,0.083333333,0.083333333,Andy and Chuck,1,0.99999,0,,,High,,High,High
+568,2888,0.714285714,4,6,Reef,EXP,rest,rest,midday,,1,0,0,0.083333333,0.083333333,Ed,0.5,0.5,0.5,,,High,Volunteer,High,High
+626,5102,0.735442192,,26,Reef,,,,Crepuscular,,1,0,,0.083333333,0.083333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+627,5102,0.735442192,,42,Reef,,,,Crepuscular,,1,0,,0.083333333,0.083333333,Fogg and Riffe,1,0.99999,0,,,High,NRM&CS,High,High
+861,5126,0.735442192,,32,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+862,5126,0.735442192,,40,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+863,5126,0.735442192,,25,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+864,5126,0.735442192,,25,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+865,5126,0.735442192,,30,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+866,5126,0.735442192,,22,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+867,5126,0.735442192,,22,Reef,,hover,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+868,5126,0.735442192,,30,Reef,,hunt,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+869,5126,0.735442192,,20,Reef,,hunt,active,Crepuscular,1,1,0.083333333,0.0014,0.083333333,0.083333333,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+854,5126,0.735442192,,30,Reef,,hover,active,Crepuscular,1,0,1,0.0167,1,1,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+855,5126,0.735442192,,20,Reef,,hover,active,Crepuscular,1,1,1,0.0167,1,1,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High
+856,5126,0.735442192,,25,Reef,,hover,active,Crepuscular,1,1,1,0.0167,1,1,Grayson and Travis,0.928571429,0.928571429,0.071428571,,,High,Volunteer,High,High

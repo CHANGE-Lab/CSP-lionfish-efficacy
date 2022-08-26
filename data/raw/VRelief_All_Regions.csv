@@ -1,0 +1,1255 @@
+Site_ID,Transect,Date,Depth_m,Name,TransectDistance,Relief_cm
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,0,20
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,4,30
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,8,5
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,12,80
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,16,45
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,20,50
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,24,15
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,28,80
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,32,25
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,36,28
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,40,20
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,44,10
+Benwood Ledge,Shallow,14/03/2014,13.8,Steph,48,90
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,0,180
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,4,330
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,8,28
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,12,16
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,16,19
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,20,30
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,24,36
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,28,16
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,32,32
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,36,39
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,40,48
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,44,31
+Benwood Ledge,Deep,14/03/2014,16.7,Lad,48,23
+BISC-30a,Offshore,21/03/2014,9.4,Lad,0,42
+BISC-30a,Offshore,21/03/2014,9.4,Lad,4,16
+BISC-30a,Offshore,21/03/2014,9.4,Lad,8,17
+BISC-30a,Offshore,21/03/2014,9.4,Lad,12,19
+BISC-30a,Offshore,21/03/2014,9.4,Lad,16,10
+BISC-30a,Offshore,21/03/2014,9.4,Lad,20,12
+BISC-30a,Offshore,21/03/2014,9.4,Lad,24,8
+BISC-30a,Offshore,21/03/2014,9.4,Lad,28,21
+BISC-30a,Offshore,21/03/2014,9.4,Lad,32,19
+BISC-30a,Offshore,21/03/2014,9.4,Lad,36,20
+BISC-30a,Offshore,21/03/2014,9.4,Lad,40,9
+BISC-30a,Offshore,21/03/2014,9.4,Lad,42,20
+BISC-30a,Offshore,21/03/2014,9.4,Lad,48,19
+BISC-30a,Offshore,21/03/2014,8.8,Steph,0,128
+BISC-30a,Offshore,21/03/2014,8.8,Steph,4,127
+BISC-30a,Offshore,21/03/2014,8.8,Steph,8,87
+BISC-30a,Offshore,21/03/2014,8.8,Steph,12,32
+BISC-30a,Offshore,21/03/2014,8.8,Steph,16,65
+BISC-30a,Offshore,21/03/2014,8.8,Steph,20,18
+BISC-30a,Offshore,21/03/2014,8.8,Steph,24,26
+BISC-30a,Offshore,21/03/2014,8.8,Steph,28,41
+BISC-30a,Offshore,21/03/2014,8.8,Steph,32,90
+BISC-30a,Offshore,21/03/2014,8.8,Steph,36,33
+BISC-30a,Offshore,21/03/2014,8.8,Steph,40,17
+BISC-30a,Offshore,21/03/2014,8.8,Steph,44,0
+BISC-30a,Offshore,21/03/2014,8.8,Steph,48,50
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,0,70
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,4,63
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,8,60
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,12,97
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,16,94
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,20,88
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,24,42
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,28,106
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,32,54
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,36,56
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,40,65
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,42,26
+BISC-P10a,Offshore,21/03/2014,4.5,Lad,48,41
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,0,58
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,4,110
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,8,16
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,12,18
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,16,20
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,20,19
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,24,16
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,28,17
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,32,50
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,36,70
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,40,54
+BISC-P11a,Inshore,21/03/2014,5.2,Lad,44,12
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,0,0
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,4,50
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,8,91
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,12,75
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,16,70
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,20,20
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,24,40
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,28,30
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,32,37
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,36,54
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,40,42
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,44,65
+BISC-P11a,Offshore,21/03/2014,2.7,Steph,48,0
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,0,30
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,4,70
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,8,42
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,12,31
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,16,39
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,20,47
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,24,38
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,28,30
+BISC-P12a,Inshore,21/03/2014,5.5,Lad,32,0
+BISC-P12a,Offshore,21/03/2014,3,Steph,0,29
+BISC-P12a,Offshore,21/03/2014,3,Steph,4,53
+BISC-P12a,Offshore,21/03/2014,3,Steph,8,47
+BISC-P12a,Offshore,21/03/2014,3,Steph,12,60
+BISC-P12a,Offshore,21/03/2014,3,Steph,16,41
+BISC-P12a,Offshore,21/03/2014,3,Steph,20,100
+BISC-P12a,Offshore,21/03/2014,3,Steph,24,32
+BISC-P12a,Offshore,21/03/2014,3,Steph,28,0
+BISC-P12a,Offshore,21/03/2014,3,Steph,32,70
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,0,49
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,4,18
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,8,26
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,12,37
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,16,35
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,20,8
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,24,13
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,28,14
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,32,15
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,36,18
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,40,28
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,44,45
+BISC-P13a,Inshore,20/03/2014,5.2,Lad,48,50
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,0,47
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,4,70
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,8,35
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,12,110
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,16,35
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,20,26
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,24,15
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,28,0
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,32,175
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,36,100
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,40,160
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,44,82
+BISC-P13a,Offshore,20/03/2014,3.3,Steph,48,65
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,0,19
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,4,22
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,8,36
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,12,20
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,16,32
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,20,12
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,24,17
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,28,40
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,32,19
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,36,22
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,40,16
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,44,23
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,48,16
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,52,10
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,56,20
+BISC-P14a,Inshore,20/03/2014,2.4,Lad,60,12
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,0,24
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,4,23
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,8,27
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,12,10
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,16,8
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,20,17
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,24,0
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,28,12
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,32,18
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,36,10
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,40,29
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,44,34
+BISC-P14a,Inshore,20/03/2014,2.1,Steph,48,34
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,0,8
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,4,24
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,8,16
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,12,40
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,16,55
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,20,75
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,24,90
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,28,300
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,32,95
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,36,40
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,40,24
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,44,12
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,48,34
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,52,85
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,56,87
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,60,53
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,64,0
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,68,41
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,72,65
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,76,6
+BISC-P15a,Inshore,30/03/2014,2.8,Steph,80,55
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,0,27
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,4,14
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,8,18
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,12,41
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,16,72
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,20,61
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,24,118
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,28,92
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,32,70
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,36,74
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,40,61
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,44,84
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,48,48
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,52,46
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,56,53
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,60,33
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,64,70
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,68,18
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,72,49
+BISC-P15a,Offshore,30/03/2014,3.6,Lad,76,22
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,0,0
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,4,70
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,8,95
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,12,132
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,16,54
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,20,78
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,24,50
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,28,105
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,32,0
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,36,37
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,40,100
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,44,36
+BISC-P18a,Inshore,21/03/2014,5.8,Steph,48,33
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,0,8
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,4,20
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,8,15
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,12,28
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,16,34
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,20,35
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,24,88
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,28,18
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,32,23
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,36,7
+BISC-P7a,Offshore,19/03/2014,2.4,Lad,40,19
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,0,25
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,4,50
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,8,20
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,12,5
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,16,16
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,20,28
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,24,26
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,28,27
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,32,32
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,36,91
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,40,41
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,44,0
+BISC-P7a,Inshore,19/03/2014,2.5,Steph,48,50
+BISC-P7a,Offshore,19/03/2014,3,Steph,0,25
+BISC-P7a,Offshore,19/03/2014,3,Steph,4,85
+BISC-P7a,Offshore,19/03/2014,3,Steph,8,240
+BISC-P7a,Offshore,19/03/2014,3,Steph,12,33
+BISC-P7a,Offshore,19/03/2014,3,Steph,16,33
+BISC-P7a,Offshore,19/03/2014,3,Steph,20,0
+BISC-P7a,Offshore,19/03/2014,3,Steph,24,15
+BISC-P7a,Offshore,19/03/2014,3,Steph,28,23
+BISC-P7a,Offshore,19/03/2014,3,Steph,32,47
+BISC-P7a,Offshore,19/03/2014,3,Steph,36,145
+BISC-P7a,Offshore,19/03/2014,3,Steph,40,50
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,0,30
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,4,69
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,8,110
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,12,40
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,16,40
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,20,28
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,24,37
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,28,48
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,32,40
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,36,23
+BISC-P9a,Offshore,19/03/2014,6.7,Lad,40,65
+BISC-W12,Deep,30/03/2014,18.8,Lad,0,12
+BISC-W12,Deep,30/03/2014,18.8,Lad,4,52
+BISC-W12,Deep,30/03/2014,18.8,Lad,8,49
+BISC-W12,Deep,30/03/2014,18.8,Lad,12,52
+BISC-W12,Deep,30/03/2014,18.8,Lad,16,20
+BISC-W12,Deep,30/03/2014,18.8,Lad,20,21
+BISC-W12,Deep,30/03/2014,18.8,Lad,24,39
+BISC-W12,Deep,30/03/2014,18.8,Lad,28,80
+BISC-W12,Deep,30/03/2014,18.8,Lad,32,46
+BISC-W12,Deep,30/03/2014,18.8,Lad,36,98
+BISC-W12,Deep,30/03/2014,18.8,Lad,40,30
+BISC-W12,Deep,30/03/2014,18.8,Lad,42,17
+BISC-W12,Deep,30/03/2014,18.8,Lad,48,20
+BISC-W12,Shallow,30/03/2014,18,Steph,0,74
+BISC-W12,Shallow,30/03/2014,18,Steph,4,37
+BISC-W12,Shallow,30/03/2014,18,Steph,8,23
+BISC-W12,Shallow,30/03/2014,18,Steph,12,0
+BISC-W12,Shallow,30/03/2014,18,Steph,16,88
+BISC-W12,Shallow,30/03/2014,18,Steph,20,21
+BISC-W12,Shallow,30/03/2014,18,Steph,24,44
+BISC-W12,Shallow,30/03/2014,18,Steph,28,6
+BISC-W12,Shallow,30/03/2014,18,Steph,32,43
+BISC-W12,Shallow,30/03/2014,18,Steph,36,52
+BISC-W12,Shallow,30/03/2014,18,Steph,40,36
+BISC-W12,Shallow,30/03/2014,18,Steph,44,18
+BISC-W12,Shallow,30/03/2014,18,Steph,48,5
+BISC-W13,Shallow,19/03/2014,16.4,Steph,0,0
+BISC-W13,Shallow,19/03/2014,16.4,Steph,4,0
+BISC-W13,Shallow,19/03/2014,16.4,Steph,8,22
+BISC-W13,Shallow,19/03/2014,16.4,Steph,12,100
+BISC-W13,Shallow,19/03/2014,16.4,Steph,16,0
+BISC-W13,Shallow,19/03/2014,16.4,Steph,20,81
+BISC-W13,Shallow,19/03/2014,16.4,Steph,24,14
+BISC-W13,Shallow,19/03/2014,16.4,Steph,28,0
+BISC-W13,Shallow,19/03/2014,16.4,Steph,32,74
+BISC-W13,Shallow,19/03/2014,16.4,Steph,36,0
+BISC-W13,Shallow,19/03/2014,16.4,Steph,40,0
+BISC-W13,Shallow,19/03/2014,16.4,Steph,44,0
+BISC-W13,Shallow,19/03/2014,16.4,Steph,48,48
+BISC-W13,Deep,20/03/2014,17.6,Lad,0,16
+BISC-W13,Deep,20/03/2014,17.6,Lad,4,19
+BISC-W13,Deep,20/03/2014,17.6,Lad,8,46
+BISC-W13,Deep,20/03/2014,17.6,Lad,12,26
+BISC-W13,Deep,20/03/2014,17.6,Lad,16,44
+BISC-W13,Deep,20/03/2014,17.6,Lad,20,42
+BISC-W13,Deep,20/03/2014,17.6,Lad,24,25
+BISC-W13,Deep,20/03/2014,17.6,Lad,28,35
+BISC-W13,Deep,20/03/2014,17.6,Lad,32,70
+BISC-W13,Deep,20/03/2014,17.6,Lad,36,31
+BISC-W13,Deep,20/03/2014,17.6,Lad,40,16
+BISC-W13,Deep,20/03/2014,17.6,Lad,44,32
+BISC-W13,Deep,20/03/2014,17.6,Lad,48,26
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,0,33
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,4,55
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,8,68
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,12,31
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,16,31
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,20,72
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,24,18
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,28,30
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,32,24
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,36,42
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,40,83
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,44,64
+BISC-W40-b,Shallow,21/03/2014,14.5,Lad,48,70
+BISC-W40-b,Deep,15/03/2014,16,Steph,0,17
+BISC-W40-b,Deep,15/03/2014,16,Steph,4,31
+BISC-W40-b,Deep,15/03/2014,16,Steph,8,176
+BISC-W40-b,Deep,15/03/2014,16,Steph,12,46
+BISC-W40-b,Deep,15/03/2014,16,Steph,16,61
+BISC-W40-b,Deep,15/03/2014,16,Steph,20,74
+BISC-W40-b,Deep,15/03/2014,16,Steph,24,36
+BISC-W40-b,Deep,15/03/2014,16,Steph,28,24
+BISC-W40-b,Deep,15/03/2014,16,Steph,32,141
+BISC-W40-b,Deep,15/03/2014,16,Steph,36,92
+BISC-W40-b,Deep,15/03/2014,16,Steph,40,81
+BISC-W40-b,Deep,15/03/2014,16,Steph,44,22
+BISC-W40-b,Deep,15/03/2014,16,Steph,48,110
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,0,20
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,4,28
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,8,8
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,12,25
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,16,30
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,20,27
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,24,7
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,28,59
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,32,3
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,36,18
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,40,30
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,44,54
+BISC-W60-11c,Shallow,30/03/2014,13.6,Lad,48,9
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,0,29
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,4,0
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,8,0
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,12,85
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,16,10
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,20,17
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,24,20
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,28,0
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,32,34
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,36,0
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,40,22
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,44,51
+BISC-W60-11c,Deep,30/03/2014,16.8,Steph,48,80
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,0,32
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,4,40
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,8,29
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,12,30
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,16,48
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,20,33
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,24,51
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,28,22
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,32,22
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,36,28
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,40,51
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,44,11
+BISC-W60-2b,Shallow,19/03/2014,14.5,Lad,48,10
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,0,20
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,4,140
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,8,50
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,12,120
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,16,80
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,20,40
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,24,160
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,28,0
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,32,40
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,36,60
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,40,60
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,44,60
+BISC-W60-2b,Deep,19/03/2014,18.6,Steph,48,60
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,0,46
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,4,27
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,8,20
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,12,33
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,16,14
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,20,37
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,24,48
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,28,19
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,32,20
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,36,15
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,40,23
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,44,18
+BISC-W60-4b,Shallow,20/03/2014,15.8,Lad,48,20
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,0,0
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,4,30
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,8,28
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,12,31
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,16,76
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,20,16
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,24,17
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,28,0
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,32,75
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,36,22
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,40,26
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,44,30
+BISC-W60-4b,Deep,20/03/2014,16.4,Steph,48,35
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,0,29
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,4,32
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,8,15
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,12,24
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,16,39
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,20,28
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,24,18
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,28,22
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,32,18
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,36,42
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,40,10
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,44,40
+BISC-W60-6d,Deep,19/03/2014,16.7,Lad,48,22
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,0,20
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,4,65
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,8,46
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,12,24
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,16,64
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,20,40
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,24,38
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,28,47
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,32,0
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,36,12
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,40,18
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,44,0
+BISC-W60-6d,Shallow,19/03/2014,15,Steph,48,24
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,0,22
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,4,40
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,8,10
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,12,42
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,16,18
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,20,22
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,24,18
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,28,28
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,32,39
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,36,24
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,40,15
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,44,32
+BISC-W60-6d,Deep,19/03/2014,18.3,Lad,48,29
+Conch 3A,Inshore,31/03/2014,13.9,Lad,0,29
+Conch 3A,Inshore,31/03/2014,13.9,Lad,4,31
+Conch 3A,Inshore,31/03/2014,13.9,Lad,8,10
+Conch 3A,Inshore,31/03/2014,13.9,Lad,12,24
+Conch 3A,Inshore,31/03/2014,13.9,Lad,16,63
+Conch 3A,Inshore,31/03/2014,13.9,Lad,20,13
+Conch 3A,Inshore,31/03/2014,13.9,Lad,24,13
+Conch 3A,Inshore,31/03/2014,13.9,Lad,28,52
+Conch 3A,Inshore,31/03/2014,13.9,Lad,32,33
+Conch 3A,Inshore,31/03/2014,13.9,Lad,36,28
+Conch 3A,Inshore,31/03/2014,13.9,Lad,40,27
+Conch 3A,Inshore,31/03/2014,13.9,Lad,42,65
+Conch 3A,Inshore,31/03/2014,13.9,Lad,48,32
+Conch 3A,Close #2,31/03/2014,14.2,Steph,0,28
+Conch 3A,Close #2,31/03/2014,14.2,Steph,4,31
+Conch 3A,Close #2,31/03/2014,14.2,Steph,8,19
+Conch 3A,Close #2,31/03/2014,14.2,Steph,12,70
+Conch 3A,Close #2,31/03/2014,14.2,Steph,16,27
+Conch 3A,Close #2,31/03/2014,14.2,Steph,20,48
+Conch 3A,Close #2,31/03/2014,14.2,Steph,24,19
+Conch 3A,Close #2,31/03/2014,14.2,Steph,28,60
+Conch 3A,Close #2,31/03/2014,14.2,Steph,32,4
+Conch 3A,Close #2,31/03/2014,14.2,Steph,36,0
+Conch 3A,Close #2,31/03/2014,14.2,Steph,40,41
+Conch 3A,Close #2,31/03/2014,14.2,Steph,44,24
+Conch 3A,Close #2,31/03/2014,14.2,Steph,48,81
+Conch 4B,Inshore,31/03/2014,12.4,Lad,0,10
+Conch 4B,Inshore,31/03/2014,12.4,Lad,4,7
+Conch 4B,Inshore,31/03/2014,12.4,Lad,8,8
+Conch 4B,Inshore,31/03/2014,12.4,Lad,12,6
+Conch 4B,Inshore,31/03/2014,12.4,Lad,16,12
+Conch 4B,Inshore,31/03/2014,12.4,Lad,20,13
+Conch 4B,Inshore,31/03/2014,12.4,Lad,24,16
+Conch 4B,Inshore,31/03/2014,12.4,Lad,28,53
+Conch 4B,Inshore,31/03/2014,12.4,Lad,32,31
+Conch 4B,Inshore,31/03/2014,12.4,Lad,36,50
+Conch 4B,Inshore,31/03/2014,12.4,Lad,40,19
+Conch 4B,Inshore,31/03/2014,12.4,Lad,42,3
+Conch 4B,Inshore,31/03/2014,12.4,Lad,48,14
+Conch 4B,Close #2,31/03/2014,12.4,Steph,0,34
+Conch 4B,Close #2,31/03/2014,12.4,Steph,4,12
+Conch 4B,Close #2,31/03/2014,12.4,Steph,8,24
+Conch 4B,Close #2,31/03/2014,12.4,Steph,12,26
+Conch 4B,Close #2,31/03/2014,12.4,Steph,16,10
+Conch 4B,Close #2,31/03/2014,12.4,Steph,20,22
+Conch 4B,Close #2,31/03/2014,12.4,Steph,24,58
+Conch 4B,Close #2,31/03/2014,12.4,Steph,28,0
+Conch 4B,Close #2,31/03/2014,12.4,Steph,32,0
+Conch 4B,Close #2,31/03/2014,12.4,Steph,36,33
+Conch 4B,Close #2,31/03/2014,12.4,Steph,40,15
+Conch 4B,Close #2,31/03/2014,12.4,Steph,44,0
+Conch 4B,Close #2,31/03/2014,12.4,Steph,48,6
+Conch 6A,Inshore,31/03/2014,13,Lad,0,9
+Conch 6A,Inshore,31/03/2014,13,Lad,4,10
+Conch 6A,Inshore,31/03/2014,13,Lad,8,4
+Conch 6A,Inshore,31/03/2014,13,Lad,12,13
+Conch 6A,Inshore,31/03/2014,13,Lad,16,6
+Conch 6A,Inshore,31/03/2014,13,Lad,20,58
+Conch 6A,Inshore,31/03/2014,13,Lad,24,12
+Conch 6A,Inshore,31/03/2014,13,Lad,28,22
+Conch 6A,Inshore,31/03/2014,13,Lad,32,39
+Conch 6A,Inshore,31/03/2014,13,Lad,36,4
+Conch 6A,Inshore,31/03/2014,13,Lad,40,6
+Conch 6A,Inshore,31/03/2014,13,Lad,42,7
+Conch 6A,Inshore,31/03/2014,13,Lad,48,12
+Conch 6A,Close #2,31/03/2014,13.1,Steph,0,52
+Conch 6A,Close #2,31/03/2014,13.1,Steph,4,7
+Conch 6A,Close #2,31/03/2014,13.1,Steph,8,19
+Conch 6A,Close #2,31/03/2014,13.1,Steph,12,19
+Conch 6A,Close #2,31/03/2014,13.1,Steph,16,138
+Conch 6A,Close #2,31/03/2014,13.1,Steph,20,18
+Conch 6A,Close #2,31/03/2014,13.1,Steph,24,40
+Conch 6A,Close #2,31/03/2014,13.1,Steph,28,19
+Conch 6A,Close #2,31/03/2014,13.1,Steph,32,50
+Conch 6A,Close #2,31/03/2014,13.1,Steph,36,37
+Conch 6A,Close #2,31/03/2014,13.1,Steph,40,10
+Conch 6A,Close #2,31/03/2014,13.1,Steph,44,78
+Conch 6A,Close #2,31/03/2014,13.1,Steph,48,23
+Danger 88,Inshore,12/3/2014,2.7,Lad,0,44
+Danger 88,Inshore,12/3/2014,2.7,Lad,4,130
+Danger 88,Inshore,12/3/2014,2.7,Lad,8,190
+Danger 88,Inshore,12/3/2014,2.7,Lad,12,28
+Danger 88,Inshore,12/3/2014,2.7,Lad,16,34
+Danger 88,Inshore,12/3/2014,2.7,Lad,20,30
+Danger 88,Offshore,12/3/2014,2.2,Steph,0,45
+Danger 88,Offshore,12/3/2014,2.2,Steph,4,170
+Danger 88,Offshore,12/3/2014,2.2,Steph,8,150
+Danger 88,Offshore,12/3/2014,2.2,Steph,12,8
+Danger 88,Offshore,12/3/2014,2.2,Steph,16,5
+Danger 88,Offshore,12/3/2014,2.2,Steph,20,12
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,0,32
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,4,21
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,8,70
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,12,85
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,16,28
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,20,52
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,24,17
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,28,29
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,32,37
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,36,39
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,40,62
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,42,33
+Dixie Ledge,Shallow,15/03/2014,15.4,Lad,48,106
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,0,25
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,4,30
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,8,150
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,12,40
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,16,90
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,20,32
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,24,0
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,28,78
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,32,45
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,36,55
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,40,54
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,44,15
+Dixie Ledge,Deep,15/03/2014,17.9,Steph,48,32
+FKSP1,Inshore,5/4/2014,4.2,Lad,0,125
+FKSP1,Inshore,5/4/2014,4.2,Lad,4,130
+FKSP1,Inshore,5/4/2014,4.2,Lad,8,102
+FKSP1,Inshore,5/4/2014,4.2,Lad,12,70
+FKSP1,Inshore,5/4/2014,4.2,Lad,16,98
+FKSP1,Inshore,5/4/2014,4.2,Lad,20,51
+FKSP1,Inshore,5/4/2014,4.2,Lad,24,48
+FKSP1,Offshore,5/4/2014,3.9,Lizard,0,30
+FKSP1,Offshore,5/4/2014,3.9,Lizard,4,35
+FKSP1,Offshore,5/4/2014,3.9,Lizard,8,0
+FKSP1,Offshore,5/4/2014,3.9,Lizard,12,80
+FKSP1,Offshore,5/4/2014,3.9,Lizard,16,65
+FKSP1,Offshore,5/4/2014,3.9,Lizard,20,150
+FKSP1,Offshore,5/4/2014,3.9,Lizard,24,40
+FKSP1,Offshore,5/4/2014,3.9,Lizard,28,50
+FKSP1,Offshore,5/4/2014,3.9,Lizard,32,12
+FKSP1,Offshore,5/4/2014,3.9,Lizard,36,40
+FKSP1,Offshore,5/4/2014,3.9,Lizard,40,150
+FKSP1,Offshore,5/4/2014,3.9,Lizard,48,20
+FKSP1,Offshore,5/4/2014,3.9,Lizard,44,0
+KL-P11,Inshore,13/03/2014,3.1,Lad,0,15
+KL-P11,Inshore,13/03/2014,3.1,Lad,4,51
+KL-P11,Inshore,13/03/2014,3.1,Lad,8,45
+KL-P11,Inshore,13/03/2014,3.1,Lad,12,31
+KL-P11,Inshore,13/03/2014,3.1,Lad,16,30
+KL-P11,Inshore,13/03/2014,3.1,Lad,20,28
+KL-P11,Inshore,13/03/2014,3.1,Lad,24,21
+KL-P11,Inshore,13/03/2014,3.1,Lad,28,38
+KL-P11,Inshore,13/03/2014,3.1,Lad,32,20
+KL-P11,Inshore,13/03/2014,3.1,Lad,36,35
+KL-P11,Inshore,13/03/2014,3.1,Lad,40,42
+KL-P11,Inshore,13/03/2014,3.1,Lad,44,20
+KL-P11,Offshore,13/03/2014,3,Steph,0,20
+KL-P11,Offshore,13/03/2014,3,Steph,4,47
+KL-P11,Offshore,13/03/2014,3,Steph,8,50
+KL-P11,Offshore,13/03/2014,3,Steph,12,53
+KL-P11,Offshore,13/03/2014,3,Steph,16,0
+KL-P11,Offshore,13/03/2014,3,Steph,20,52
+KL-P11,Offshore,13/03/2014,3,Steph,24,85
+KL-P11,Offshore,13/03/2014,3,Steph,28,30
+KL-P11,Offshore,13/03/2014,3,Steph,32,6
+KL-P11,Offshore,13/03/2014,3,Steph,36,20
+KL-P11,Offshore,13/03/2014,3,Steph,40,0
+KL-P11,Offshore,13/03/2014,3,Steph,44,35
+KL-P11,Offshore,13/03/2014,3,Steph,48,70
+KL-P13,Inshore,12/3/2014,3.3,Lad,0,35
+KL-P13,Inshore,12/3/2014,3.3,Lad,4,20
+KL-P13,Inshore,12/3/2014,3.3,Lad,8,28
+KL-P13,Inshore,12/3/2014,3.3,Lad,12,26
+KL-P13,Inshore,12/3/2014,3.3,Lad,16,42
+KL-P13,Inshore,12/3/2014,3.3,Lad,20,47
+KL-P13,Inshore,12/3/2014,3.3,Lad,24,55
+KL-P13,Inshore,12/3/2014,3.3,Lad,28,31
+KL-P13,Inshore,12/3/2014,3.3,Lad,32,51
+KL-P13,Inshore,12/3/2014,3.3,Lad,36,50
+KL-P13,Inshore,12/3/2014,3.3,Lad,40,12
+KL-P13,Inshore,12/3/2014,3.3,Lad,44,26
+KL-P13,Offshore,12/3/2014,3.2,Steph,0,0
+KL-P13,Offshore,12/3/2014,3.2,Steph,4,40
+KL-P13,Offshore,12/3/2014,3.2,Steph,8,38
+KL-P13,Offshore,12/3/2014,3.2,Steph,12,47
+KL-P13,Offshore,12/3/2014,3.2,Steph,16,0
+KL-P13,Offshore,12/3/2014,3.2,Steph,20,30
+KL-P13,Offshore,12/3/2014,3.2,Steph,24,25
+KL-P13,Offshore,12/3/2014,3.2,Steph,28,24
+KL-P13,Offshore,12/3/2014,3.2,Steph,32,43
+KL-P13,Offshore,12/3/2014,3.2,Steph,36,50
+KL-P13,Offshore,12/3/2014,3.2,Steph,40,0
+KL-P13,Offshore,12/3/2014,3.2,Steph,44,28
+KL-P13,Offshore,12/3/2014,3.2,Steph,48,45
+KL-P13,Offshore,12/3/2014,3.2,Steph,52,20
+KL-P13,Offshore,12/3/2014,3.2,Steph,56,0
+KL-P13,Offshore,12/3/2014,3.2,Steph,60,0
+KL-P14,Inshore,12/3/2014,4.2,Lad,36,30
+KL-P14,Inshore,12/3/2014,4.2,Lad,40,140
+KL-P14,Inshore,12/3/2014,4.2,Lad,44,45
+KL-P14,Inshore,12/3/2014,4.2,Lad,48,22
+KL-P14,Inshore,12/3/2014,4.2,Lad,52,30
+KL-P14,Inshore,12/3/2014,4.2,Lad,56,39
+KL-P14,Offshore,12/3/2014,3.2,Steph,0,0
+KL-P14,Offshore,12/3/2014,3.2,Steph,4,41
+KL-P14,Offshore,12/3/2014,3.2,Steph,8,36
+KL-P14,Offshore,12/3/2014,3.2,Steph,12,56
+KL-P14,Offshore,12/3/2014,3.2,Steph,16,10
+KL-P14,Offshore,12/3/2014,3.2,Steph,20,33
+KL-P14,Offshore,12/3/2014,3.2,Steph,24,32
+KL-P14,Offshore,12/3/2014,3.2,Steph,28,0
+KL-P2,Inshore,31/03/2014,4.4,Steph,0,0
+KL-P2,Inshore,31/03/2014,4.4,Steph,4,38
+KL-P2,Inshore,31/03/2014,4.4,Steph,8,0
+KL-P2,Inshore,31/03/2014,4.4,Steph,12,48
+KL-P2,Inshore,31/03/2014,4.4,Steph,16,67
+KL-P2,Inshore,31/03/2014,4.4,Steph,20,22
+KL-P2,Inshore,31/03/2014,4.4,Steph,24,0
+KL-P30,Offshore,13/03/2014,2.8,Steph,0,35
+KL-P30,Offshore,13/03/2014,2.8,Steph,4,41
+KL-P30,Offshore,13/03/2014,2.8,Steph,8,85
+KL-P30,Offshore,13/03/2014,2.8,Steph,12,40
+KL-P30,Offshore,13/03/2014,2.8,Steph,16,40
+KL-P30,Offshore,13/03/2014,2.8,Steph,20,25
+KL-P30,Offshore,13/03/2014,2.8,Steph,24,50
+KL-P30,Offshore,13/03/2014,2.8,Steph,28,22
+KL-P30,Offshore,13/03/2014,2.8,Steph,32,37
+KL-P30,Offshore,13/03/2014,2.8,Steph,36,80
+KL-P30,Offshore,13/03/2014,2.8,Steph,40,63
+KL-P30,Offshore,13/03/2014,2.8,Steph,44,53
+KL-P30,Offshore,13/03/2014,2.8,Steph,48,40
+KL-P4,Inshore,15/03/2014,4.2,Lad,0,8
+KL-P4,Inshore,15/03/2014,4.2,Lad,4,30
+KL-P4,Inshore,15/03/2014,4.2,Lad,8,39
+KL-P4,Inshore,15/03/2014,4.2,Lad,12,38
+KL-P4,Inshore,15/03/2014,4.2,Lad,16,42
+KL-P4,Inshore,15/03/2014,4.2,Lad,20,58
+KL-P4,Inshore,15/03/2014,4.2,Lad,24,33
+KL-P4,Inshore,15/03/2014,4.2,Lad,28,4
+KL-P4,Offshore,15/03/2014,4.3,Steph,0,6
+KL-P4,Offshore,15/03/2014,4.3,Steph,4,45
+KL-P4,Offshore,15/03/2014,4.3,Steph,8,20
+KL-P4,Offshore,15/03/2014,4.3,Steph,12,25
+KL-P4,Offshore,15/03/2014,4.3,Steph,16,27
+KL-P4,Offshore,15/03/2014,4.3,Steph,20,36
+KL-P4,Offshore,15/03/2014,4.3,Steph,24,23
+KL-P5,Inshore,15/03/2014,7,Lad,0,42
+KL-P5,Inshore,15/03/2014,7,Lad,4,29
+KL-P5,Inshore,15/03/2014,7,Lad,8,37
+KL-P5,Inshore,15/03/2014,7,Lad,12,50
+KL-P5,Inshore,15/03/2014,7,Lad,16,40
+KL-P5,Inshore,15/03/2014,7,Lad,20,42
+KL-P5,Inshore,15/03/2014,7,Lad,24,128
+KL-P5,Inshore,15/03/2014,7,Lad,28,24
+KL-P5,Inshore,15/03/2014,7,Lad,32,26
+KL-P5,Inshore,15/03/2014,7,Lad,36,85
+KL-P5,Inshore,15/03/2014,7,Lad,40,80
+KL-P5,Inshore,15/03/2014,7,Lad,44,50
+KL-P5,Inshore,15/03/2014,7,Lad,48,28
+KL-P5,Offshore,15/03/2014,6,Steph,0,31
+KL-P5,Offshore,15/03/2014,6,Steph,4,43
+KL-P5,Offshore,15/03/2014,6,Steph,8,33
+KL-P5,Offshore,15/03/2014,6,Steph,12,37
+KL-P5,Offshore,15/03/2014,6,Steph,16,39
+KL-P5,Offshore,15/03/2014,6,Steph,20,46
+KL-P5,Offshore,15/03/2014,6,Steph,24,0
+KL-P5,Offshore,15/03/2014,6,Steph,28,120
+KL-P5,Offshore,15/03/2014,6,Steph,32,32
+KL-P5,Offshore,15/03/2014,6,Steph,36,24
+KL-P5,Offshore,15/03/2014,6,Steph,40,63
+KL-P5,Offshore,15/03/2014,6,Steph,44,37
+KL-P5,Offshore,15/03/2014,6,Steph,48,84
+KL-P6,Inshore,15/03/2014,5.7,Lad,0,18
+KL-P6,Inshore,15/03/2014,5.7,Lad,4,32
+KL-P6,Inshore,15/03/2014,5.7,Lad,8,50
+KL-P6,Inshore,15/03/2014,5.7,Lad,12,70
+KL-P6,Inshore,15/03/2014,5.7,Lad,16,21
+KL-P6,Inshore,15/03/2014,5.7,Lad,20,51
+KL-P6,Offshore,15/03/2014,6,Steph,0,50
+KL-P6,Offshore,15/03/2014,6,Steph,4,27
+KL-P6,Offshore,15/03/2014,6,Steph,8,74
+KL-P6,Offshore,15/03/2014,6,Steph,12,77
+KL-P6,Offshore,15/03/2014,6,Steph,16,35
+KL-P6,Offshore,15/03/2014,6,Steph,20,150
+KL-P7,Offshore,14/03/2014,5.5,Steph,0,0
+KL-P7,Offshore,14/03/2014,5.5,Steph,4,70
+KL-P7,Offshore,14/03/2014,5.5,Steph,8,75
+KL-P7,Offshore,14/03/2014,5.5,Steph,12,110
+KL-P7,Offshore,14/03/2014,5.5,Steph,16,115
+KL-P7,Offshore,14/03/2014,5.5,Steph,20,50
+KL-P7,Offshore,14/03/2014,5.5,Steph,24,85
+KL-P7,Offshore,14/03/2014,5.5,Steph,28,40
+KL-P7,Offshore,14/03/2014,5.5,Steph,32,22
+KL-P7,Inshore,14/03/2018,4,Lad,0,19
+KL-P7,Inshore,14/03/2018,4,Lad,4,72
+KL-P7,Inshore,14/03/2018,4,Lad,8,68
+KL-P7,Inshore,14/03/2018,4,Lad,12,41
+KL-P7,Inshore,14/03/2018,4,Lad,16,76
+KL-P7,Inshore,14/03/2018,4,Lad,20,47
+KL-P7,Inshore,14/03/2018,4,Lad,24,62
+KL-P7,Inshore,14/03/2018,4,Lad,28,42
+KL-P7,Inshore,14/03/2018,4,Lad,32,19
+KL-P8,Offshore,14/03/2014,4,Lad,0,26
+KL-P8,Offshore,14/03/2014,4,Lad,4,18
+KL-P8,Offshore,14/03/2014,4,Lad,8,66
+KL-P8,Offshore,14/03/2014,4,Lad,12,28
+KL-P8,Offshore,14/03/2014,4,Lad,16,40
+KL-P8,Offshore,14/03/2014,4,Lad,20,61
+KL-P8,Offshore,14/03/2014,4,Lad,24,41
+KL-P8,Offshore,14/03/2014,4,Lad,28,60
+KL-P8,Offshore,14/03/2014,4,Lad,32,37
+KL-P8,Offshore,14/03/2014,4,Lad,36,48
+KL-P8,Offshore,14/03/2014,4,Lad,40,55
+KL-P8,Offshore,14/03/2014,4,Lad,44,43
+KL-P8,Offshore,14/03/2014,4,Lad,48,28
+KL-P8,Offshore,14/03/2014,4,Lad,52,42
+KL-P8,Offshore,14/03/2014,4,Lad,56,48
+KL-P8,Offshore,14/03/2014,4,Lad,60,28
+KL-P8,Inshore,14/03/2014,3.4,Steph,0,14
+KL-P8,Inshore,14/03/2014,3.4,Steph,4,5
+KL-P8,Inshore,14/03/2014,3.4,Steph,8,45
+KL-P8,Inshore,14/03/2014,3.4,Steph,12,23
+KL-P8,Inshore,14/03/2014,3.4,Steph,16,39
+KL-P8,Inshore,14/03/2014,3.4,Steph,20,34
+KL-P8,Inshore,14/03/2014,3.4,Steph,24,50
+KL-P8,Inshore,14/03/2014,3.4,Steph,28,65
+KL-P8,Inshore,14/03/2014,3.4,Steph,32,35
+KL-P8,Inshore,14/03/2014,3.4,Steph,36,48
+KL-P8,Inshore,14/03/2014,3.4,Steph,40,38
+KL-P8,Inshore,14/03/2014,3.4,Steph,44,42
+KL-P8,Inshore,14/03/2014,3.4,Steph,48,37
+KL-P8,Inshore,14/03/2014,3.4,Steph,52,90
+KL-P8,Inshore,14/03/2014,3.4,Steph,56,60
+KL-P8,Inshore,14/03/2014,3.4,Steph,60,45
+KL-W11,Deep,13/03/2014,13.3,Lad,0,68
+KL-W11,Deep,13/03/2014,13.3,Lad,4,30
+KL-W11,Deep,13/03/2014,13.3,Lad,8,93
+KL-W11,Deep,13/03/2014,13.3,Lad,12,22
+KL-W11,Deep,13/03/2014,13.3,Lad,16,38
+KL-W11,Deep,13/03/2014,13.3,Lad,20,31
+KL-W11,Deep,13/03/2014,13.3,Lad,24,50
+KL-W11,Deep,13/03/2014,13.3,Lad,28,27
+KL-W11,Deep,13/03/2014,13.3,Lad,32,25
+KL-W11,Deep,13/03/2014,13.3,Lad,36,34
+KL-W11,Deep,13/03/2014,13.3,Lad,40,33
+KL-W11,Deep,13/03/2014,13.3,Lad,44,18
+KL-W11,Deep,13/03/2014,13.3,Lad,48,30
+KL-W11,Shallow,13/03/2014,12,Steph,0,0
+KL-W11,Shallow,13/03/2014,12,Steph,4,140
+KL-W11,Shallow,13/03/2014,12,Steph,8,36
+KL-W11,Shallow,13/03/2014,12,Steph,12,25
+KL-W11,Shallow,13/03/2014,12,Steph,16,10
+KL-W11,Shallow,13/03/2014,12,Steph,20,32
+KL-W11,Shallow,13/03/2014,12,Steph,24,240
+KL-W11,Shallow,13/03/2014,12,Steph,28,22
+KL-W11,Shallow,13/03/2014,12,Steph,32,48
+KL-W11,Shallow,13/03/2014,12,Steph,36,30
+KL-W11,Shallow,13/03/2014,12,Steph,40,50
+KL-W11,Shallow,13/03/2014,12,Steph,44,45
+KL-W11,Shallow,13/03/2014,12,Steph,48,70
+KL-W12,Shallow,12/3/2014,15.1,Lad,4,0
+KL-W12,Shallow,12/3/2014,15.1,Lad,8,0
+KL-W12,Shallow,12/3/2014,15.1,Lad,12,5
+KL-W12,Shallow,12/3/2014,15.1,Lad,16,35
+KL-W12,Shallow,12/3/2014,15.1,Lad,20,0
+KL-W12,Shallow,12/3/2014,15.1,Lad,24,13
+KL-W12,Shallow,12/3/2014,15.1,Lad,28,16
+KL-W12,Shallow,12/3/2014,15.1,Lad,32,10
+KL-W12,Shallow,12/3/2014,15.1,Lad,36,0
+KL-W12,Shallow,12/3/2014,15.1,Lad,40,20
+KL-W12,Shallow,12/3/2014,15.1,Lad,44,0
+KL-W12,Shallow,12/3/2014,15.1,Lad,48,6
+KL-W12,Deep,12/3/2014,16.8,Steph,0,20
+KL-W12,Deep,12/3/2014,16.8,Steph,4,140
+KL-W12,Deep,12/3/2014,16.8,Steph,8,35
+KL-W12,Deep,12/3/2014,16.8,Steph,12,5
+KL-W12,Deep,12/3/2014,16.8,Steph,16,8
+KL-W12,Deep,12/3/2014,16.8,Steph,20,0
+KL-W12,Deep,12/3/2014,16.8,Steph,24,6
+KL-W12,Deep,12/3/2014,16.8,Steph,28,20
+KL-W12,Deep,12/3/2014,16.8,Steph,32,15
+KL-W12,Deep,12/3/2014,16.8,Steph,36,40
+KL-W12,Deep,12/3/2014,16.8,Steph,40,70
+KL-W12,Deep,12/3/2014,16.8,Steph,44,25
+KL-W12,Deep,12/3/2014,16.8,Steph,48,40
+KL-W2,Deep,13/03/2014,18.2,Lad,4,13
+KL-W2,Deep,13/03/2014,18.2,Lad,8,30
+KL-W2,Deep,13/03/2014,18.2,Lad,12,80
+KL-W2,Deep,13/03/2014,18.2,Lad,16,30
+KL-W2,Deep,13/03/2014,18.2,Lad,20,20
+KL-W2,Deep,13/03/2014,18.2,Lad,24,16
+KL-W2,Deep,13/03/2014,18.2,Lad,28,18
+KL-W2,Deep,13/03/2014,18.2,Lad,32,21
+KL-W2,Deep,13/03/2014,18.2,Lad,36,5
+KL-W2,Deep,13/03/2014,18.2,Lad,40,98
+KL-W2,Deep,13/03/2014,18.2,Lad,44,30
+KL-W2,Deep,13/03/2014,18.2,Lad,48,10
+KL-W2,Shallow,13/03/2014,14.8,Steph,0,8
+KL-W2,Shallow,13/03/2014,14.8,Steph,4,12
+KL-W2,Shallow,13/03/2014,14.8,Steph,8,47
+KL-W2,Shallow,13/03/2014,14.8,Steph,12,29
+KL-W2,Shallow,13/03/2014,14.8,Steph,16,38
+KL-W2,Shallow,13/03/2014,14.8,Steph,20,40
+KL-W2,Shallow,13/03/2014,14.8,Steph,24,4
+KL-W2,Shallow,13/03/2014,14.8,Steph,28,7
+KL-W2,Shallow,13/03/2014,14.8,Steph,32,0
+KL-W2,Shallow,13/03/2014,14.8,Steph,36,9
+KL-W2,Shallow,13/03/2014,14.8,Steph,40,50
+KL-W2,Shallow,13/03/2014,14.8,Steph,44,30
+KL-W2,Shallow,13/03/2014,14.8,Steph,48,120
+KL-W7,Deep,14/03/2014,16.7,Steph,0,80
+KL-W7,Deep,14/03/2014,16.7,Steph,4,36
+KL-W7,Deep,14/03/2014,16.7,Steph,8,10
+KL-W7,Deep,14/03/2014,16.7,Steph,12,140
+KL-W7,Deep,14/03/2014,16.7,Steph,16,35
+KL-W7,Deep,14/03/2014,16.7,Steph,20,40
+KL-W7,Deep,14/03/2014,16.7,Steph,24,15
+KL-W7,Deep,14/03/2014,16.7,Steph,28,60
+KL-W7,Deep,14/03/2014,16.7,Steph,32,36
+KL-W7,Deep,14/03/2014,16.7,Steph,36,25
+KL-W7,Deep,14/03/2014,16.7,Steph,40,130
+KL-W7,Deep,14/03/2014,16.7,Steph,44,92
+KL-W7,Deep,14/03/2014,16.7,Steph,48,48
+KL-W7,Shallow,15/03/2014,16.2,Steph,0,40
+KL-W7,Shallow,15/03/2014,16.2,Steph,4,77
+KL-W7,Shallow,15/03/2014,16.2,Steph,8,45
+KL-W7,Shallow,15/03/2014,16.2,Steph,12,19
+KL-W7,Shallow,15/03/2014,16.2,Steph,16,22
+KL-W7,Shallow,15/03/2014,16.2,Steph,20,55
+KL-W7,Shallow,15/03/2014,16.2,Steph,24,47
+KL-W7,Shallow,15/03/2014,16.2,Steph,28,23
+KL-W7,Shallow,15/03/2014,16.2,Steph,32,24
+KL-W7,Shallow,15/03/2014,16.2,Steph,36,97
+KL-W7,Shallow,15/03/2014,16.2,Steph,40,77
+KL-W7,Shallow,15/03/2014,16.2,Steph,44,38
+KL-W7,Shallow,15/03/2014,16.2,Steph,48,62
+KL-W8,Deep,15/03/2014,18.2,Lad,0,65
+KL-W8,Deep,15/03/2014,18.2,Lad,4,17
+KL-W8,Deep,15/03/2014,18.2,Lad,8,24
+KL-W8,Deep,15/03/2014,18.2,Lad,12,12
+KL-W8,Deep,15/03/2014,18.2,Lad,16,44
+KL-W8,Deep,15/03/2014,18.2,Lad,20,21
+KL-W8,Deep,15/03/2014,18.2,Lad,24,9
+KL-W8,Deep,15/03/2014,18.2,Lad,28,36
+KL-W8,Deep,15/03/2014,18.2,Lad,32,36
+KL-W8,Deep,15/03/2014,18.2,Lad,36,20
+KL-W8,Deep,15/03/2014,18.2,Lad,40,49
+KL-W8,Deep,15/03/2014,18.2,Lad,44,21
+KL-W8,Deep,15/03/2014,18.2,Lad,48,20
+Ten 2A,Offshore,29/03/2014,9.1,Lad,0,24
+Ten 2A,Offshore,29/03/2014,9.1,Lad,4,95
+Ten 2A,Offshore,29/03/2014,9.1,Lad,8,20
+Ten 2A,Offshore,29/03/2014,9.1,Lad,12,50
+Ten 2A,Offshore,29/03/2014,9.1,Lad,16,31
+Ten 2A,Offshore,29/03/2014,9.1,Lad,20,29
+Ten 2A,Offshore,29/03/2014,9.1,Lad,24,20
+Ten 2A,Offshore,29/03/2014,9.1,Lad,28,63
+Ten 2A,Offshore,29/03/2014,9.1,Lad,32,48
+Ten 2A,Offshore,29/03/2014,9.1,Lad,36,30
+Ten 2A,Offshore,29/03/2014,9.1,Lad,40,30
+Ten 2A,Offshore,29/03/2014,9.1,Lad,42,14
+Ten 2A,Offshore,29/03/2014,9.1,Lad,48,21
+Ten 2A,NW2,29/03/2014,9.2,Steph,0,110
+Ten 2A,NW2,29/03/2014,9.2,Steph,4,24
+Ten 2A,NW2,29/03/2014,9.2,Steph,8,18
+Ten 2A,NW2,29/03/2014,9.2,Steph,12,34
+Ten 2A,NW2,29/03/2014,9.2,Steph,16,12
+Ten 2A,NW2,29/03/2014,9.2,Steph,20,0
+Ten 2A,NW2,29/03/2014,9.2,Steph,24,10
+Ten 2A,NW2,29/03/2014,9.2,Steph,28,60
+Ten 2A,NW2,29/03/2014,9.2,Steph,32,12
+Ten 2A,NW2,29/03/2014,9.2,Steph,36,0
+Ten 2A,NW2,29/03/2014,9.2,Steph,40,20
+Ten 2A,NW2,29/03/2014,9.2,Steph,44,21
+Ten 2A,NW2,29/03/2014,9.2,Steph,48,6
+Ten 3A,Offshore,29/03/2014,8.8,Lad,0,32
+Ten 3A,Offshore,29/03/2014,8.8,Lad,4,42
+Ten 3A,Offshore,29/03/2014,8.8,Lad,8,17
+Ten 3A,Offshore,29/03/2014,8.8,Lad,12,39
+Ten 3A,Offshore,29/03/2014,8.8,Lad,16,28
+Ten 3A,Offshore,29/03/2014,8.8,Lad,20,19
+Ten 3A,Offshore,29/03/2014,8.8,Lad,24,140
+Ten 3A,Offshore,29/03/2014,8.8,Lad,28,27
+Ten 3A,Offshore,29/03/2014,8.8,Lad,32,13
+Ten 3A,Offshore,29/03/2014,8.8,Lad,36,22
+Ten 3A,Offshore,29/03/2014,8.8,Lad,40,39
+Ten 3A,Offshore,29/03/2014,8.8,Lad,42,36
+Ten 3A,Offshore,29/03/2014,8.8,Lad,48,31
+Ten 3A,West 2,29/03/2014,8.7,Steph,0,25
+Ten 3A,West 2,29/03/2014,8.7,Steph,4,55
+Ten 3A,West 2,29/03/2014,8.7,Steph,8,130
+Ten 3A,West 2,29/03/2014,8.7,Steph,12,200
+Ten 3A,West 2,29/03/2014,8.7,Steph,16,28
+Ten 3A,West 2,29/03/2014,8.7,Steph,20,30
+Ten 3A,West 2,29/03/2014,8.7,Steph,24,40
+Ten 3A,West 2,29/03/2014,8.7,Steph,28,18
+Ten 3A,West 2,29/03/2014,8.7,Steph,32,107
+Ten 3A,West 2,29/03/2014,8.7,Steph,36,30
+Ten 3A,West 2,29/03/2014,8.7,Steph,40,0
+Ten 3A,West 2,29/03/2014,8.7,Steph,44,0
+Ten 3A,West 2,29/03/2014,8.7,Steph,48,70
+Ten 5A,West 2,29/03/2014,8.2,Steph,0,42
+Ten 5A,West 2,29/03/2014,8.2,Steph,4,25
+Ten 5A,West 2,29/03/2014,8.2,Steph,8,0
+Ten 5A,West 2,29/03/2014,8.2,Steph,12,30
+Ten 5A,West 2,29/03/2014,8.2,Steph,16,18
+Ten 5A,West 2,29/03/2014,8.2,Steph,20,0
+Ten 5A,West 2,29/03/2014,8.2,Steph,24,60
+Ten 5A,West 2,29/03/2014,8.2,Steph,28,30
+Ten 5A,West 2,29/03/2014,8.2,Steph,32,33
+Ten 5A,West 2,29/03/2014,8.2,Steph,36,9
+Ten 5A,West 2,29/03/2014,8.2,Steph,40,0
+Ten 5A,West 2,29/03/2014,8.2,Steph,44,0
+Ten 5A,West 2,29/03/2014,8.2,Steph,48,26
+Ten 5A,Offshore,29/03/2019,8.2,Lad,0,8
+Ten 5A,Offshore,29/03/2019,8.2,Lad,4,72
+Ten 5A,Offshore,29/03/2019,8.2,Lad,8,7
+Ten 5A,Offshore,29/03/2019,8.2,Lad,12,17
+Ten 5A,Offshore,29/03/2019,8.2,Lad,16,19
+Ten 5A,Offshore,29/03/2019,8.2,Lad,20,20
+Ten 5A,Offshore,29/03/2019,8.2,Lad,24,19
+Ten 5A,Offshore,29/03/2019,8.2,Lad,28,30
+Ten 5A,Offshore,29/03/2019,8.2,Lad,32,21
+Ten 5A,Offshore,29/03/2019,8.2,Lad,36,12
+Ten 5A,Offshore,29/03/2019,8.2,Lad,40,18
+Ten 5A,Offshore,29/03/2019,8.2,Lad,42,20
+Ten 5A,Offshore,29/03/2019,8.2,Lad,48,13
+Buck-I4,Deep,,18,Lad,0,51
+Buck-I4,Deep,,18,Lad,4,52
+Buck-I4,Deep,,18,Lad,8,8
+Buck-I4,Deep,,18,Lad,12,30
+Buck-I4,Deep,,18,Lad,16,19
+Buck-I4,Deep,,18,Lad,20,48
+Buck-I4,Deep,,18,Lad,24,65
+Buck-I4,Deep,,18,Lad,28,33
+Buck-I4,Deep,,18,Lad,32,53
+Buck-I4,Deep,,18,Lad,36,2
+Buck-I4,Deep,,18,Lad,40,22
+Buck-I4,Deep,,18,Lad,44,45
+Buck-I4,Deep,,18,Lad,48,34
+Buck-I4,Shallow,,18,Lad,0,43
+Buck-I4,Shallow,,18,Lad,4,29
+Buck-I4,Shallow,,18,Lad,8,45
+Buck-I4,Shallow,,18,Lad,12,33
+Buck-I4,Shallow,,18,Lad,16,24
+Buck-I4,Shallow,,18,Lad,20,48
+Buck-I4,Shallow,,18,Lad,24,33
+Buck-I4,Shallow,,18,Lad,28,51
+Buck-I4,Shallow,,18,Lad,32,43
+Buck-I4,Shallow,,18,Lad,36,26
+Buck-I4,Shallow,,18,Lad,40,50
+Buck-I4,Shallow,,18,Lad,44,58
+Buck-I4,Shallow,,18,Lad,48,49
+Buck-P1,,,,Bernard,1,80
+Buck-P1,,,,Bernard,2,90
+Buck-P1,,,,Bernard,3,30
+Buck-P1,,,,Bernard,4,10
+Buck-P1,,,,Bernard,5,80
+Buck-P1,,,,Bernard,6,60
+Buck-P1,,,,Bernard,7,60
+Buck-P1,,,,Bernard,8,50
+Buck-P1,,,,Bernard,9,40
+Buck-P1,,,,Bernard,10,30
+Buck-P3,,,52,Lad,0,150
+Buck-P3,,,52,Lad,4,148
+Buck-P3,,,52,Lad,8,75
+Buck-P4,,,50,Lad,0,43
+Buck-P4,,,50,Lad,4,50
+Buck-P4,,,50,Lad,8,52
+Buck-P4,,,50,Lad,12,40
+Buck-P4,,,50,Lad,16,43
+Buck-P4,,,50,Lad,20,52
+Buck-P5,,,,Bernard,1,80
+Buck-P5,,,,Bernard,2,100
+Buck-P5,,,,Bernard,3,60
+Buck-P5,,,,Bernard,4,100
+Buck-P5,,,,Bernard,5,70
+Buck-P5,,,,Bernard,6,60
+Buck-P5,,,,Bernard,7,60
+Buck-P5,,,,Bernard,8,60
+Buck-P5,,,,Bernard,9,80
+Buck-P5,,,,Bernard,10,80
+Buck-P5,,,,Bernard,11,80
+Buck-P5,,,,Bernard,12,80
+Buck-P7,,9-Apr-14,50,Lad,0,25
+Buck-P7,,9-Apr-14,50,Lad,4,8
+Buck-P7,,9-Apr-14,50,Lad,8,20
+Buck-P7,,9-Apr-14,50,Lad,12,43
+Buck-P7,,9-Apr-14,50,Lad,16,30
+Buck-P7,,9-Apr-14,50,Lad,20,235
+Buck-P7,,9-Apr-14,50,Lad,24,34
+Buck-P7,,9-Apr-14,50,Lad,28,22
+Buck-P7,,9-Apr-14,50,Lad,32,8
+Buck-I1,,,,Bernard,1,60
+Buck-I1,,,,Bernard,2,120
+Buck-I1,,,,Bernard,3,150
+Buck-I1,,,,Bernard,4,100
+Buck-I1,,,,Bernard,5,120
+Buck-I1,,,,Bernard,6,100
+Buck-I1,,,,Bernard,7,110
+Buck-I1,,,,Bernard,8,110
+Buck-I1,,,,Bernard,9,120
+Buck-I1,,,,Bernard,10,80
+Buck-I1,,,,Bernard,11,70
+Buck-I1,,,,Bernard,12,40
+Buck-I2,,,,Bernard,1,60
+Buck-I2,,,,Bernard,2,100
+Buck-I2,,,,Bernard,3,80
+Buck-I2,,,,Bernard,4,50
+Buck-I2,,,,Bernard,5,100
+Buck-I2,,,,Bernard,6,80
+Buck-I2,,,,Bernard,7,80
+Buck-I2,,,,Bernard,8,30
+Buck-I2,,,,Bernard,9,30
+Buck-I2,,,,Bernard,10,90
+Buck-I2,,,,Bernard,11,80
+Buck-I2,,,,Bernard,12,30
+Buck-LF4,,,,Bernard,1,40
+Buck-LF4,,,,Bernard,2,100
+Buck-LF4,,,,Bernard,3,80
+Buck-LF4,,,,Bernard,4,30
+Buck-LF4,,,,Bernard,5,40
+Buck-LF4,,,,Bernard,6,120
+Buck-LF4,,,,Bernard,7,80
+Buck-LF4,,,,Bernard,8,100
+Buck-LF4,,,,Bernard,9,60
+Buck-LF4,,,,Bernard,10,60
+Buck-LF4,,,,Bernard,11,120
+Buck-LF4,,,,Bernard,12,90
+Buck-LF5,,,,Bernard,1,50
+Buck-LF5,,,,Bernard,2,60
+Buck-LF5,,,,Bernard,3,50
+Buck-LF5,,,,Bernard,4,80
+Buck-LF5,,,,Bernard,5,140
+Buck-LF5,,,,Bernard,6,30
+Buck-LF5,,,,Bernard,7,90
+Buck-LF5,,,,Bernard,8,110
+Buck-LF5,,,,Bernard,9,90
+Buck-LF5,,,,Bernard,10,110
+Buck-LF5,,,,Bernard,11,80
+Buck-LF5,,,,Bernard,12,100
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,25,700
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,31,500
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,37,100
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,43,450
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,49,500
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,59,400
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,67,300
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,70,400
+EFGB#1,East,27-Aug-19,61,Michelle Johnston,75,400
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,10,300
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,16,0
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,19,100
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,40,200
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,50,100
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,55,100
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,70,100
+EFGB#1,North,27-Aug-19,60,Jonathan Langham,80,100
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,25,200
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,30,200
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,35,80
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,40,250
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,45,250
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,50,150
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,55,200
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,60,0
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,65,0
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,70,100
+EFGB#1,West,27-Aug-19,63,Alexandra Davis,75,10
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,25,40
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,30,140
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,35,100
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,40,150
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,45,50
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,50,150
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,55,200
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,60,250
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,65,200
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,70,20
+EFGB#3,West,26-Aug-19,65,Alexandra Davis,75,200
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,75,100
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,67,30
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,53,50
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,43,150
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,39,20
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,29,30
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,10,150
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,20,100
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,30,200
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,37,100
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,51,0
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,58,100
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,60,70
+EFGB#7,East,27-Aug-19,65,Jonathan Langham,90,30
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,25,45
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,30,90
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,35,120
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,40,30
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,45,180
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,50,300
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,55,250
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,60,200
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,65,100
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,70,120
+EFGB#7,North,27-Aug-19,65,Alexandra Davis,75,200
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,25,200
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,31,200
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,38,400
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,50,0
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,58,300
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,64,50
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,67,200
+EFGB#7,South,27-Aug-19,62,Michelle Johnston,75,0
+EFGB#7,South,27-Aug-19,75,Reuban Watkins,25,60
+EFGB#7,South,27-Aug-19,75,Reuban Watkins,35,20
+EFGB#7,South,27-Aug-19,75,Reuban Watkins,45,0
+EFGB#7,South,27-Aug-19,75,Reuban Watkins,55,100
+EFGB#7,South,27-Aug-19,75,Reuban Watkins,65,200
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,75,450
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,70,200
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,67,100
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,55,400
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,52,200
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,37,100
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,30,300
+WFGB#1,East,28-Aug-19,73,Michelle Johnston,25,250
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,60,50
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,50,50
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,40,50
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,25,200
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,20,200
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,15,50
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,30,150
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,40,50
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,50,10
+WFGB#1,North,28-Aug-19,100,Jonathan Langham,58,100
+WFGB#1,South,28-Aug-19,70,Louise Patricio,75,200
+WFGB#1,South,28-Aug-19,70,Louise Patricio,73,200
+WFGB#1,South,28-Aug-19,70,Louise Patricio,59,100
+WFGB#1,South,28-Aug-19,70,Louise Patricio,44,200
+WFGB#1,South,28-Aug-19,70,Louise Patricio,33,300
+WFGB#1,South,28-Aug-19,73,Louise Patricio,25,175
+WFGB#1,South,28-Aug-19,73,Louise Patricio,30,200
+WFGB#1,South,28-Aug-19,73,Louise Patricio,35,200
+WFGB#1,South,28-Aug-19,73,Louise Patricio,42,175
+WFGB#1,South,28-Aug-19,73,Louise Patricio,52,125
+WFGB#1,South,28-Aug-19,73,Louise Patricio,58,125
+WFGB#1,South,28-Aug-19,73,Louise Patricio,70,125
+WFGB#1,South,28-Aug-19,73,Louise Patricio,75,175
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,25,100
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,30,0
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,35,10
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,40,100
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,45,100
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,50,80
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,55,160
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,60,60
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,65,30
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,70,130
+WFGB#1,West,28-Aug-19,78,Alexandra Davis,75,300
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,25,20
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,30,350
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,35,120
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,40,250
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,45,80
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,50,150
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,55,180
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,60,100
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,65,300
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,70,10
+WFGB#3,East,28-Aug-19,75,Alexandra Davis,75,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,75,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,71,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,69,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,64,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,60,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,49,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,43,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,31,200
+WFGB#3,South,28-Aug-19,75,Michelle Johnston,25,200
+WFGB#2,North,29-Aug-16,80,Stephanie Green,,600
+WFGB#2,East,29-Aug-16,85,Stephanie Green,,400
+WFGB#2,South,29-Aug-16,80,Kevin Buch,,250
+WFGB#2,West,29-Aug-16,70,Michelle Johnston,,500
+WFGB#2,North,29-Aug-16,81,Steve Gitings,,300
+WFGB#2,East,29-Aug-16,79,Stephanie Green,,200
+WFGB#2,South,29-Aug-16,80,Kevin Buch,,250
+WFGB#2,West,29-Aug-16,76,Michelle Johnston,,800
+EFGB#4,North,31-Aug-16,70,Michelle Johnston,,300
+EFGB#4,East,31-Aug-16,73,Steve Gitings,,150
+EFGB#4,South,31-Aug-16,80,Stephanie Green,,400
+EFGB#4,West,31-Aug-16,67,Kevin Buch,,300
+EFGB#4,North,31-Aug-16,65,Michelle Johnston,,500
+EFGB#4,East,31-Aug-16,70,Steve Gitings,,200
+EFGB#4,South,31-Aug-16,61,Stephanie Green,,400
+EFGB#4,West,31-Aug-16,70,Kevin Buch,,300
+EFGB#6,North,31-Aug-16,68,Kevin Buch,,250
+EFGB#6,East,31-Aug-16,60,Michelle Johnston,,300
+EFGB#6,South,31-Aug-16,65,Raven Walker,,600
+EFGB#6,West,31-Aug-16,67,Stephanie Green,,400
+EFGB#6,North,31-Aug-16,68,Kevin Buch,,250
+EFGB#6,East,31-Aug-16,62,Michelle Johnston,,500
+EFGB#6,South,31-Aug-16,65,Raven Walker,,600
+EFGB#6,West,31-Aug-16,63,Stephanie Green,,300
