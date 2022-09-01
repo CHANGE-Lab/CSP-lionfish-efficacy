@@ -1,0 +1,38 @@
+Region,Location,Site,Lat,Long,Type
+BNP,Biscayne,Bisc 60-2b,25.44028,-80.11593,Continuos
+BNP,Biscayne,Bisc P9a,25.41211,-80.15293,Patch
+BNP,Biscayne,Bisc P11a,25.3891,-80.1749,Patch
+BNP,Biscayne,Bisc 40-b,25.38493,-80.132617,Continuos
+BNP,Biscayne,Bisc P13a,25.36596,-80.17025,Patch
+BNP,Biscayne,Bisc P15a,25.32747,-80.19591,Patch
+BNP,Biscayne,Bisc W13,25.3259,-80.15105,Continuos
+BNP,Biscayne,Bisc W12,25.29342,-80.16365,Continuos
+FKNMS,Key Largo,P14,25.27105,-80.25161,Patch
+FKNMS,Key Largo,P11,25.2076,-80.28345,Patch
+FKNMS,Key Largo,W13,25.197817,-80.219733,Continuos
+FKNMS,Key Largo,W11,25.15847,-80.25019,Continuos
+FKNMS,Key Largo,30,25.13613,-80.33527,Patch
+FKNMS,Key Largo,W7,25.11549,-80.27799,Continuos
+FKNMS,Key Largo,P7,25.11229,-80.33028,Patch
+FKNMS,Key Largo,P5,25.0995,-80.3418,Patch
+FKNMS,Key Largo,Benwood Ledge,25.05202,-80.33108,Continuos
+FKNMS,Conch Reef,Conch 3A,24.9515,-80.45342,Continuos
+FKNMS,Conch Reef,Conch 6A,24.94922,-80.45422,Continuos
+FKNMS,Matecumbe Key,FKSP 1,24.83727,-80.73035,Patch
+FKNMS,Tennessee Reef,Ten 5A,24.76603,-80.75181,Continuos
+FKNMS,Tennessee Reef,Ten 2A,24.76258,-80.75648,Continuos
+BIRNM,Buck Island,Buck LF4,17.79705,-64.639983,Continuos
+BIRNM,Buck Island,Buck LF5 (aka 33_AI),17.80367,-64.63655,Continuos
+BIRNM,Buck Island,Buck I 2 (aka113),17.7834,-64.6147,Fringing
+BIRNM,Buck Island,Buck I 1,17.78241,-64.61976,Fringing
+BIRNM,Buck Island,Buck P3,17.78228,-64.608,Patch
+BIRNM,Buck Island,Buck P5,17.77763,-64.59573,Patch
+BIRNM,Buck Island,Buck P1,17.77933,-64.61403,Patch
+BIRNM,Buck Island,Buck P8,17.77751,-64.62864,Patch
+FGBNMS,East Bank,East 1,27.9095,-93.59742,Continuos
+FGBNMS,East Bank,East 4,27.908817,-93.599833,Continuos
+FGBNMS,East Bank,East 6,27.91075,-93.59917,Continuos
+FGBNMS,East Bank,East 7,27.9086,-93.598567,Continuos
+FGBNMS,West Bank ,West 1,27.8763,-93.815117,Continuos
+FGBNMS,West Bank ,West 2,27.875433,-93.813933,Continuos
+FGBNMS,West Bank ,West 3,27.874283,-93.816467,Continuos

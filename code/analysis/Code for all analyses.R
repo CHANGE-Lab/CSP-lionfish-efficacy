@@ -1,7 +1,20 @@
-#packages
-#######
+########## 
+##########
+# This script runs the analyses used  
+# in Davis et al. (2021) 
+# An investigation into whats effects lionfish removal efficiency and efficacy
+##########
+##########
+# AUTHOR: Alexandra CD Davis
+# DATE OF CREATION: 2020-11-10
+##########
+##########
+# Note to future readers. This code is kind of a mess. I acknowledge this. May 
+# the coding gods just be happy it runs and is quasi-reproducible
 
+# set-up ======================================================================= 
 
+devtools::install_github("glmmTMB/glmmTMB/glmmTMB")
 library(data.table)
 library(tidyverse)
 library(matrixStats)
@@ -13,79 +26,64 @@ library(ggplot2)
 library(lme4)
 library(MuMIn)
 library(clusterGeneration)
-require(MASS)
+#require(MASS)
 library(mgcv)
 library(rstatix)
 library(dplyr)
 library(rlang)
 library(car)
+library(here)
+library(readr)
+library(devtools)
 
+lionfish_removals = read_csv(here::here('./data/clean/lionfish_removals.csv'))
 
-
-#########
-#Calculations for Model 1 lionfish capture binary response 
 ################################
 #######Calculations for Model 1 lionfish capture binary response
-devtools::install_github("glmmTMB/glmmTMB/glmmTMB")
 
 names(lionfish_removals)
-options(na.action = "na.omit")
+options(na.action = "na.omit") ##required to work with glmm
 
 CaptureModelall<-glmer (Captured_bin ~  Depth_ft + Average + AvgGorg
                         + I(Site_area_m2/100) +AvgCoral
-                        + Lionfish_visibility*Lionfish_size_TL + Adj_behaviour + SiteDens1000
-                        + Cap_exp_new + TOD + Num_attempts 
+                        + Lionfish_visibility*Lionfish_size_TL + Adj_behaviour 
+                        + SiteDens1000 + Cap_exp_new + TOD + Num_attempts 
                         + (1|Site_ID) +(1|Sub_region),
                         family=binomial(link="logit"),
                         data = lionfish_removals)
-
-# range(I(lionfish_removals$Site_area_m2)/100)
-# range(lionfish_removals$Num_attempts)
-# unique(lionfish_removals$TOD)
-# unique(is.na(lionfish_removals$Lionfish_visibility))
 
 summary(CaptureModelall)
 vif(CaptureModelall)
 range(lionfish_removals$SiteDens1000)
 
-CaptureModelall1<-glmer (Captured_bin ~  Depth_ft  + AvgGorg
-                         + I(Site_area_m2/100) 
-                         + Lionfish_visibility*Lionfish_size_TL + Adj_behaviour + SiteDens1000
-                         + Cap_exp_new + TOD + Num_attempts
-                         + (1|Site_ID) +(1|Sub_region),
-                         family = b,
-                         data = lionfish_removals)
-
-summary(CaptureModelall2)
-vif(CaptureModelall2)
-
 CaptureModelall2<-glmer (Captured_bin ~  Depth_ft  + AvgGorg
                         + I(Site_area_m2/100) 
-                        + Lionfish_visibility*Lionfish_size_TL + Adj_behaviour + SiteDens1000
+                        + Lionfish_visibility*Lionfish_size_TL 
+                        + Adj_behaviour + SiteDens1000
                         + Cap_exp_new + TOD + Num_attempts
                         + (1|Site_ID) +(1|Sub_region),
                         family=binomial(link="logit"),
                         data = lionfish_removals)
+summary(CaptureModelall2)
+vif(CaptureModelall2)
 
-CaptureModelall3<-glmer (Captured_bin ~  Depth_ft  + AvgGorg
-                         + I(Site_area_m2/100) 
-                         + Lionfish_visibility*Lionfish_size_TL + Adj_behaviour + TransDens
+CaptureModelall3<-glmer (Captured_bin ~  Depth_ft  + AvgCoral + AvgGorg
+                         + Lionfish_visibility*Lionfish_size_TL 
+                         + Adj_behaviour + SiteDens1000
                          + Cap_exp_new + TOD + Num_attempts
                          + (1|Site_ID) +(1|Sub_region),
                          family=binomial(link="logit"),
                          data = lionfish_removals)
+summary(CaptureModelall3)
+vif(CaptureModelall3)
 
-AIC(CaptureModelall, CaptureModelall1,CaptureModelall2, CaptureModelall3 )
-BIC(CaptureModelall, CaptureModelall1,CaptureModelall2, CaptureModelall3 )
-AIC(CaptureModelall2,CaptureModelall3)
-unique(lionfish_removals$TransDens)
+AIC(CaptureModelall, CaptureModelall2, CaptureModelall3 )
+BIC(CaptureModelall, CaptureModelall2, CaptureModelall3 )
 
-library(MuMIn)
-library(clusterGeneration)
+###Global model for binary capture model
+### using CaptureModellall2 bc it had comparble AIC, lowest BIC
 require(MASS)
-options(na.action = "na.fail")
-
-###Global modedl
+options(na.action = "na.fail") ###required to work with the dredge function
 dredge.CapModALL<-dredge(CaptureModelall2)
 summary(dredge.CapModALL)
 #dredge.CCMALL = subset(dredge.CapModALL, delta <4)
@@ -213,70 +211,16 @@ test_plot_cmall[7,6]= ("pos")
 test_plot_cmall[8,6]= ("neg")
 test_plot_cmall[9,6]= ("neg")
 
-# test_plot_cmall[8,1]= 2
-# test_plot_cmall[8,2]= 0
-# test_plot_cmall[8,3]= 0
-# test_plot_cmall[8,4]= ("Lionfish_size_TL.Lionfish_visibilitySH")
-# test_plot_cmall[8,5]= ("not")
 
-#test_plot_cmall[8,1]= 2
-#test_plot_cmall[8,2]= 0
-#test_plot_cmall[8,3]= 0
-#test_plot_cmall[8,4]= ("Lionfish_visibilitySH")
-#test_plot_cmall[8,5]= ("not")
-# 
-# test_plot_cmall[10,1]= 2
-# test_plot_cmall[10,2]= 0
-# test_plot_cmall[10,3]= 0
-# test_plot_cmall[10,4]= ("Lionfish_visibilitySH")
-# test_plot_cmall[10,5]= ("not")
-# 
-# test_plot_cmall[11,1]= 2
-# test_plot_cmall[11,2]= 0
-# test_plot_cmall[11,3]= 0
-# test_plot_cmall[11,4]= ("Number of Attempts")
-# test_plot_cmall[11,5]= ("not")
-# 
-# test_plot_cmall[12,1]= 2
-# test_plot_cmall[12,2]= 0
-# test_plot_cmall[12,3]= 0
-# test_plot_cmall[12,4]= ("Lionfish_behaviourrest")
-# test_plot_cmall[12,5]= ("not")
-# 
-# test_plot_cmall[13,1]= 2
-# test_plot_cmall[13,2]= 0
-# test_plot_cmall[13,3]= 0
-# test_plot_cmall[13,4]= ("Lionfish_size_TL.Lionfish_visibilitySH")
-# test_plot_cmall[13,5]= ("not")
-# 
-# test_plot_cmall[14,1]= 2
-# test_plot_cmall[14,2]= 0
-# test_plot_cmall[14,3]= 0
-# test_plot_cmall[14,4]= ("Lionfish_size_TL")
-# test_plot_cmall[14,5]= ("not")
-# 
-
-
-
-
-
-
-# test_plot_cmall =test_plot_cmall %>% 
-#   mutate(real= ifelse(est_capALL==2, "dummy", "real"))
 test_plot_cmall$var_namesCMALL <- factor(test_plot_cmall$var_namesCMALL, 
                                          levels = c("TODmidday",
                                                     "Cap_exp_newLow",
                                                     "Cap_exp_newMedium",
                                                     "Cap_exp_newNone",
                                                     "I.Site_area_m2.100.",
-                                                    #"Number of Attempts",
-                                                    #"Average.AvgGorg",
                                                     "Depth_ft",
                                                     "AvgGorg",
                                                     "Average",
-                                                    #"Lionfish_behaviourrest",
-                                                    #"Lionfish_size_TL.Lionfish_visibilitySH",
-                                                    #"Lionfish_visibilitySH",
                                                     "Lionfish_size_TL",
                                                     "SiteDens1000"
                                          ))
@@ -293,20 +237,9 @@ likelihoodALL<- ggplot(test_plot_cmall, fill = "white") +
   theme_classic()+ 
   scale_y_discrete(labels=c("Midday",
                             "Low Exp", "Medium Exp", "No Exp", "Reef Size",
-                            #"Number of Attempts", #"VR and Gorgonian",
                             "Depth (m)","% Gorgonian Cover",
-                            #"Vertical Relief (cm)",
-                            #"Resting",
-                            #"Small and Sheltered", "Sheltered",
                             "Lionfish Size","Lionfish Density"
   ))+
-  #scale_y_discrete(labels=c("",
-  #                          "","",
-  #                          "","","",
-  #                          "",
-  #                          "", "",
-  #                          "","", ""
-  #))+
   xlab("") + 
   ylab("") +
   labs(title = "Likelihood of Removal")+
@@ -315,6 +248,8 @@ likelihoodALL<- ggplot(test_plot_cmall, fill = "white") +
   theme(axis.title= element_text(size= 16))
 
 likelihoodALL
+
+
 
 ######### 7) prediction plots
 

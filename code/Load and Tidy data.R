@@ -180,8 +180,10 @@ write_csv(lionfish_removals, here::here('./data/clean/lionfish_removals.csv'))
 
 #remove instances where they did not try and catch the fish, 
 #recorded as '0' for time
+### will be used in time series analysis
 time_per_fish = subset(lionfish_removals, Adj_min !="0")
 write_csv(time_per_fish, here::here('./data/clean/time_per_fish.csv'))
+
 ###subset data by region
 NOFGBNMS= subset(lionfish_removals, Region != "FGBNMS")
 FloridaOnly = subset(lionfish_removals, Region == "Florida") #428
