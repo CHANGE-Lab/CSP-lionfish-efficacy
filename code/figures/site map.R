@@ -8,18 +8,12 @@ library(mapdata)
 library(maps)
 library(maptools)
 library(ggmap)
-library(ggrepel)
 library(raster)
-library(ggthemes)
 library(ggsn)
-library(rgeos)
-library(rgdal)
 library(tidyverse)
 library(cowplot)
 library(here)
 
-
-raster::getData('ISO3') 
 #ccodes() #country codes so you know what to pull
 #USA is United States
 #MX is Mexico
@@ -32,7 +26,14 @@ mx <- getData('GADM', country="MEX", level= 1)
 ##pull individual countries to "create" the Caribbean
 bz <- getData('GADM', country="BLZ", level= 1)
 gt <- getData('GADM', country="GTM", level= 1)
+
+
 bs <- getData('GADM', country="BHS", level= 1)
+bs <- readRDS(here::here(
+  gadm36_BHS_1_sp.rds
+))
+
+
 cb <- getData('GADM', country="CUB", level= 1)
 cy <- getData('GADM', country="CYM", level= 1)
 jm <- getData('GADM', country="JAM", level= 1)
@@ -45,7 +46,7 @@ vs <- getData('GADM', country="VIR", level= 1)
 #ag <- getData('GADM', country="AIA", level= 1)
 
 #bind the countries together
-carib <- bind (us, mx, bz, gt, bs, cb, cy, jm, tc, hi, dr, pr, vb, vs)
+carib <- raster::bind (us, mx, bz, gt, bs, cb, cy, jm, tc, hi, dr, pr, vb, vs)
 plot(carib)
 #Subset areas of the US for regional maps
 florida <- c('Florida')
@@ -54,13 +55,13 @@ us.fl <- us[us$NAME_1 %in% florida,]
 us.tx <- us[us$NAME_1 %in% gulf,]
 
 #read in the data and subset to keep only what we need
-site_data = here::read_csv(('./data/raw/site_coordinates.csv'))
+site_data = readr::read_csv(here::here('./data/raw/site_coordinates.csv'))
 
 site_data$Region <- factor(site_data$Region, 
                                        levels = c("FGBNMS","BNP","FKNMS", 
                                                    "BIRNM") )
 sites = keys_fish_data %>% 
-  filter(Type == 'Site') 
+  dplyr::filter(Type == 'Site') 
 
 #make the themes
 fte_theme_map_small <- function(){
@@ -131,9 +132,10 @@ continent = ggplot()+
   # annotate('segment',x=-87, y=27.28, xend=-82.2, yend=25.1, arrow=arrow(length = unit(0.04, "npc")), #arrow
   #          alpha = 0.8, size=1.1, color="black")+
   scalebar(x.min = -96, x.max = -88, y.min = 17.5, y.max = 18.5, dist = 250, dist_unit = 'km', st.size = 5, #add scalebar
-           transform = TRUE, model = 'WGS84', location = 'bottomleft', st.dist = 0.5, height = 0.18)+ #transform = TRUE assumes coordinates are in decimal degrees
-  north(location = 'topright', scale = 0.9, symbol = 12, #add north arrow
-        x.min = -92.75, x.max = -94.75, y.min = 17.5, y.max = 19.5)
+           transform = TRUE, model = 'WGS84', location = 'bottomleft', st.dist = 0.5, height = 0.18)
+  # + #transform = TRUE assumes coordinates are in decimal degrees
+  # ggmap::north(location = 'topright', scale = 0.9, symbol = 12, #add north arrow
+  #       x.min = -92.75, x.max = -94.75, y.min = 17.5, y.max = 19.5)
 continent
 
 florida_map = ggplot()+
@@ -165,20 +167,20 @@ USVI_map = ggplot()+
   scalebar(x.min = -64.57, x.max = -64.6, y.min = 17.708, y.max = 17.725, dist = 1.5, dist_unit = 'km', #add scalebar
            transform = TRUE, model = 'WGS84', location = 'bottomleft', st.dist = 0.35, height = 0.18) #transform = TRUE assumes coordinates are in decimal degrees
 USVI_map
-# buck_map = ggplot()+
-#   geom_polygon(data = vs,aes(x=long,y=lat,group=group), colour = 'grey40', size = 0.01, 
-#                fill = 'grey90')+
-#   coord_cartesian(xlim = c(-64.661,-64.567), ylim = c(17.74,17.81)) +
-#   geom_point(data = site_data, aes(x=Long,y=Lat, fill= Region, shape = Region), size = 3)+ #acutally plot the points of our sites
-#   scale_shape_manual(values = c(16,16,16,20)) + #use the shapes we want (need these ones cuz they have black borders)
-#   scale_fill_grey()+
-#   fte_theme_map_small() +
-#   labs(x = 'Longitude', y = 'Latitude')+
-#   annotate('text', x = -64.61, y = 17.8, label = 'Buck Isand', size = 5, fontface = 'italic')+
-#   #annotate('text', x = -64.66, y = 17.745, label = 'St Croix', size = 5, fontface = 'bold')+
-#   scalebar(x.min = -64.661, x.max = -64.545, y.min = 17.744, y.max = 17.753, dist = 2.5, dist_unit = 'km', #add scalebar
-#            transform = TRUE, model = 'WGS84', location = 'bottomleft', st.dist = 0.49, height = 0.18) #transform = TRUE assumes coordinates are in decimal degrees
-# buck_map
+buck_map = ggplot()+
+  geom_polygon(data = vs,aes(x=long,y=lat,group=group), colour = 'grey40', size = 0.01,
+               fill = 'grey90')+
+  coord_cartesian(xlim = c(-64.661,-64.567), ylim = c(17.74,17.81)) +
+  geom_point(data = site_data, aes(x=Long,y=Lat, fill= Region, shape = Region), size = 3)+ #acutally plot the points of our sites
+  scale_shape_manual(values = c(16,16,16,20)) + #use the shapes we want (need these ones cuz they have black borders)
+  scale_fill_grey()+
+  fte_theme_map_small() +
+  labs(x = 'Longitude', y = 'Latitude')+
+  annotate('text', x = -64.61, y = 17.8, label = 'Buck Isand', size = 5, fontface = 'italic')+
+  #annotate('text', x = -64.66, y = 17.745, label = 'St Croix', size = 5, fontface = 'bold')+
+  scalebar(x.min = -64.661, x.max = -64.545, y.min = 17.744, y.max = 17.753, dist = 2.5, dist_unit = 'km', #add scalebar
+           transform = TRUE, model = 'WGS84', location = 'bottomleft', st.dist = 0.49, height = 0.18) #transform = TRUE assumes coordinates are in decimal degrees
+buck_map
 usviall = ggdraw()+
   draw_plot(USVI_map) + 
   draw_plot(buck_map, x=0.015, y=0.667, width=0.35, height=0.32)
