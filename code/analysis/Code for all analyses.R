@@ -26,7 +26,6 @@ library(ggplot2)
 library(lme4)
 library(MuMIn)
 library(clusterGeneration)
-#require(MASS)
 library(mgcv)
 library(rstatix)
 library(dplyr)
@@ -443,6 +442,7 @@ confint(avgmod.95pWPMALL)
 modall.prop<-model.avg(dredge.WPMALL, cumsum(weight) <= 0.95, fit = TRUE)
 summary(modall.prop)
 confint(modall.prop)
+
 #### creating a estimates plot
 library(ggplot2)
 
@@ -468,30 +468,30 @@ test_plot_wpmall$var_namesWPMALL= as.character(test_plot_wpmall$var_namesWPMALL)
 
 
 
+test_plot_wpmall[7,1]= 2
+test_plot_wpmall[7,2]= 0
+test_plot_wpmall[7,3]= 0
+test_plot_wpmall[7,4]= ("Lionfish_visibilitySH")
+
+test_plot_wpmall[8,1]= 2
+test_plot_wpmall[8,2]= 0
+test_plot_wpmall[8,3]= 0
+test_plot_wpmall[8,4]= ("Remover Experience")
+
 test_plot_wpmall[9,1]= 2
 test_plot_wpmall[9,2]= 0
 test_plot_wpmall[9,3]= 0
-test_plot_wpmall[9,4]= ("Lionfish_visibilitySH")
+test_plot_wpmall[9,4]= ("Number of Attempts")
 
 test_plot_wpmall[10,1]= 2
 test_plot_wpmall[10,2]= 0
 test_plot_wpmall[10,3]= 0
-test_plot_wpmall[10,4]= ("Remover Experience")
+test_plot_wpmall[10,4]= ("Adj_behaviourrest")
 
 test_plot_wpmall[11,1]= 2
 test_plot_wpmall[11,2]= 0
 test_plot_wpmall[11,3]= 0
-test_plot_wpmall[11,4]= ("Number of Attempts")
-
-test_plot_wpmall[12,1]= 2
-test_plot_wpmall[12,2]= 0
-test_plot_wpmall[12,3]= 0
-test_plot_wpmall[12,4]= ("Adj_behaviourrest")
-
-test_plot_wpmall[13,1]= 2
-test_plot_wpmall[13,2]= 0
-test_plot_wpmall[13,3]= 0
-test_plot_wpmall[13,4]= ("Lionfish_size_TL.Lionfish_visibilitySH")
+test_plot_wpmall[11,4]= ("Lionfish_size_TL.Lionfish_visibilitySH")
 
 test_plot_wpmall[1,5]= ("sig")
 test_plot_wpmall[2,5]= ("sig")
@@ -837,7 +837,7 @@ experienceTN=rep("None",n^2)
 
 
 #sitearea=rep(mean(time_per_fish$Site_area_m2),n^2)
-#expereinced/high
+#expereince/high
 new.dataTCexp=data.frame(Site_area_m2=rep(areaT,each=n),  SiteDens1000=rep(densityT, n),
                     Depth_ft=depthT,  AvgGorg=gorgT, Lionfish_size_TL = lfsizeT,  
                     Cap_exp_new=experienceTH, TOD=timeofdayTC)
@@ -847,7 +847,7 @@ new.dataTMexp=data.frame(Site_area_m2=rep(areaT,each=n),  SiteDens1000=rep(densi
                       Cap_exp_new=experienceTH, TOD=timeofdayTM)
 
 
-#<Medium
+#Medium
 new.dataTCmed=data.frame(Site_area_m2=rep(areaT,each=n),  SiteDens1000=rep(densityT, n),
                          Depth_ft=depthT,  AvgGorg=gorgT, Lionfish_size_TL = lfsizeT,  
                          Cap_exp_new=experienceTM, TOD=timeofdayTC)
@@ -880,18 +880,18 @@ new.dataTMnov=data.frame(Site_area_m2=rep(areaT,each=n),  SiteDens1000=rep(densi
 # + Lionfish_visibility*Lionfish_size_TL + Adj_behaviour +SiteDens1000
 # + Cap_exp_new + TOD + Num_attempts
 
-##cexperience high
+##cexperience high, this is where you bring in your model 
 newpredictTIMEcH=predict(newtime.true, newdata = new.dataTCexp, type='response', 
                        backtransform =FALSE, re.form=NA) #check this 
 
-TimeInterpCH <-interp(new.dataTC$Site_area_m2,new.dataTC$SiteDens1000,newpredictTIMEcH)
+TimeInterpCH <-interp(new.dataTCexp$Site_area_m2,new.dataTCexp$SiteDens1000,newpredictTIMEcH)
 
 
 ##midday
-newpredictTIMEm=predict(newtime.true, newdata = new.dataTM, type='response', 
+newpredictTIMEm=predict(newtime.true, newdata = new.dataTMexp, type='response', 
                         backtransform =FALSE, re.form=NA) #check this 
 
-TimeInterpM <-interp(new.dataTM$Site_area_m2,new.dataTC$SiteDens1000,newpredictTIMEm)
+TimeInterpM <-interp(new.dataTMexp$Site_area_m2,new.dataTMexp$SiteDens1000,newpredictTIMEm)
 
 
 image.plot(TimeInterpC)
@@ -909,7 +909,7 @@ pal=pnw_palette("Sunset2",100)
 
 ###Crepuscular###
 set.panel() # reset plotting device
-image.plot(TimeInterpC, col= pal,
+image.plot(TimeInterpCH, col= pal,
            main = "Crepuscular Hours",
            cex.main =2,
            xlab = "Site Area (m2)", xlim =c(0,8000), 
@@ -924,7 +924,7 @@ image.plot(TimeInterpC, col= pal,
                                line = .3),
            zlim=c(0.4,3.3))
 
-contour(TimeInterpC, vfont = c("sans serif", "bold"), nlevels = 12, add = TRUE, labcex = 2.4, labtype = "bold", col= "white")
+contour(TimeInterpCH, vfont = c("sans serif", "bold"), nlevels = 12, add = TRUE, labcex = 2.4, labtype = "bold", col= "white")
 points(2080,1.7,pch="*", cex=3)
 points(4250,2.3,pch="+", cex=3)
        
@@ -944,7 +944,7 @@ image.plot(TimeInterpM, col= pal,
                               cex = 1.4,
                               side = 2,
                               line = .3),
-          zlim=c(0.4,3.3)) ##make sure you set this uppper limit to the highest of time
+          zlim=c(0.4,3.3)) ##make sure you set this upper limit to the highest of time
 
 contour(TimeInterpM, vfont = c("sans serif", "bold"), nlevels = 12, add = TRUE, labcex = 2.4, labtype = "bold", col= "white")
 points(2080,1.7,pch="*", cex=3)

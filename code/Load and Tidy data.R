@@ -1,8 +1,8 @@
 ########## 
 ##########
 # This script inputs raw csv files and cleans data for analyses used  
-# in Davis et al. (2021) 
-# An investigation into whats effects lionfish removal efficiency and efficacy
+# in Davis et al. (2021) Conservation Science and Practice manuscript
+# An investigation into what effects lionfish removal efficiency and efficacy
 ##########
 ##########
 # AUTHOR: Alexandra CD Davis
@@ -113,7 +113,7 @@ AvgSiteLF<- ddply(CaptureLion, c("Site_ID", "Site_area_m2"),
 data.table::setDT(AvgSiteLF) #makes into data.table
 data.table::setkey(CaptureLion, Site_ID) #setting a join key
 data.table::setkey(AvgSiteLF, Site_ID) #setting a join key
-CaptureLion = CaptureLion[AvgSiteLF] #left-joinging based on key
+CaptureLion = CaptureLion[AvgSiteLF] #left-joining based on key
 
 density_site <- ddply(AvgSiteLF, c("Site_ID", "Site_area_m2"),
                         summarize, SiteDens1000 = I(1000*(AvgLFSite/Site_area_m2)),
@@ -165,7 +165,7 @@ data.table::setDT(CaptureLion) #makes into data.table
 data.table::setDT(CompAvg) #makes into data.table
 data.table::setkey(CaptureLion, Site_ID) #setting a join key
 data.table::setkey(CompAvg, Site_ID) #setting a join key
-CaptureLion = CaptureLion[CompAvg] #left-joinging based on key
+CaptureLion = CaptureLion[CompAvg] #left-joining based on key
 
 new2<- subset(CaptureLion, Lionfish_size_TL >0)
 
