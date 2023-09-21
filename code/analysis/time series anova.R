@@ -1,16 +1,15 @@
 ####Time series analysis
-##repeated measure or generalized  least squares regression
+##repeated measure or generalized least squares regression
 ###analysis of time series
 library(rstatix)
 ###time in  removal
+USVIONly = read_csv(here::here('./data/clean/USVIONly.csv'))
 time.aov.time <- anova_test(data = USVIONly, Adj_min~ Date2 )
 TukeyHSD(time.aov.time)
 get_anova_table(time.aov.time)
-names(lionfish_removals)
 
 tukey_hsd(USVIONly, Adj_min~ Date2)
 
-??tukey_hsd
 # pairwise comparisons
 time_per_fish = read_csv(here::here('./data/clean/time_per_fish.csv'))
 pwc.time <- time_per_fish %>% 
