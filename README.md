@@ -8,3 +8,9 @@ Davis ACD, L Akins, C Pollock, I Lundgren, M Johnston, B Castillo II, K Reale-Mu
 
 - Code and data are being cleaned and updated for reproducibility
 - Please feel free to use and borrow from this code base according to the licence below.
+
+Shield: CC BY 4.0
+
+This work is licensed under a Creative Commons Attribution 4.0 International License.
+
+CC BY 4.0
