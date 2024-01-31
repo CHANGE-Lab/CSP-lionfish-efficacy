@@ -17,6 +17,7 @@
 library(ggplot2)
 library(cowplot)
 library(here)
+library(tidyverse)
 
 lionfish_removals = read_csv(here::here('./data/clean/lionfish_removals.csv'))
 
